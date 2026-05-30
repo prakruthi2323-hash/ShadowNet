@@ -1,0 +1,1001 @@
+cloud_event_id,cloud_provider,event_type,affected_resource,severity,region,timestamp
+1,Google Cloud,Suspicious Login,db-46.thompson.biz,Low,French Polynesia,2026-03-08 00:09:39
+2,AWS,Data Exposure,laptop-11.johnson-carter.biz,Critical,Mali,2026-04-11 17:13:20
+3,AWS,Suspicious Login,lt-39.alexander.org,Low,Australia,2026-02-12 13:36:27
+4,Google Cloud,Suspicious Login,srv-34.brown.com,Medium,Myanmar,2026-03-29 19:43:25
+5,AWS,IAM Abuse,desktop-23.horton.com,Critical,Ghana,2026-04-06 12:41:33
+6,AWS,Suspicious Login,web-79.brock-roth.info,Low,Seychelles,2026-01-22 18:54:39
+7,Google Cloud,Data Exposure,desktop-49.williams.com,Medium,Namibia,2026-02-10 18:28:16
+8,AWS,Unauthorized Access,laptop-68.schneider.com,Low,Singapore,2026-02-06 15:32:25
+9,Google Cloud,Data Exposure,desktop-98.mitchell.com,Critical,Sao Tome and Principe,2026-01-29 15:24:36
+10,Google Cloud,Data Exposure,lt-80.levine-johnson.biz,Low,Tunisia,2026-01-22 20:34:06
+11,Azure,IAM Abuse,web-45.hampton-church.org,High,Netherlands,2026-01-16 09:56:28
+12,Azure,Misconfigured Storage,db-66.anderson.com,Medium,Swaziland,2026-05-16 19:23:36
+13,AWS,Suspicious Login,srv-15.jackson-hoover.com,High,Malta,2026-04-06 04:39:48
+14,Google Cloud,Misconfigured Storage,desktop-58.wagner.com,Medium,Slovakia (Slovak Republic),2026-04-08 09:54:48
+15,AWS,IAM Abuse,srv-00.richard-parks.com,Critical,Kyrgyz Republic,2026-05-26 02:54:04
+16,Azure,Misconfigured Storage,laptop-46.khan.org,Critical,Jersey,2026-01-26 20:18:43
+17,AWS,Misconfigured Storage,srv-73.nelson.com,Critical,Lao People's Democratic Republic,2026-05-10 04:51:35
+18,Google Cloud,Data Exposure,desktop-02.sexton.org,Medium,Guyana,2026-05-09 15:00:06
+19,AWS,Unauthorized Access,laptop-06.kelley.info,Medium,Bouvet Island (Bouvetoya),2026-03-07 13:32:52
+20,Google Cloud,IAM Abuse,laptop-80.moyer-carroll.org,Medium,Saudi Arabia,2026-03-12 14:15:29
+21,AWS,Unauthorized Access,email-36.lane.com,Medium,Croatia,2026-02-03 02:30:04
+22,Google Cloud,IAM Abuse,desktop-79.solomon.com,Medium,Maldives,2026-04-07 11:58:31
+23,AWS,Suspicious Login,email-47.lopez.com,High,Pitcairn Islands,2026-02-01 07:10:56
+24,Google Cloud,Misconfigured Storage,laptop-56.martinez.com,High,Kazakhstan,2026-03-14 18:59:42
+25,AWS,IAM Abuse,srv-97.reynolds.com,Low,Russian Federation,2026-04-15 23:27:11
+26,Google Cloud,Suspicious Login,laptop-97.brown-baldwin.com,High,Gambia,2026-02-09 17:11:41
+27,Google Cloud,Misconfigured Storage,db-47.bennett.com,High,Isle of Man,2026-02-05 04:00:00
+28,AWS,Suspicious Login,lt-93.oliver.com,High,Serbia,2026-02-06 11:12:49
+29,Google Cloud,Unauthorized Access,laptop-83.wilson.biz,Low,China,2026-03-03 18:31:14
+30,AWS,Misconfigured Storage,desktop-73.roman-zavala.com,Medium,Togo,2026-01-04 15:30:47
+31,Azure,Data Exposure,email-79.hoffman.net,Medium,Nigeria,2026-02-17 05:59:57
+32,Google Cloud,Suspicious Login,db-97.moyer-tucker.com,Low,Mongolia,2026-01-24 14:54:30
+33,AWS,Unauthorized Access,email-93.lewis-kemp.org,Low,Tonga,2026-04-24 02:27:38
+34,Azure,IAM Abuse,web-20.thomas.biz,Medium,Heard Island and McDonald Islands,2026-02-09 05:44:41
+35,Azure,Misconfigured Storage,lt-00.price.com,Critical,Jersey,2026-02-10 22:16:47
+36,AWS,IAM Abuse,lt-72.benson.com,Low,Suriname,2026-05-25 15:23:42
+37,AWS,Data Exposure,laptop-25.carter-williams.com,High,Nepal,2026-04-20 22:35:14
+38,AWS,Misconfigured Storage,web-40.jacobson-dorsey.com,Medium,Sweden,2026-01-17 16:29:05
+39,AWS,Unauthorized Access,lt-31.odonnell.info,Medium,Svalbard & Jan Mayen Islands,2026-04-19 06:58:45
+40,Google Cloud,Misconfigured Storage,web-29.sanchez-johnson.net,Low,Netherlands,2026-01-09 14:18:37
+41,AWS,Unauthorized Access,lt-72.oliver-avila.com,High,Hong Kong,2026-03-19 10:45:05
+42,Azure,Misconfigured Storage,laptop-69.thompson.biz,Low,Bouvet Island (Bouvetoya),2026-03-21 22:06:50
+43,Azure,IAM Abuse,web-30.mcdonald.info,High,Djibouti,2026-04-18 05:59:00
+44,AWS,Misconfigured Storage,email-83.bennett-burns.com,High,Norfolk Island,2026-02-18 19:12:17
+45,AWS,Suspicious Login,email-31.gilbert-wilson.com,Critical,Cyprus,2026-03-01 02:37:50
+46,Google Cloud,IAM Abuse,desktop-97.richardson.com,Critical,Micronesia,2026-05-24 00:33:39
+47,Azure,Misconfigured Storage,desktop-45.lawrence.com,Medium,Korea,2026-04-06 13:22:18
+48,Google Cloud,IAM Abuse,db-31.jenkins-mccoy.com,Medium,Belize,2026-05-05 16:37:31
+49,AWS,Unauthorized Access,laptop-55.berger.net,Low,Russian Federation,2026-02-14 20:07:58
+50,Google Cloud,IAM Abuse,web-50.pacheco.com,High,Egypt,2026-04-04 08:18:54
+51,AWS,Suspicious Login,web-34.klein.org,Medium,Australia,2026-05-08 14:11:13
+52,Google Cloud,Suspicious Login,lt-34.johnson-huerta.com,Low,Belgium,2026-02-23 12:03:31
+53,Google Cloud,IAM Abuse,laptop-48.burke.com,Critical,Iraq,2026-01-22 17:24:02
+54,Azure,Misconfigured Storage,db-98.rush.com,Low,Pakistan,2026-01-24 09:32:15
+55,Azure,Data Exposure,email-48.thomas-smith.com,Critical,Madagascar,2026-04-30 02:19:58
+56,Google Cloud,Misconfigured Storage,email-79.marshall-richards.biz,Medium,Grenada,2026-03-03 17:45:54
+57,Google Cloud,Data Exposure,desktop-61.harris.com,Low,Argentina,2026-04-30 11:19:37
+58,Google Cloud,Misconfigured Storage,email-58.nunez-atkinson.com,High,Zambia,2026-04-21 13:07:06
+59,Google Cloud,Unauthorized Access,db-67.rhodes.biz,Medium,Sweden,2026-02-14 16:31:33
+60,AWS,Unauthorized Access,lt-10.jackson.com,Low,Jamaica,2026-05-25 23:16:52
+61,Google Cloud,IAM Abuse,srv-17.marshall.info,Medium,Guernsey,2026-04-17 14:20:19
+62,Google Cloud,Data Exposure,desktop-67.york.org,Critical,Hong Kong,2026-04-20 16:18:58
+63,Google Cloud,Data Exposure,db-53.hudson.info,Low,Nepal,2026-04-19 09:44:25
+64,Google Cloud,Data Exposure,lt-78.miller.com,Medium,Serbia,2026-04-07 18:50:00
+65,Azure,Suspicious Login,lt-01.flowers.org,Medium,Egypt,2026-03-02 13:43:44
+66,Azure,IAM Abuse,web-39.rosales.com,Low,Saint Martin,2026-01-29 03:45:42
+67,Azure,Misconfigured Storage,web-20.mooney.net,Low,Oman,2026-05-22 11:00:22
+68,AWS,Unauthorized Access,laptop-38.jones.com,Medium,Heard Island and McDonald Islands,2026-03-19 16:28:50
+69,Google Cloud,Misconfigured Storage,desktop-37.harmon.info,Low,Brunei Darussalam,2026-03-20 23:00:10
+70,AWS,IAM Abuse,email-53.mcknight.com,High,Albania,2026-03-25 12:34:37
+71,AWS,IAM Abuse,lt-20.allen.com,Low,Monaco,2026-04-28 00:34:26
+72,Azure,IAM Abuse,laptop-49.copeland-sparks.com,Medium,Botswana,2026-02-10 12:51:33
+73,Azure,Data Exposure,db-19.hill.biz,Critical,Armenia,2026-02-24 09:05:19
+74,Google Cloud,Data Exposure,db-93.kirby.com,Low,Madagascar,2026-03-29 10:57:54
+75,AWS,Unauthorized Access,lt-21.nguyen-hughes.com,Medium,Saudi Arabia,2026-05-25 21:11:36
+76,AWS,IAM Abuse,desktop-24.barnes.net,Critical,Lao People's Democratic Republic,2026-01-30 10:38:22
+77,AWS,IAM Abuse,web-28.greer-cole.org,Medium,China,2026-05-09 08:23:31
+78,Google Cloud,Unauthorized Access,srv-65.mason.com,Critical,Equatorial Guinea,2026-03-27 01:12:54
+79,AWS,IAM Abuse,laptop-79.conrad.com,Medium,Slovakia (Slovak Republic),2026-05-10 06:09:01
+80,Azure,Suspicious Login,desktop-64.yu.org,High,Cote d'Ivoire,2026-01-18 04:36:14
+81,Google Cloud,Misconfigured Storage,db-18.flowers.com,Low,China,2026-03-15 19:05:57
+82,Google Cloud,Misconfigured Storage,srv-28.reese.com,Critical,Monaco,2026-01-17 10:34:56
+83,Google Cloud,Data Exposure,lt-16.coleman.com,High,Jersey,2026-04-20 09:41:55
+84,Google Cloud,Suspicious Login,srv-68.keller-barnes.info,Low,Chad,2026-01-10 02:06:55
+85,AWS,Suspicious Login,db-08.grant.net,High,Cape Verde,2026-04-25 04:31:20
+86,Google Cloud,Misconfigured Storage,lt-16.payne-hill.com,Critical,Malaysia,2026-02-09 20:17:52
+87,AWS,Data Exposure,web-41.lee.com,High,Argentina,2026-02-16 01:56:10
+88,Azure,Misconfigured Storage,db-01.taylor.com,Medium,Tanzania,2026-03-02 04:54:47
+89,Google Cloud,Misconfigured Storage,web-92.thomas.org,Medium,Tokelau,2026-02-27 18:24:31
+90,Google Cloud,Data Exposure,email-84.gay.com,Medium,Qatar,2026-01-20 06:42:41
+91,Google Cloud,Misconfigured Storage,lt-10.hamilton-garcia.org,Critical,Georgia,2026-05-27 00:06:08
+92,Google Cloud,IAM Abuse,laptop-44.bullock.biz,Medium,Zambia,2026-01-12 00:46:50
+93,AWS,Unauthorized Access,srv-58.ross-terry.biz,High,Mali,2026-01-18 00:41:55
+94,Azure,IAM Abuse,srv-96.walls-ramirez.com,Low,Mauritania,2026-01-18 05:34:47
+95,Google Cloud,Suspicious Login,laptop-31.perez.com,Critical,Oman,2026-05-17 00:53:35
+96,Google Cloud,Misconfigured Storage,srv-81.owen.com,High,French Guiana,2026-04-03 23:04:31
+97,Google Cloud,Misconfigured Storage,db-75.freeman.com,Low,Finland,2026-03-26 21:20:25
+98,AWS,IAM Abuse,email-17.beasley.com,Medium,Paraguay,2026-04-25 17:49:44
+99,Google Cloud,Data Exposure,laptop-76.west-greer.net,Critical,Christmas Island,2026-04-24 01:45:29
+100,Azure,Data Exposure,lt-17.martinez.com,Medium,Bangladesh,2026-04-22 10:28:20
+101,AWS,Suspicious Login,lt-56.robinson.com,Critical,Micronesia,2026-05-11 05:24:32
+102,Azure,Unauthorized Access,email-24.scott.com,Critical,Ecuador,2026-03-08 11:38:44
+103,AWS,Unauthorized Access,lt-03.foster.com,High,Saint Pierre and Miquelon,2026-01-06 16:12:22
+104,AWS,Misconfigured Storage,srv-04.young-andrews.com,High,Faroe Islands,2026-04-24 06:24:37
+105,Google Cloud,Data Exposure,desktop-81.carter.com,High,Vanuatu,2026-01-17 13:40:09
+106,AWS,Suspicious Login,lt-99.rasmussen.com,High,Solomon Islands,2026-05-17 19:30:34
+107,AWS,Data Exposure,srv-82.torres.com,Critical,Egypt,2026-03-11 12:02:52
+108,Google Cloud,Misconfigured Storage,email-53.bonilla-mitchell.org,Low,Philippines,2026-04-09 15:11:11
+109,AWS,Unauthorized Access,db-44.kennedy-garza.com,Medium,Montenegro,2026-02-25 10:34:34
+110,Google Cloud,Unauthorized Access,email-43.phelps.com,Critical,French Polynesia,2026-01-08 03:14:10
+111,Google Cloud,Unauthorized Access,lt-24.skinner-myers.com,Medium,Djibouti,2026-03-30 07:59:00
+112,Azure,Data Exposure,email-97.patel.com,High,Armenia,2026-01-05 05:20:39
+113,Google Cloud,Suspicious Login,srv-41.arnold.com,Medium,Tunisia,2026-05-07 09:50:03
+114,Azure,Data Exposure,db-88.smith.net,Critical,El Salvador,2026-04-30 21:45:41
+115,Google Cloud,Misconfigured Storage,db-45.schmidt.net,High,Zimbabwe,2026-01-09 23:46:00
+116,Azure,Unauthorized Access,desktop-44.strong.com,Low,Guam,2026-04-22 08:09:09
+117,Google Cloud,Data Exposure,srv-66.baldwin.com,High,Djibouti,2026-03-01 05:54:06
+118,AWS,Suspicious Login,desktop-08.sullivan.biz,Medium,Barbados,2026-05-03 00:37:42
+119,AWS,Data Exposure,lt-78.blevins.net,Critical,Hong Kong,2026-01-16 05:37:29
+120,AWS,Unauthorized Access,laptop-59.fitzgerald.com,Critical,Turkey,2026-04-24 03:37:53
+121,Azure,Data Exposure,lt-22.flores-jones.org,Critical,Northern Mariana Islands,2026-01-03 22:26:09
+122,Azure,Data Exposure,email-47.ross.biz,High,Solomon Islands,2026-01-12 03:32:38
+123,Azure,Data Exposure,db-04.ray-villegas.info,Medium,Congo,2026-04-27 00:42:26
+124,Google Cloud,Misconfigured Storage,lt-51.miles.com,Low,Micronesia,2026-03-19 18:46:22
+125,Google Cloud,Misconfigured Storage,desktop-07.vargas-gentry.com,High,Morocco,2026-04-11 22:41:54
+126,AWS,Unauthorized Access,desktop-36.clarke.com,Low,Vanuatu,2026-02-09 00:43:07
+127,Google Cloud,IAM Abuse,lt-74.harper.org,Low,Belize,2026-03-19 01:20:20
+128,Azure,Data Exposure,db-90.manning-bradshaw.net,Low,Maldives,2026-02-16 05:13:01
+129,Azure,Unauthorized Access,lt-52.lewis.biz,High,Switzerland,2026-04-06 12:23:30
+130,Google Cloud,Data Exposure,srv-70.brown.com,High,Nauru,2026-05-21 22:08:29
+131,Azure,Data Exposure,srv-53.aguilar-farrell.com,Low,Bermuda,2026-02-13 06:56:45
+132,Google Cloud,IAM Abuse,lt-76.hunt-jones.com,High,Israel,2026-02-09 08:39:25
+133,Google Cloud,Data Exposure,srv-43.patterson.com,High,Thailand,2026-01-24 01:58:11
+134,Google Cloud,Suspicious Login,desktop-44.shaffer.org,Critical,Vietnam,2026-03-25 16:39:48
+135,Google Cloud,Data Exposure,email-38.pacheco.biz,Critical,Uganda,2026-01-21 16:10:38
+136,AWS,Suspicious Login,desktop-15.smith.com,Critical,Cote d'Ivoire,2026-02-07 21:49:05
+137,AWS,Misconfigured Storage,laptop-46.wood-hall.com,Low,Central African Republic,2026-03-13 05:31:14
+138,Google Cloud,Unauthorized Access,srv-69.miller.info,Critical,Andorra,2026-05-25 19:24:05
+139,AWS,IAM Abuse,lt-06.fuentes.com,High,Saint Helena,2026-04-06 08:12:31
+140,Azure,Unauthorized Access,db-61.romero.info,Critical,Uruguay,2026-01-15 10:36:49
+141,Azure,IAM Abuse,lt-89.huber.com,Medium,Iran,2026-04-18 04:28:15
+142,Google Cloud,Misconfigured Storage,lt-02.abbott.net,Critical,Aruba,2026-05-22 17:07:21
+143,Google Cloud,Data Exposure,lt-47.simmons-butler.com,Critical,Kenya,2026-04-19 06:40:29
+144,Azure,Data Exposure,desktop-85.williamson-sanchez.com,High,Slovenia,2026-01-01 23:43:54
+145,Google Cloud,IAM Abuse,db-24.bender.biz,Medium,Angola,2026-03-07 13:19:30
+146,Google Cloud,Data Exposure,desktop-47.mcdonald.info,High,Uganda,2026-03-31 04:28:06
+147,Google Cloud,IAM Abuse,web-14.jones.net,High,United States Virgin Islands,2026-05-06 09:36:46
+148,Azure,Misconfigured Storage,lt-31.berger.com,Critical,Lao People's Democratic Republic,2026-03-10 00:21:40
+149,Azure,IAM Abuse,db-57.sullivan-white.com,Critical,United Kingdom,2026-02-10 02:48:10
+150,Azure,Misconfigured Storage,desktop-86.carney-hernandez.org,Medium,Myanmar,2026-01-18 08:21:55
+151,AWS,Suspicious Login,laptop-76.conner.biz,Medium,Uganda,2026-03-03 02:01:43
+152,AWS,IAM Abuse,db-27.pearson.com,Critical,Anguilla,2026-04-24 22:56:28
+153,Azure,Data Exposure,srv-26.marquez.com,High,Cameroon,2026-03-23 17:55:17
+154,AWS,Unauthorized Access,srv-93.gilbert.net,Critical,Cocos (Keeling) Islands,2026-04-04 00:02:26
+155,Azure,IAM Abuse,lt-81.mccall.com,High,Heard Island and McDonald Islands,2026-01-21 11:14:19
+156,Google Cloud,Suspicious Login,desktop-78.herrera.biz,High,Guernsey,2026-03-02 17:46:10
+157,AWS,IAM Abuse,desktop-07.cardenas-kelley.info,Critical,Somalia,2026-03-26 01:28:14
+158,AWS,Suspicious Login,lt-01.pena-jones.com,High,Bhutan,2026-05-13 19:40:39
+159,AWS,IAM Abuse,db-29.burton.com,Critical,Monaco,2026-05-06 21:49:34
+160,Google Cloud,Misconfigured Storage,laptop-06.huffman.com,Critical,Russian Federation,2026-02-23 00:45:54
+161,Google Cloud,Data Exposure,desktop-85.sanchez-todd.com,Medium,Romania,2026-01-10 09:53:04
+162,AWS,Data Exposure,email-37.wright-alexander.com,Medium,Costa Rica,2026-03-31 01:22:07
+163,Google Cloud,Data Exposure,desktop-32.scott-king.com,Critical,Uganda,2026-03-31 06:17:45
+164,Google Cloud,Unauthorized Access,srv-11.booker.info,Critical,Gabon,2026-01-19 05:30:11
+165,Google Cloud,IAM Abuse,web-11.garcia.com,Medium,Christmas Island,2026-04-10 23:45:52
+166,Azure,Unauthorized Access,web-41.herman-phillips.com,Medium,Eritrea,2026-02-13 21:02:09
+167,Google Cloud,Suspicious Login,email-21.smith.com,Critical,Guadeloupe,2026-03-23 12:52:34
+168,Google Cloud,Suspicious Login,desktop-63.wood.com,Medium,Cameroon,2026-04-11 03:00:06
+169,AWS,Data Exposure,desktop-11.cruz.biz,Critical,Bahamas,2026-03-15 00:17:26
+170,Google Cloud,Data Exposure,web-47.riley.net,Critical,Thailand,2026-05-15 11:09:52
+171,Azure,IAM Abuse,db-93.peterson.org,Critical,Paraguay,2026-05-25 11:01:00
+172,AWS,Suspicious Login,desktop-19.rocha.info,High,Uganda,2026-04-23 00:16:08
+173,Google Cloud,Unauthorized Access,lt-53.adams.net,Low,Mozambique,2026-02-27 04:14:34
+174,AWS,Data Exposure,lt-43.rojas.com,Low,Cook Islands,2026-02-05 23:26:43
+175,Azure,Data Exposure,desktop-95.jenkins.net,High,Madagascar,2026-05-18 11:18:01
+176,AWS,Suspicious Login,email-10.miller.com,Low,Faroe Islands,2026-03-29 07:52:54
+177,Google Cloud,Data Exposure,desktop-29.jones.com,Critical,Djibouti,2026-05-23 03:48:30
+178,Google Cloud,Misconfigured Storage,db-60.jackson-chaney.org,Critical,North Macedonia,2026-04-12 00:24:26
+179,AWS,IAM Abuse,srv-48.ramirez.com,Medium,Norfolk Island,2026-02-04 04:32:32
+180,Azure,Misconfigured Storage,srv-14.valdez-bradshaw.com,Medium,Swaziland,2026-04-29 22:22:46
+181,Azure,Unauthorized Access,srv-66.lowe.com,Critical,Montserrat,2026-01-11 10:22:56
+182,Google Cloud,Suspicious Login,db-02.leonard.biz,High,Syrian Arab Republic,2026-03-23 03:41:08
+183,AWS,IAM Abuse,email-08.benson-smith.com,Critical,Honduras,2026-05-21 20:08:10
+184,Azure,Unauthorized Access,email-77.jackson.biz,Low,Japan,2026-05-09 10:04:56
+185,Google Cloud,Data Exposure,email-81.keith-stokes.com,Critical,Zambia,2026-01-28 00:46:28
+186,Azure,Misconfigured Storage,email-65.wallace.com,High,Cuba,2026-04-16 05:49:51
+187,AWS,Data Exposure,desktop-06.ryan.com,High,Svalbard & Jan Mayen Islands,2026-01-27 13:18:13
+188,AWS,Suspicious Login,web-58.gomez.com,Critical,Micronesia,2026-01-05 06:38:43
+189,AWS,Misconfigured Storage,web-08.wilson.com,Medium,Holy See (Vatican City State),2026-05-17 05:33:26
+190,AWS,Suspicious Login,db-55.yates-stevens.com,High,Equatorial Guinea,2026-03-21 19:16:44
+191,Google Cloud,Misconfigured Storage,lt-24.anderson-holloway.com,Medium,Liechtenstein,2026-02-12 23:14:25
+192,Azure,Misconfigured Storage,laptop-03.woods.com,Medium,Palestinian Territory,2026-05-09 18:42:01
+193,Azure,Unauthorized Access,web-33.berry.com,Low,Luxembourg,2026-01-06 23:35:14
+194,AWS,Unauthorized Access,web-01.parker-davis.net,Medium,Mexico,2026-02-15 23:50:36
+195,Google Cloud,Suspicious Login,laptop-74.carroll-carrillo.net,Medium,Brunei Darussalam,2026-05-13 05:22:17
+196,Google Cloud,Misconfigured Storage,email-61.wilson.biz,Critical,Estonia,2026-01-19 21:37:07
+197,AWS,Misconfigured Storage,lt-54.english.info,High,Honduras,2026-04-12 13:20:05
+198,AWS,Unauthorized Access,web-19.terry-rivera.com,High,Eritrea,2026-02-18 15:49:25
+199,Azure,IAM Abuse,srv-99.singh.biz,Critical,Jordan,2026-03-10 06:49:22
+200,Google Cloud,Unauthorized Access,lt-04.young-nelson.info,Low,Mauritius,2026-04-08 16:13:01
+201,AWS,Unauthorized Access,db-66.ellis.com,Critical,Cameroon,2026-03-17 03:31:04
+202,Google Cloud,IAM Abuse,web-28.villegas.com,Low,Sri Lanka,2026-01-12 05:55:39
+203,Google Cloud,Misconfigured Storage,email-98.ray.com,Medium,Tonga,2026-01-13 04:38:30
+204,Azure,IAM Abuse,desktop-16.ramos.com,Low,Afghanistan,2026-05-25 23:08:09
+205,Azure,IAM Abuse,desktop-03.harper-mccarty.com,Medium,Saint Helena,2026-01-04 07:46:37
+206,Google Cloud,IAM Abuse,desktop-03.montgomery-anderson.net,Low,Chile,2026-05-08 23:00:04
+207,AWS,Data Exposure,web-22.schultz.biz,Critical,North Macedonia,2026-03-14 04:45:22
+208,Google Cloud,Unauthorized Access,desktop-14.ramos-gallegos.net,High,Mayotte,2026-01-28 22:35:26
+209,Azure,Suspicious Login,db-24.torres-smith.com,Medium,El Salvador,2026-05-11 07:30:38
+210,AWS,Unauthorized Access,db-92.moore-ayers.com,Medium,Barbados,2026-05-10 17:03:57
+211,Azure,Data Exposure,lt-47.nelson-landry.biz,Medium,Ghana,2026-05-12 03:07:35
+212,Azure,Unauthorized Access,srv-75.brown-parker.org,Low,Tanzania,2026-02-19 02:18:13
+213,Google Cloud,Unauthorized Access,email-53.graham-brown.com,Low,Germany,2026-04-12 02:28:46
+214,Google Cloud,Misconfigured Storage,lt-64.lopez-dodson.com,Medium,Angola,2026-05-05 16:38:14
+215,Google Cloud,Suspicious Login,desktop-64.nguyen.com,High,Puerto Rico,2026-05-24 00:32:44
+216,Azure,Suspicious Login,desktop-88.reed-barker.com,Low,Antigua and Barbuda,2026-03-06 11:14:26
+217,AWS,Data Exposure,lt-74.gomez-webb.com,Medium,Korea,2026-01-22 00:16:04
+218,AWS,IAM Abuse,lt-59.lopez.com,Critical,Turkmenistan,2026-04-04 04:39:01
+219,Google Cloud,Unauthorized Access,desktop-73.wilson.com,High,Iraq,2026-01-11 13:04:14
+220,Google Cloud,Misconfigured Storage,desktop-81.gibbs-lucas.org,High,Mayotte,2026-03-24 02:17:35
+221,Azure,Suspicious Login,srv-60.zimmerman-walker.info,Low,Saudi Arabia,2026-02-28 12:09:08
+222,Google Cloud,IAM Abuse,web-79.lane-aguirre.com,Low,Philippines,2026-01-20 13:53:49
+223,Google Cloud,Data Exposure,laptop-35.dunn-adams.info,Low,Jersey,2026-02-07 19:21:46
+224,AWS,Misconfigured Storage,lt-89.daniels-fernandez.biz,Critical,British Virgin Islands,2026-04-24 15:03:52
+225,AWS,IAM Abuse,laptop-36.johnson.com,Medium,Kazakhstan,2026-01-15 07:40:37
+226,AWS,Misconfigured Storage,laptop-67.sweeney-odonnell.biz,Low,Bhutan,2026-04-04 11:45:11
+227,AWS,Suspicious Login,email-24.jones.info,Low,Northern Mariana Islands,2026-03-23 10:03:36
+228,AWS,Data Exposure,db-07.hughes.com,High,Congo,2026-01-20 00:54:49
+229,Azure,Suspicious Login,lt-48.obrien.com,High,Guyana,2026-04-18 18:05:47
+230,Google Cloud,Data Exposure,db-05.lopez-lee.biz,Medium,Pitcairn Islands,2026-02-18 23:09:49
+231,AWS,Unauthorized Access,laptop-07.oliver.com,Medium,Northern Mariana Islands,2026-04-27 06:36:17
+232,Azure,Suspicious Login,email-23.terry-schneider.com,High,Sudan,2026-04-21 01:37:44
+233,Google Cloud,Data Exposure,srv-04.buchanan.info,Medium,Cape Verde,2026-01-16 12:33:46
+234,Azure,IAM Abuse,web-58.moreno-pratt.com,High,Syrian Arab Republic,2026-04-02 05:49:19
+235,Azure,Data Exposure,web-06.sheppard.com,Medium,Gabon,2026-02-10 04:07:32
+236,AWS,Data Exposure,desktop-62.patterson.com,High,Romania,2026-02-25 19:19:40
+237,Azure,IAM Abuse,web-79.winters-reed.biz,Medium,China,2026-03-29 09:14:10
+238,Azure,Suspicious Login,db-81.morgan.com,High,British Virgin Islands,2026-05-20 09:48:55
+239,Google Cloud,Misconfigured Storage,db-92.duncan.com,High,El Salvador,2026-05-24 15:05:04
+240,AWS,Suspicious Login,email-87.goodman.biz,Low,Uruguay,2026-02-14 10:17:52
+241,Azure,Unauthorized Access,email-40.graves.com,High,South Georgia and the South Sandwich Islands,2026-04-25 20:51:49
+242,Azure,Unauthorized Access,desktop-90.navarro-garcia.info,Low,Mauritius,2026-04-07 03:27:12
+243,Azure,Misconfigured Storage,srv-35.hernandez.com,Critical,Rwanda,2026-01-11 08:33:53
+244,Azure,Unauthorized Access,email-61.guerra.biz,Low,Madagascar,2026-05-05 18:23:33
+245,AWS,Misconfigured Storage,web-31.anderson.com,High,Monaco,2026-01-21 06:12:49
+246,AWS,Misconfigured Storage,srv-54.johnson.org,High,Lao People's Democratic Republic,2026-01-01 12:10:16
+247,AWS,Unauthorized Access,srv-84.walls-knight.com,Medium,Tanzania,2026-01-04 16:38:46
+248,Azure,IAM Abuse,srv-63.robinson-reynolds.com,Medium,Comoros,2026-01-28 02:10:33
+249,Google Cloud,IAM Abuse,email-64.maxwell-jackson.org,Critical,Bolivia,2026-03-13 22:09:19
+250,AWS,Data Exposure,desktop-20.woods-edwards.com,Critical,South Africa,2026-03-22 13:01:55
+251,Azure,Misconfigured Storage,web-31.gibson.com,Low,British Virgin Islands,2026-04-26 06:55:36
+252,AWS,IAM Abuse,db-14.garcia.info,Medium,Haiti,2026-04-04 23:49:00
+253,AWS,Data Exposure,srv-37.velasquez-gonzalez.net,Low,Saint Lucia,2026-01-08 18:05:44
+254,Azure,Suspicious Login,web-36.moore.com,Low,Guatemala,2026-03-26 16:17:03
+255,Azure,Suspicious Login,email-44.lopez.com,Critical,Italy,2026-02-09 10:34:03
+256,Azure,IAM Abuse,lt-75.chen-wong.com,Medium,Micronesia,2026-01-30 15:11:00
+257,Google Cloud,Data Exposure,desktop-65.jackson-chavez.com,High,Niue,2026-05-16 13:55:37
+258,AWS,Data Exposure,db-85.medina.com,Medium,Mayotte,2026-04-14 07:59:48
+259,Azure,IAM Abuse,desktop-52.moore.com,Critical,Finland,2026-02-21 11:35:21
+260,Google Cloud,Data Exposure,srv-15.hammond.com,Medium,Czech Republic,2026-04-17 17:22:20
+261,Google Cloud,IAM Abuse,lt-42.jackson-miles.com,Critical,Cocos (Keeling) Islands,2026-04-09 23:17:28
+262,AWS,IAM Abuse,lt-10.romero.com,Medium,Guinea,2026-03-27 15:20:56
+263,Azure,Unauthorized Access,lt-95.serrano-johnson.com,High,Timor-Leste,2026-01-28 15:39:02
+264,Azure,Misconfigured Storage,db-81.velasquez.com,Medium,Malta,2026-02-26 14:16:26
+265,Google Cloud,IAM Abuse,web-41.maldonado.info,Low,Sweden,2026-04-23 21:03:41
+266,AWS,IAM Abuse,lt-66.watkins.com,Low,Tokelau,2026-05-25 13:14:16
+267,Azure,Misconfigured Storage,desktop-09.wilson.com,Critical,Australia,2026-03-02 09:08:14
+268,Google Cloud,Unauthorized Access,db-63.johnson-williams.com,Medium,French Polynesia,2026-02-20 17:28:05
+269,Google Cloud,Data Exposure,srv-52.smith-york.com,Critical,Nigeria,2026-02-11 22:12:31
+270,Azure,IAM Abuse,laptop-84.wilson-lara.info,Critical,Kiribati,2026-05-24 12:43:17
+271,Google Cloud,IAM Abuse,email-19.powell.com,Medium,Svalbard & Jan Mayen Islands,2026-04-23 02:38:10
+272,Azure,Suspicious Login,db-35.lang.biz,High,Guernsey,2026-01-05 18:47:01
+273,Azure,Data Exposure,lt-73.newman-white.biz,Medium,Senegal,2026-04-17 04:08:39
+274,Google Cloud,Unauthorized Access,lt-76.hammond.com,Critical,Sierra Leone,2026-05-13 10:41:26
+275,Azure,Suspicious Login,db-78.chapman.info,Critical,Netherlands Antilles,2026-05-21 08:09:55
+276,AWS,Misconfigured Storage,lt-41.lewis.com,Low,Fiji,2026-03-25 01:01:29
+277,Google Cloud,Suspicious Login,lt-40.morales.biz,Critical,Netherlands,2026-03-11 07:01:24
+278,AWS,Unauthorized Access,laptop-53.thomas.com,High,Solomon Islands,2026-05-22 08:53:46
+279,AWS,Data Exposure,desktop-63.moreno-haley.info,High,Tajikistan,2026-03-28 18:38:15
+280,Google Cloud,Misconfigured Storage,laptop-47.wade-haynes.com,Medium,Christmas Island,2026-02-27 09:40:53
+281,AWS,Data Exposure,db-59.cobb.biz,Critical,El Salvador,2026-03-30 20:51:45
+282,Google Cloud,Misconfigured Storage,srv-52.thompson.com,Critical,Ghana,2026-04-11 08:27:26
+283,Google Cloud,Unauthorized Access,db-69.travis.net,Critical,Puerto Rico,2026-02-05 23:01:24
+284,Azure,Suspicious Login,lt-75.phillips-gordon.com,Low,Eritrea,2026-02-11 05:24:43
+285,Google Cloud,Unauthorized Access,lt-07.adams-clayton.biz,Medium,Korea,2026-02-08 20:40:39
+286,Google Cloud,Unauthorized Access,srv-50.stafford.info,Medium,Cyprus,2026-03-07 14:43:31
+287,Azure,Suspicious Login,db-39.blankenship.com,Medium,British Virgin Islands,2026-04-25 06:56:58
+288,AWS,IAM Abuse,laptop-84.romero.com,Critical,Andorra,2026-03-16 09:42:28
+289,AWS,Misconfigured Storage,web-72.acosta.net,Low,Lebanon,2026-01-05 17:19:57
+290,Google Cloud,IAM Abuse,desktop-31.stewart.com,Low,Barbados,2026-01-16 06:03:15
+291,AWS,Unauthorized Access,email-08.baldwin.info,Medium,Bulgaria,2026-02-22 21:36:05
+292,Google Cloud,Suspicious Login,srv-47.reyes-nelson.com,High,Burundi,2026-05-25 04:53:42
+293,Google Cloud,Misconfigured Storage,laptop-25.lamb.com,High,New Caledonia,2026-02-25 23:08:45
+294,AWS,Suspicious Login,web-77.olsen-may.biz,Critical,Gibraltar,2026-01-14 01:40:24
+295,AWS,Misconfigured Storage,web-29.martinez-anderson.org,High,Sudan,2026-04-09 13:16:48
+296,Azure,Misconfigured Storage,desktop-18.deleon-sosa.biz,Critical,Korea,2026-03-25 13:06:34
+297,AWS,Data Exposure,web-69.white.com,Critical,Iran,2026-05-23 09:23:04
+298,AWS,Unauthorized Access,db-52.baker.com,Medium,Bermuda,2026-01-25 21:20:55
+299,AWS,Data Exposure,web-37.hendrix-williams.com,High,Sri Lanka,2026-03-03 10:11:15
+300,Azure,Unauthorized Access,laptop-32.young.biz,High,Cayman Islands,2026-01-23 08:54:09
+301,AWS,Unauthorized Access,web-68.yu-smith.com,Critical,Guernsey,2026-03-20 06:09:53
+302,AWS,Suspicious Login,email-51.rodriguez-vargas.biz,Critical,Portugal,2026-03-22 15:59:26
+303,Google Cloud,Data Exposure,db-86.shepherd-goodman.com,Low,Iran,2026-01-06 13:07:33
+304,Google Cloud,Data Exposure,lt-93.frost.com,Medium,South Africa,2026-01-19 17:14:37
+305,AWS,IAM Abuse,lt-47.stevens.com,Low,Angola,2026-02-02 00:04:09
+306,AWS,Suspicious Login,desktop-60.richardson.com,Medium,Turks and Caicos Islands,2026-05-27 03:26:34
+307,AWS,Suspicious Login,srv-97.smith.com,Medium,Oman,2026-04-14 09:50:32
+308,Google Cloud,Unauthorized Access,desktop-96.rodriguez.net,Medium,Guernsey,2026-05-13 22:20:00
+309,AWS,Unauthorized Access,email-41.thompson.com,Critical,Seychelles,2026-05-11 00:42:40
+310,Google Cloud,IAM Abuse,lt-98.smith.com,Critical,Puerto Rico,2026-04-02 19:08:50
+311,AWS,Unauthorized Access,email-44.gordon.com,Low,Uruguay,2026-01-28 23:48:40
+312,Google Cloud,Unauthorized Access,srv-65.rodriguez.info,High,El Salvador,2026-03-04 23:52:29
+313,AWS,Misconfigured Storage,desktop-84.hudson.biz,High,Montserrat,2026-01-14 11:53:06
+314,AWS,Data Exposure,laptop-23.vasquez.com,Critical,Hong Kong,2026-03-03 01:25:05
+315,AWS,Unauthorized Access,srv-76.thompson-murray.com,Low,Malawi,2026-01-08 06:15:53
+316,Azure,Unauthorized Access,web-46.thomas.com,Medium,Croatia,2026-01-08 19:45:24
+317,AWS,Unauthorized Access,srv-94.zimmerman.com,High,Belize,2026-03-17 15:55:05
+318,Azure,Suspicious Login,db-80.harris.com,Critical,Senegal,2026-03-14 21:13:34
+319,Azure,Misconfigured Storage,email-95.moss.com,High,Pakistan,2026-05-06 09:21:43
+320,AWS,IAM Abuse,srv-21.mann.com,Medium,Swaziland,2026-02-09 13:55:45
+321,Azure,Misconfigured Storage,laptop-84.fields-hardy.net,Low,Croatia,2026-01-12 03:45:31
+322,AWS,Unauthorized Access,db-67.hernandez-bailey.net,Low,New Zealand,2026-05-20 00:27:11
+323,Azure,Data Exposure,desktop-67.moore-richardson.com,Medium,Bermuda,2026-04-18 13:58:15
+324,Azure,Unauthorized Access,db-25.schmitt.info,Low,Bolivia,2026-03-31 17:09:10
+325,AWS,IAM Abuse,desktop-49.moore-miller.com,Critical,Nigeria,2026-04-25 09:44:21
+326,Google Cloud,Unauthorized Access,lt-98.knight.com,High,Tonga,2026-05-28 04:50:17
+327,Google Cloud,IAM Abuse,email-32.thompson-campbell.com,High,Kazakhstan,2026-05-07 00:28:43
+328,Google Cloud,Data Exposure,db-82.rivers-barajas.com,Medium,Austria,2026-05-20 18:53:58
+329,Azure,Suspicious Login,desktop-68.morales-ross.com,Critical,Lesotho,2026-02-05 11:40:22
+330,AWS,Data Exposure,desktop-02.rodriguez.net,Low,Israel,2026-05-18 22:53:22
+331,Google Cloud,Unauthorized Access,web-03.greer-howard.biz,Critical,Estonia,2026-03-12 00:55:56
+332,Azure,IAM Abuse,email-83.ellis.com,High,Bulgaria,2026-02-04 06:42:41
+333,AWS,IAM Abuse,email-96.smith-smith.com,Medium,Malta,2026-03-07 08:28:11
+334,Azure,IAM Abuse,laptop-10.obrien-mason.com,Critical,Belize,2026-04-06 15:02:28
+335,Google Cloud,Data Exposure,srv-25.cabrera.info,Critical,Cyprus,2026-04-27 15:12:48
+336,Google Cloud,Data Exposure,desktop-27.stevenson.com,High,Saint Helena,2026-04-12 16:20:38
+337,Azure,Unauthorized Access,db-63.anderson.com,High,Honduras,2026-02-18 00:39:46
+338,Google Cloud,Misconfigured Storage,srv-98.barrera.net,High,Tokelau,2026-05-09 00:10:08
+339,Google Cloud,Misconfigured Storage,web-08.kim-koch.com,Low,Montenegro,2026-05-15 23:03:16
+340,AWS,IAM Abuse,web-79.carrillo.info,Medium,Canada,2026-05-26 04:13:21
+341,AWS,Suspicious Login,lt-23.burgess.com,Medium,Vietnam,2026-04-18 23:33:30
+342,Google Cloud,IAM Abuse,web-51.scott.com,Medium,Bosnia and Herzegovina,2026-02-18 03:59:17
+343,Google Cloud,Misconfigured Storage,email-83.love.biz,Critical,Marshall Islands,2026-04-21 09:22:57
+344,AWS,Unauthorized Access,desktop-09.hartman.com,High,Turkey,2026-01-24 13:25:46
+345,Google Cloud,IAM Abuse,laptop-15.martinez.net,Medium,Mexico,2026-05-11 11:07:10
+346,AWS,Misconfigured Storage,laptop-07.brown-rivera.org,Critical,Spain,2026-03-12 18:58:49
+347,Azure,Suspicious Login,laptop-53.davis.biz,Critical,Bhutan,2026-02-25 01:29:45
+348,AWS,Data Exposure,lt-32.moore.com,Medium,Mayotte,2026-02-18 02:04:57
+349,Azure,IAM Abuse,email-50.spears.biz,Medium,Tonga,2026-02-17 04:17:36
+350,Azure,Suspicious Login,desktop-38.orr.com,Low,Lebanon,2026-04-21 06:57:46
+351,Google Cloud,IAM Abuse,db-19.potter.biz,Medium,Congo,2026-01-27 21:59:47
+352,AWS,Data Exposure,laptop-19.henry.biz,Low,Palau,2026-04-16 21:08:57
+353,Google Cloud,Unauthorized Access,db-63.simmons-sharp.com,High,Cameroon,2026-04-22 19:09:00
+354,Azure,Suspicious Login,web-79.cook.info,Critical,Luxembourg,2026-04-05 18:19:29
+355,Azure,Data Exposure,desktop-63.olsen.com,Low,Vietnam,2026-04-23 19:48:51
+356,Azure,Suspicious Login,web-71.conner.com,High,Denmark,2026-03-22 17:26:45
+357,Azure,Suspicious Login,lt-68.ellis.com,Critical,Kazakhstan,2026-04-08 09:50:46
+358,Azure,Suspicious Login,web-18.campbell-jones.com,Low,Cuba,2026-02-02 19:28:24
+359,AWS,Misconfigured Storage,db-76.miller.com,Critical,Sweden,2026-04-14 20:23:00
+360,Azure,Suspicious Login,srv-30.ibarra-snyder.com,High,Germany,2026-01-18 17:43:21
+361,Google Cloud,IAM Abuse,db-22.rush-davis.biz,High,Mexico,2026-03-26 07:39:04
+362,Azure,IAM Abuse,srv-86.johnson-mullins.info,Critical,Saint Martin,2026-02-13 03:30:12
+363,AWS,IAM Abuse,db-99.mayer-conner.org,Medium,Tokelau,2026-01-21 23:57:34
+364,Google Cloud,Unauthorized Access,lt-57.smith.com,Low,Wallis and Futuna,2026-04-23 10:30:18
+365,Google Cloud,Unauthorized Access,email-46.dawson.biz,Low,Northern Mariana Islands,2026-05-07 08:19:21
+366,Azure,IAM Abuse,laptop-52.perry.com,Critical,Tonga,2026-03-25 01:49:21
+367,Google Cloud,Data Exposure,laptop-52.mcclain.com,High,Djibouti,2026-04-13 19:29:40
+368,AWS,Unauthorized Access,lt-65.williams-glass.net,Medium,El Salvador,2026-02-12 09:39:48
+369,AWS,IAM Abuse,srv-53.lindsey.com,Low,Antarctica (the territory South of 60 deg S),2026-05-27 21:02:50
+370,AWS,Suspicious Login,email-14.west-little.info,Low,Greenland,2026-05-19 00:59:06
+371,AWS,Unauthorized Access,desktop-73.nelson.info,Medium,Vietnam,2026-03-21 05:22:18
+372,AWS,Unauthorized Access,desktop-49.munoz-murray.net,Low,Norway,2026-02-11 18:28:19
+373,AWS,Unauthorized Access,desktop-15.mora.info,High,Western Sahara,2026-03-27 15:07:22
+374,Google Cloud,Misconfigured Storage,email-76.randall.biz,Medium,Antarctica (the territory South of 60 deg S),2026-03-08 00:05:20
+375,Google Cloud,Suspicious Login,srv-44.brooks.com,Medium,Colombia,2026-03-31 05:14:47
+376,AWS,IAM Abuse,lt-07.diaz.com,Medium,Tanzania,2026-05-14 14:19:07
+377,Azure,IAM Abuse,db-38.fischer-martin.org,Low,Lebanon,2026-03-20 05:59:20
+378,Google Cloud,Unauthorized Access,laptop-08.strickland-hughes.com,High,Poland,2026-02-23 23:16:53
+379,AWS,Suspicious Login,email-85.fitzpatrick.com,Critical,Burundi,2026-01-07 05:03:50
+380,Azure,Misconfigured Storage,lt-30.bartlett.com,High,Bouvet Island (Bouvetoya),2026-04-21 05:50:16
+381,AWS,Misconfigured Storage,lt-33.martinez-barry.com,High,South Africa,2026-03-23 08:28:56
+382,Google Cloud,Unauthorized Access,lt-59.gutierrez-williams.com,High,Antigua and Barbuda,2026-03-17 06:07:11
+383,AWS,Data Exposure,db-77.wilson.net,Low,Bermuda,2026-01-07 13:13:02
+384,Azure,Misconfigured Storage,lt-81.doyle-cooper.com,Low,Guernsey,2026-05-11 17:41:11
+385,Google Cloud,Suspicious Login,email-93.french-vazquez.com,Medium,Nauru,2026-02-06 03:14:03
+386,AWS,IAM Abuse,srv-98.jefferson.org,Critical,Gambia,2026-01-26 13:58:03
+387,Google Cloud,IAM Abuse,laptop-43.scott.biz,Low,Guinea-Bissau,2026-04-04 23:32:28
+388,Azure,Suspicious Login,email-81.reed.com,Critical,Martinique,2026-05-07 18:40:16
+389,Google Cloud,Suspicious Login,desktop-78.briggs.com,Low,Kenya,2026-04-04 00:33:43
+390,Google Cloud,IAM Abuse,email-72.anderson.biz,Medium,Bosnia and Herzegovina,2026-03-06 03:20:53
+391,Google Cloud,Unauthorized Access,srv-03.cannon-williams.net,High,Christmas Island,2026-04-18 05:09:33
+392,Google Cloud,Data Exposure,srv-74.robertson-kim.com,High,Bulgaria,2026-05-05 04:15:03
+393,Azure,Misconfigured Storage,laptop-32.harrison.com,Low,Myanmar,2026-01-24 18:40:50
+394,Google Cloud,Data Exposure,email-34.harrell-berg.biz,Medium,Turkmenistan,2026-05-24 12:58:33
+395,AWS,Suspicious Login,laptop-59.villegas-nguyen.com,High,El Salvador,2026-01-28 07:28:12
+396,Google Cloud,Unauthorized Access,email-89.cooper.com,Medium,Turks and Caicos Islands,2026-03-15 03:49:35
+397,Google Cloud,Unauthorized Access,lt-66.harrison-merritt.com,Low,Netherlands Antilles,2026-04-16 07:14:52
+398,AWS,IAM Abuse,laptop-93.smith.com,Low,Namibia,2026-02-28 23:43:43
+399,AWS,Unauthorized Access,lt-95.grimes.com,Critical,Turkey,2026-04-01 14:11:50
+400,AWS,Data Exposure,laptop-63.glenn-boone.com,High,French Southern Territories,2026-02-26 04:35:22
+401,Google Cloud,Unauthorized Access,desktop-09.morris-maldonado.net,Medium,Comoros,2026-04-08 11:16:17
+402,AWS,Misconfigured Storage,db-16.stone.com,Critical,Canada,2026-03-24 20:09:38
+403,AWS,Data Exposure,lt-41.davis-smith.net,High,Uruguay,2026-01-12 17:44:53
+404,Google Cloud,Unauthorized Access,email-30.nolan.com,Low,Rwanda,2026-05-24 10:46:20
+405,Google Cloud,Unauthorized Access,laptop-57.lyons.net,Critical,Liechtenstein,2026-01-03 17:08:40
+406,AWS,Data Exposure,laptop-52.johns.com,High,Czech Republic,2026-02-20 17:38:03
+407,AWS,Unauthorized Access,lt-34.hanson-evans.net,Critical,Samoa,2026-02-25 15:05:14
+408,Google Cloud,IAM Abuse,web-18.allen.com,High,Montserrat,2026-04-14 04:05:37
+409,AWS,Data Exposure,desktop-41.wong.org,High,Gibraltar,2026-04-11 14:49:36
+410,Google Cloud,Suspicious Login,lt-16.smith.com,Critical,French Southern Territories,2026-04-12 01:12:42
+411,Azure,Unauthorized Access,db-37.jones-williams.biz,Medium,Congo,2026-02-06 19:42:28
+412,Azure,Data Exposure,lt-64.sanford-elliott.com,Medium,Venezuela,2026-05-25 09:09:52
+413,Azure,Unauthorized Access,srv-81.foster.info,Medium,Saint Pierre and Miquelon,2026-05-10 21:44:22
+414,Azure,Unauthorized Access,web-63.mcdaniel-rubio.com,Low,Singapore,2026-05-13 21:03:42
+415,AWS,IAM Abuse,desktop-88.reyes.biz,Medium,Bhutan,2026-01-15 07:18:52
+416,Google Cloud,Data Exposure,lt-25.black-carpenter.biz,Medium,Hong Kong,2026-05-12 01:15:19
+417,AWS,IAM Abuse,email-51.hall-beck.biz,Low,Niue,2026-03-20 08:46:41
+418,AWS,Misconfigured Storage,laptop-40.hansen-greer.com,Critical,Saint Barthelemy,2026-02-12 00:15:01
+419,Google Cloud,Misconfigured Storage,laptop-67.maynard.org,Critical,Honduras,2026-04-23 18:38:21
+420,AWS,IAM Abuse,srv-04.tate.com,High,France,2026-03-28 09:36:52
+421,AWS,Data Exposure,email-58.carroll.info,Low,Gabon,2026-02-09 06:02:47
+422,AWS,IAM Abuse,srv-48.colon.info,Medium,Lithuania,2026-04-29 05:51:05
+423,Azure,Suspicious Login,db-08.robertson-hayes.com,Low,Sierra Leone,2026-05-12 17:29:13
+424,Azure,IAM Abuse,email-90.gomez.biz,Low,Bermuda,2026-01-12 08:51:44
+425,Azure,Data Exposure,desktop-65.carroll.net,Low,Congo,2026-03-16 06:10:43
+426,Google Cloud,Unauthorized Access,laptop-22.morrow.com,High,Congo,2026-02-02 14:48:11
+427,Google Cloud,Suspicious Login,email-75.craig-white.com,Low,Saint Helena,2026-02-22 04:41:51
+428,AWS,Data Exposure,srv-12.morgan.com,Critical,Malawi,2026-04-20 17:25:55
+429,Azure,Data Exposure,desktop-99.king.com,Critical,Turks and Caicos Islands,2026-02-08 09:39:28
+430,Google Cloud,Suspicious Login,email-82.gonzalez.org,Low,Italy,2026-03-25 17:51:06
+431,AWS,Unauthorized Access,email-20.gordon.net,Critical,Kenya,2026-02-22 02:02:16
+432,Google Cloud,Suspicious Login,email-28.strong-fischer.com,Low,Greece,2026-01-05 00:06:52
+433,AWS,Misconfigured Storage,db-19.nelson.info,Low,New Zealand,2026-02-18 22:08:37
+434,AWS,Data Exposure,web-97.smith-hunter.info,Low,Egypt,2026-05-03 21:12:25
+435,Azure,Misconfigured Storage,email-02.rodriguez.com,Medium,Albania,2026-02-23 14:24:05
+436,AWS,IAM Abuse,desktop-95.lawrence.com,Low,Morocco,2026-04-18 08:08:37
+437,Azure,Data Exposure,web-20.nelson-meadows.org,High,Lao People's Democratic Republic,2026-04-05 21:54:10
+438,Azure,IAM Abuse,desktop-88.gilbert.com,Low,Hong Kong,2026-04-21 04:06:36
+439,AWS,Suspicious Login,email-99.thomas-jordan.info,High,Uganda,2026-05-04 08:12:20
+440,Google Cloud,Misconfigured Storage,email-87.frey.com,Low,Sierra Leone,2026-05-19 10:09:58
+441,Google Cloud,Data Exposure,web-57.moody.com,Low,Czech Republic,2026-04-27 03:22:35
+442,Google Cloud,Unauthorized Access,lt-96.burns-harris.net,Critical,Chile,2026-01-23 18:06:21
+443,AWS,Unauthorized Access,web-84.evans-kennedy.com,Low,Austria,2026-03-07 03:43:41
+444,Google Cloud,Misconfigured Storage,laptop-38.burke.com,Critical,Botswana,2026-01-23 14:51:38
+445,AWS,IAM Abuse,web-58.phillips.com,High,Martinique,2026-03-11 08:50:56
+446,AWS,IAM Abuse,db-25.mcdaniel-robbins.com,Critical,Bahamas,2026-02-12 12:49:46
+447,Azure,IAM Abuse,email-84.romero-marquez.org,Medium,Tanzania,2026-01-15 04:46:06
+448,AWS,Suspicious Login,email-60.riley.com,Low,Antarctica (the territory South of 60 deg S),2026-02-20 22:04:41
+449,AWS,Misconfigured Storage,lt-62.chavez.com,Critical,Kyrgyz Republic,2026-02-05 05:42:46
+450,Azure,Data Exposure,laptop-43.wilkins.com,Critical,Bouvet Island (Bouvetoya),2026-03-07 21:13:41
+451,Azure,Suspicious Login,db-52.johnston.com,High,Paraguay,2026-02-15 20:42:13
+452,AWS,Data Exposure,email-50.johnson-jones.biz,Medium,Cote d'Ivoire,2026-03-24 19:23:35
+453,AWS,Data Exposure,laptop-94.norton.com,Critical,Guinea,2026-04-01 22:01:58
+454,Azure,Misconfigured Storage,lt-94.wyatt.net,High,United Arab Emirates,2026-01-05 23:48:47
+455,AWS,Misconfigured Storage,web-17.richardson.net,Medium,Lesotho,2026-01-07 05:40:45
+456,Google Cloud,Unauthorized Access,email-56.martinez-foster.com,Medium,Hong Kong,2026-01-14 18:42:51
+457,AWS,Misconfigured Storage,email-89.wilson.com,Medium,French Southern Territories,2026-01-30 22:15:51
+458,Google Cloud,Suspicious Login,lt-53.lopez.com,Critical,Comoros,2026-01-31 14:51:06
+459,AWS,Data Exposure,desktop-05.hinton.info,Medium,Central African Republic,2026-01-21 04:57:03
+460,Azure,Data Exposure,srv-94.holland-watson.com,High,Kenya,2026-01-03 16:44:36
+461,AWS,Data Exposure,db-96.gardner.com,Medium,Brazil,2026-04-18 13:35:28
+462,AWS,IAM Abuse,lt-53.young.com,Critical,South Georgia and the South Sandwich Islands,2026-02-09 09:31:12
+463,Azure,Unauthorized Access,desktop-31.smith.com,High,Cote d'Ivoire,2026-03-11 11:27:46
+464,Google Cloud,IAM Abuse,srv-38.murphy.com,Low,Anguilla,2026-01-24 13:12:57
+465,Azure,Suspicious Login,laptop-61.willis.com,Medium,Uganda,2026-02-23 07:42:41
+466,Azure,IAM Abuse,web-63.conley.com,Medium,Swaziland,2026-05-05 07:24:04
+467,AWS,Misconfigured Storage,db-73.stewart.net,Low,Uganda,2026-02-03 21:14:05
+468,Google Cloud,Misconfigured Storage,lt-30.lawrence.com,Low,Morocco,2026-01-30 12:40:18
+469,Azure,Misconfigured Storage,lt-65.keith.biz,Medium,Zimbabwe,2026-01-04 11:51:55
+470,Azure,Unauthorized Access,email-75.livingston.com,High,Saint Pierre and Miquelon,2026-04-24 14:22:11
+471,Google Cloud,Data Exposure,lt-30.atkinson-williams.com,Medium,Venezuela,2026-01-25 16:29:27
+472,Azure,Unauthorized Access,laptop-30.malone.org,Critical,Malta,2026-05-12 05:53:54
+473,AWS,Data Exposure,db-36.riley-alvarez.info,Medium,Bermuda,2026-01-22 16:15:19
+474,AWS,Data Exposure,db-04.weber-atkins.net,Critical,Angola,2026-04-02 01:10:54
+475,Google Cloud,Unauthorized Access,lt-48.parks-williams.info,Low,Cyprus,2026-03-24 08:31:20
+476,AWS,Suspicious Login,email-12.wagner.com,Low,Benin,2026-05-19 17:57:49
+477,Azure,Suspicious Login,laptop-88.jackson.com,Low,Afghanistan,2026-03-04 23:38:25
+478,Google Cloud,IAM Abuse,srv-30.roy-stuart.com,High,Madagascar,2026-03-14 00:10:04
+479,Azure,IAM Abuse,laptop-84.braun-young.com,Medium,Germany,2026-01-19 18:29:11
+480,Google Cloud,Unauthorized Access,desktop-34.morgan.biz,Critical,Pakistan,2026-05-11 22:32:13
+481,Azure,Unauthorized Access,laptop-26.mendoza.com,Critical,Namibia,2026-01-31 04:23:10
+482,Azure,Suspicious Login,web-12.gross-rosario.info,Low,Reunion,2026-04-13 22:18:49
+483,Google Cloud,Suspicious Login,lt-32.rodriguez.com,Critical,Guatemala,2026-04-02 06:39:40
+484,AWS,IAM Abuse,email-19.mcbride.biz,High,China,2026-04-01 16:36:50
+485,Azure,Suspicious Login,srv-20.frye.net,High,Netherlands Antilles,2026-01-21 02:32:29
+486,Azure,Suspicious Login,laptop-83.mills.com,Low,Swaziland,2026-02-23 14:10:42
+487,AWS,Misconfigured Storage,email-17.davis.com,Low,Martinique,2026-04-22 06:53:23
+488,Azure,Data Exposure,web-28.morrison.info,Medium,Tonga,2026-01-31 15:21:41
+489,AWS,Misconfigured Storage,desktop-86.phillips-li.biz,Low,Korea,2026-01-21 09:03:12
+490,AWS,Data Exposure,desktop-67.lee.biz,Low,Hong Kong,2026-03-29 15:33:48
+491,Azure,Misconfigured Storage,laptop-44.hartman.com,Critical,Reunion,2026-01-27 03:00:39
+492,AWS,IAM Abuse,lt-08.fitzgerald.biz,Low,Saint Vincent and the Grenadines,2026-01-31 01:16:30
+493,AWS,Misconfigured Storage,srv-08.christian.com,Medium,Monaco,2026-04-03 19:27:51
+494,Google Cloud,Suspicious Login,desktop-05.mayer-jackson.biz,Critical,Bhutan,2026-03-11 09:41:40
+495,Google Cloud,Data Exposure,email-53.smith.com,Critical,Guinea,2026-04-29 22:40:15
+496,AWS,Data Exposure,srv-75.ellis.com,Critical,Myanmar,2026-02-01 19:58:00
+497,Google Cloud,Data Exposure,db-50.small.com,Low,Canada,2026-01-29 21:53:57
+498,Google Cloud,IAM Abuse,db-96.gonzalez.net,Critical,Poland,2026-02-05 19:17:13
+499,Azure,Unauthorized Access,db-11.schneider.com,High,Antigua and Barbuda,2026-02-08 02:27:52
+500,Azure,Data Exposure,srv-03.torres-montgomery.info,Medium,Ireland,2026-01-26 23:54:23
+501,Google Cloud,Suspicious Login,srv-62.medina.com,Medium,Cote d'Ivoire,2026-04-01 10:25:03
+502,Google Cloud,Misconfigured Storage,srv-52.juarez-aguilar.org,High,China,2026-01-21 04:13:18
+503,Azure,Suspicious Login,email-84.hinton-stewart.com,Low,Saint Barthelemy,2026-04-13 19:26:41
+504,AWS,Unauthorized Access,email-25.chen.org,Critical,Ethiopia,2026-01-16 07:50:43
+505,Google Cloud,Unauthorized Access,web-24.stout.com,Critical,United Kingdom,2026-02-21 09:18:31
+506,Azure,Suspicious Login,srv-53.maldonado.org,Low,Switzerland,2026-05-28 09:56:44
+507,Google Cloud,Unauthorized Access,web-70.crawford-mercado.com,Critical,Latvia,2026-01-11 13:29:18
+508,AWS,Suspicious Login,db-99.clark.com,Medium,Trinidad and Tobago,2026-02-21 00:50:49
+509,Azure,IAM Abuse,srv-76.palmer.com,Low,Bosnia and Herzegovina,2026-02-19 18:36:08
+510,Azure,IAM Abuse,laptop-79.stephens.com,Low,Norway,2026-04-06 14:10:26
+511,Azure,Unauthorized Access,db-16.wilson.org,Medium,Falkland Islands (Malvinas),2026-03-17 14:30:04
+512,Google Cloud,IAM Abuse,db-77.smith.org,Medium,French Polynesia,2026-03-10 10:45:28
+513,Azure,IAM Abuse,desktop-34.hernandez.info,Medium,Bouvet Island (Bouvetoya),2026-01-19 10:28:22
+514,AWS,Misconfigured Storage,email-42.maxwell.com,Medium,Monaco,2026-03-07 02:22:32
+515,Azure,Misconfigured Storage,web-25.wolf.com,Low,Liberia,2026-03-24 17:50:33
+516,AWS,Misconfigured Storage,email-32.avila.info,Medium,Guam,2026-05-03 05:31:45
+517,Google Cloud,Misconfigured Storage,lt-22.mccoy.com,Medium,Kyrgyz Republic,2026-03-12 16:46:14
+518,AWS,Data Exposure,email-91.richardson.com,High,Faroe Islands,2026-05-03 01:06:54
+519,Google Cloud,Suspicious Login,db-26.kelly.com,Low,Uzbekistan,2026-01-06 21:06:08
+520,AWS,Misconfigured Storage,email-50.martinez-carroll.com,High,Cambodia,2026-02-20 15:32:21
+521,Azure,IAM Abuse,srv-59.cantrell.net,High,Eritrea,2026-04-26 09:07:53
+522,Azure,Data Exposure,laptop-67.clark.org,High,Guinea-Bissau,2026-02-14 09:23:41
+523,Google Cloud,Misconfigured Storage,db-17.burke.net,Critical,Chad,2026-04-03 00:30:31
+524,Google Cloud,Unauthorized Access,db-79.moore.biz,Low,Montenegro,2026-01-08 16:18:34
+525,AWS,Data Exposure,email-50.weaver.com,Critical,Bahrain,2026-03-03 04:48:15
+526,Azure,Unauthorized Access,srv-71.lopez.com,Low,Solomon Islands,2026-04-18 00:11:01
+527,Google Cloud,Unauthorized Access,db-56.wright.info,Low,Wallis and Futuna,2026-02-07 19:22:33
+528,Azure,Misconfigured Storage,srv-73.franklin.com,Low,Tuvalu,2026-04-16 01:12:19
+529,AWS,Suspicious Login,laptop-25.williams.com,Low,Saint Vincent and the Grenadines,2026-01-24 15:29:47
+530,AWS,Suspicious Login,web-62.watson-white.org,High,Tonga,2026-03-03 09:00:36
+531,Azure,Suspicious Login,laptop-23.holt-alvarado.com,Low,Malawi,2026-04-08 22:11:35
+532,AWS,Unauthorized Access,db-26.carey.net,Medium,Swaziland,2026-03-20 01:30:58
+533,AWS,Suspicious Login,web-37.quinn.com,Critical,Saint Lucia,2026-05-15 20:45:01
+534,Google Cloud,IAM Abuse,email-53.mckay-kennedy.com,Low,Chile,2026-02-27 05:40:16
+535,AWS,Suspicious Login,web-61.soto-santana.org,High,Thailand,2026-05-13 01:50:29
+536,AWS,IAM Abuse,web-85.johnson.com,Medium,Finland,2026-01-06 15:29:37
+537,AWS,IAM Abuse,lt-69.schmidt.net,Low,India,2026-04-01 00:54:12
+538,Google Cloud,Unauthorized Access,lt-63.keith-brown.org,Medium,Spain,2026-03-23 06:38:41
+539,Azure,Data Exposure,db-46.parks.com,High,Mayotte,2026-02-12 07:24:19
+540,AWS,Unauthorized Access,db-51.lin.com,High,Jamaica,2026-03-09 03:26:19
+541,AWS,Misconfigured Storage,web-84.kramer.com,Low,Colombia,2026-05-04 23:58:17
+542,Azure,Data Exposure,laptop-87.osborne-gomez.com,Medium,Saint Helena,2026-03-01 08:17:47
+543,Azure,Suspicious Login,laptop-65.harrison.com,High,Cuba,2026-01-17 00:49:26
+544,Azure,Unauthorized Access,lt-49.price-walters.org,Critical,Pakistan,2026-05-26 07:00:49
+545,Azure,Data Exposure,srv-22.hamilton.com,Medium,Cape Verde,2026-05-23 22:43:14
+546,AWS,IAM Abuse,desktop-49.hanson-howard.com,Medium,Saint Martin,2026-01-24 21:32:30
+547,Google Cloud,Suspicious Login,web-81.jackson.com,Medium,China,2026-02-09 10:07:58
+548,Azure,Unauthorized Access,lt-87.miller.com,Medium,Tunisia,2026-05-11 00:46:33
+549,Azure,Data Exposure,laptop-07.aguilar-ward.info,Medium,Macao,2026-01-23 09:40:33
+550,AWS,Misconfigured Storage,lt-93.ortiz-clark.com,Low,Congo,2026-02-22 09:15:26
+551,AWS,Unauthorized Access,desktop-06.stewart-chambers.info,Medium,India,2026-03-20 07:00:46
+552,Azure,Data Exposure,web-66.huff.info,Medium,Slovakia (Slovak Republic),2026-05-12 06:40:38
+553,Azure,Unauthorized Access,email-49.cohen.net,Critical,United States Minor Outlying Islands,2026-02-07 14:54:20
+554,AWS,IAM Abuse,lt-63.martin-reese.com,Low,French Polynesia,2026-02-06 17:07:36
+555,Google Cloud,Unauthorized Access,web-11.barber-reed.com,High,Portugal,2026-02-22 18:17:35
+556,AWS,IAM Abuse,desktop-58.payne.info,Critical,Bhutan,2026-05-23 18:24:34
+557,Google Cloud,Unauthorized Access,lt-13.carter.com,Low,Sudan,2026-05-19 18:01:27
+558,AWS,Suspicious Login,srv-62.cooper.com,Medium,Gambia,2026-04-13 23:11:17
+559,Google Cloud,Unauthorized Access,srv-29.brown-white.info,Medium,San Marino,2026-02-02 06:46:30
+560,AWS,IAM Abuse,srv-85.bennett-washington.com,Low,French Southern Territories,2026-02-22 02:35:34
+561,AWS,Misconfigured Storage,db-25.lee-singh.com,Low,Paraguay,2026-02-08 20:58:32
+562,Azure,Data Exposure,desktop-19.walker.biz,Medium,Mozambique,2026-05-04 19:20:45
+563,AWS,IAM Abuse,desktop-48.lewis.com,Critical,Cook Islands,2026-01-01 11:13:44
+564,AWS,IAM Abuse,laptop-73.thompson.com,Low,Maldives,2026-05-22 07:54:21
+565,AWS,IAM Abuse,laptop-72.logan.com,Low,Bhutan,2026-05-28 07:25:57
+566,Azure,Data Exposure,laptop-79.mccullough.info,Medium,Yemen,2026-03-24 09:24:56
+567,AWS,Unauthorized Access,lt-03.grimes-taylor.org,Medium,Canada,2026-01-08 07:26:03
+568,Google Cloud,IAM Abuse,srv-71.lee-taylor.com,Critical,Iran,2026-05-01 07:42:42
+569,AWS,Unauthorized Access,lt-70.little-jimenez.com,High,Cayman Islands,2026-04-25 05:41:47
+570,Google Cloud,Data Exposure,desktop-81.moreno.org,High,Kuwait,2026-05-12 11:42:26
+571,AWS,Misconfigured Storage,desktop-08.woods.com,Medium,Togo,2026-03-18 10:30:27
+572,Azure,Data Exposure,desktop-07.travis-gonzalez.info,High,Timor-Leste,2026-03-11 05:26:42
+573,Azure,Unauthorized Access,desktop-37.gordon-krause.com,High,Mali,2026-04-17 07:02:30
+574,Azure,Suspicious Login,srv-99.stephenson.org,Low,Denmark,2026-05-13 03:03:41
+575,Azure,IAM Abuse,srv-68.barnes.com,Low,Turks and Caicos Islands,2026-01-24 09:11:22
+576,Google Cloud,Data Exposure,srv-98.deleon.com,Low,United States Virgin Islands,2026-01-14 17:32:57
+577,AWS,Data Exposure,desktop-74.mora.com,Low,Liechtenstein,2026-02-16 20:11:15
+578,Google Cloud,Misconfigured Storage,web-69.wilcox.com,Medium,Czech Republic,2026-01-05 12:28:40
+579,Google Cloud,IAM Abuse,srv-85.avila.net,High,Portugal,2026-02-03 18:35:22
+580,Google Cloud,Suspicious Login,db-48.glover.com,Low,Faroe Islands,2026-03-25 23:36:02
+581,Google Cloud,Unauthorized Access,email-83.cook.com,Critical,Guadeloupe,2026-04-04 21:33:36
+582,AWS,Data Exposure,srv-22.smith-williams.com,Critical,Ghana,2026-03-21 15:16:54
+583,AWS,Suspicious Login,desktop-46.wallace-gould.com,Critical,Benin,2026-05-18 14:30:02
+584,Google Cloud,Unauthorized Access,laptop-58.jordan-moon.biz,Medium,Mexico,2026-05-06 06:18:58
+585,Google Cloud,IAM Abuse,lt-25.flores.com,Low,Monaco,2026-04-10 22:00:38
+586,AWS,Suspicious Login,lt-54.hanna.net,Medium,Marshall Islands,2026-04-13 04:42:04
+587,Azure,Suspicious Login,email-02.haley.biz,Critical,Bahrain,2026-04-04 00:09:07
+588,Azure,Data Exposure,laptop-21.carroll-fitzgerald.com,Critical,Singapore,2026-03-18 20:07:21
+589,Google Cloud,Unauthorized Access,email-95.greene.info,Low,Albania,2026-01-11 14:09:10
+590,AWS,Suspicious Login,web-32.hernandez-gilbert.net,Low,Bolivia,2026-04-25 12:31:42
+591,Azure,IAM Abuse,srv-08.thornton-scott.info,Medium,Angola,2026-05-23 05:25:48
+592,Google Cloud,Data Exposure,desktop-22.nichols-webb.info,High,Lao People's Democratic Republic,2026-01-11 23:42:13
+593,Google Cloud,Misconfigured Storage,web-93.ross-bryan.com,Critical,Bouvet Island (Bouvetoya),2026-05-28 11:42:07
+594,Google Cloud,Misconfigured Storage,web-67.salinas.com,Critical,Myanmar,2026-02-06 09:41:47
+595,AWS,Misconfigured Storage,email-04.hall.com,High,Aruba,2026-02-17 12:30:34
+596,Google Cloud,Data Exposure,web-56.flores-johnston.com,Low,Brazil,2026-01-05 07:57:41
+597,Azure,Unauthorized Access,lt-90.ware-hester.com,Medium,United Arab Emirates,2026-02-06 15:32:24
+598,Google Cloud,Suspicious Login,email-71.morgan-kemp.net,High,Haiti,2026-02-18 15:10:32
+599,AWS,Misconfigured Storage,srv-97.jackson.com,Critical,Guernsey,2026-02-26 02:44:55
+600,Google Cloud,Unauthorized Access,lt-28.smith.com,High,Cyprus,2026-02-08 13:16:25
+601,Google Cloud,Misconfigured Storage,desktop-28.wyatt-richard.com,Critical,Venezuela,2026-04-14 14:11:32
+602,AWS,Data Exposure,db-25.shepherd.biz,High,Saint Barthelemy,2026-01-15 03:51:30
+603,Google Cloud,Unauthorized Access,desktop-31.wright.biz,Critical,Congo,2026-03-14 19:55:08
+604,AWS,Misconfigured Storage,desktop-49.douglas.com,High,Iraq,2026-04-05 22:38:47
+605,AWS,IAM Abuse,db-83.clements.com,Low,Liberia,2026-04-29 20:10:47
+606,Azure,Suspicious Login,email-56.morales.com,Low,Croatia,2026-03-22 07:39:15
+607,Azure,Data Exposure,email-55.quinn-williams.com,Low,Timor-Leste,2026-04-24 03:44:52
+608,AWS,Unauthorized Access,lt-49.nguyen-perry.com,Critical,Honduras,2026-05-27 21:23:30
+609,Google Cloud,Unauthorized Access,laptop-81.miller.com,Critical,Chile,2026-02-14 00:08:46
+610,Azure,Unauthorized Access,lt-35.dennis-scott.org,Critical,Austria,2026-05-12 06:11:46
+611,Google Cloud,IAM Abuse,email-82.king-smith.com,Critical,Uganda,2026-05-06 12:21:36
+612,Azure,Misconfigured Storage,web-44.ramirez.info,Low,Palau,2026-04-09 20:06:33
+613,Google Cloud,Misconfigured Storage,desktop-72.caldwell.net,Low,Greece,2026-01-13 19:31:13
+614,AWS,IAM Abuse,laptop-54.harrison-dougherty.com,Low,Martinique,2026-05-07 07:38:41
+615,AWS,Suspicious Login,srv-94.jackson-kerr.com,High,Lao People's Democratic Republic,2026-03-17 08:10:31
+616,AWS,Unauthorized Access,email-83.mayer-alvarez.com,High,Tokelau,2026-05-19 06:09:22
+617,Google Cloud,Data Exposure,laptop-34.soto.com,Critical,Switzerland,2026-01-28 03:11:57
+618,Azure,IAM Abuse,web-78.frey.com,High,Uzbekistan,2026-04-10 10:47:48
+619,Google Cloud,Suspicious Login,email-21.ross.com,High,Saint Pierre and Miquelon,2026-05-10 18:10:11
+620,Google Cloud,Data Exposure,desktop-56.johnston.com,Critical,Morocco,2026-02-03 02:00:22
+621,Azure,IAM Abuse,laptop-67.logan.info,Medium,Korea,2026-04-03 09:26:29
+622,Google Cloud,Misconfigured Storage,laptop-88.booker.com,Low,Australia,2026-04-04 15:40:09
+623,Google Cloud,Suspicious Login,email-67.russell.com,Low,Norway,2026-01-21 05:51:04
+624,Azure,Suspicious Login,laptop-40.tucker.com,Medium,Palestinian Territory,2026-04-13 01:42:18
+625,Azure,Misconfigured Storage,desktop-08.keller.com,High,Saint Martin,2026-01-08 23:22:05
+626,Google Cloud,Data Exposure,srv-77.nielsen-patton.org,Critical,Spain,2026-01-13 21:53:31
+627,AWS,Misconfigured Storage,db-73.diaz.org,Critical,Latvia,2026-03-21 07:26:33
+628,Google Cloud,Suspicious Login,desktop-56.gonzales.org,High,Paraguay,2026-01-28 00:34:54
+629,Azure,Unauthorized Access,web-45.brown-spencer.net,Medium,British Indian Ocean Territory (Chagos Archipelago),2026-03-02 02:42:14
+630,Google Cloud,Misconfigured Storage,srv-15.porter.com,Low,Anguilla,2026-05-15 11:36:38
+631,Google Cloud,Data Exposure,email-71.adams.com,Low,Luxembourg,2026-04-15 14:34:07
+632,Azure,Unauthorized Access,web-46.carter.com,Low,Syrian Arab Republic,2026-01-21 22:12:13
+633,AWS,IAM Abuse,lt-04.green.com,Low,Papua New Guinea,2026-05-28 01:34:08
+634,Google Cloud,Misconfigured Storage,email-28.roy.net,Low,Macao,2026-04-09 08:42:25
+635,AWS,IAM Abuse,email-37.turner.com,High,Isle of Man,2026-01-16 04:42:20
+636,AWS,Unauthorized Access,db-39.stewart-thomas.com,High,Japan,2026-01-26 02:13:10
+637,Azure,IAM Abuse,desktop-51.pace-rivera.com,Medium,Montserrat,2026-03-28 11:46:14
+638,Azure,Suspicious Login,email-76.mcmillan.biz,High,Mozambique,2026-03-29 07:20:33
+639,Google Cloud,Unauthorized Access,desktop-95.perez-molina.biz,Low,Equatorial Guinea,2026-01-22 14:06:25
+640,AWS,Data Exposure,laptop-39.cooke.com,Critical,Somalia,2026-02-28 06:58:03
+641,Azure,Unauthorized Access,web-01.morales-jimenez.info,Low,Grenada,2026-04-21 21:09:54
+642,Azure,Data Exposure,desktop-86.green-henderson.com,Low,Rwanda,2026-05-09 00:43:50
+643,Azure,IAM Abuse,web-64.martinez-byrd.biz,Low,Mongolia,2026-02-18 00:47:58
+644,Google Cloud,IAM Abuse,db-21.maldonado.com,High,Netherlands,2026-03-28 05:43:01
+645,Google Cloud,Unauthorized Access,web-11.ramsey-franklin.biz,High,Tanzania,2026-03-06 12:55:51
+646,AWS,IAM Abuse,web-25.thomas-cordova.biz,Medium,Yemen,2026-01-05 05:47:23
+647,Azure,IAM Abuse,web-95.quinn-white.com,High,Japan,2026-02-21 08:40:57
+648,Google Cloud,Misconfigured Storage,lt-33.moyer-hansen.com,Medium,Australia,2026-03-21 01:05:54
+649,Google Cloud,IAM Abuse,email-02.martinez.com,High,Saint Pierre and Miquelon,2026-05-19 09:08:11
+650,AWS,IAM Abuse,web-77.hansen.biz,Low,Bosnia and Herzegovina,2026-03-22 04:48:36
+651,Google Cloud,IAM Abuse,desktop-35.howard.com,Critical,Cameroon,2026-01-03 08:37:30
+652,AWS,Data Exposure,lt-31.prince.com,High,Slovakia (Slovak Republic),2026-05-25 10:50:48
+653,AWS,Misconfigured Storage,desktop-73.reyes.com,Medium,Japan,2026-04-07 16:37:12
+654,AWS,Unauthorized Access,srv-32.vincent-smith.com,Low,Aruba,2026-03-07 06:05:26
+655,Google Cloud,Data Exposure,lt-34.lewis-gomez.com,Critical,Bhutan,2026-02-09 12:02:04
+656,Azure,Unauthorized Access,web-06.lyons.com,Medium,Tajikistan,2026-02-20 12:04:55
+657,AWS,IAM Abuse,email-06.morris.biz,High,Mozambique,2026-02-16 22:22:48
+658,Azure,IAM Abuse,email-55.sanchez.biz,Critical,American Samoa,2026-01-17 22:23:32
+659,Google Cloud,IAM Abuse,srv-84.duke.org,Low,Uzbekistan,2026-01-24 19:38:30
+660,Azure,Data Exposure,srv-39.blackburn-ramos.com,Medium,Moldova,2026-05-09 01:01:40
+661,Azure,IAM Abuse,email-38.brewer-gray.com,Medium,Myanmar,2026-05-25 08:34:09
+662,Azure,IAM Abuse,desktop-73.cortez.org,Critical,Dominica,2026-04-11 05:51:18
+663,AWS,Data Exposure,web-73.diaz.com,High,Saint Kitts and Nevis,2026-02-26 15:44:57
+664,Azure,Misconfigured Storage,db-62.reed-morrison.net,Critical,Philippines,2026-03-04 06:54:30
+665,Google Cloud,Data Exposure,email-56.lopez.com,Medium,United Arab Emirates,2026-02-27 07:32:40
+666,Azure,IAM Abuse,laptop-18.boyle-hernandez.org,Medium,Mali,2026-04-08 11:04:30
+667,AWS,Misconfigured Storage,db-45.ward.com,High,Chile,2026-03-01 10:22:11
+668,Azure,Data Exposure,laptop-66.davis.com,Low,Netherlands,2026-05-13 14:51:56
+669,AWS,Unauthorized Access,db-88.richardson-wallace.org,Low,United Kingdom,2026-03-27 11:07:24
+670,Google Cloud,Data Exposure,srv-89.richardson-bell.com,Low,Benin,2026-04-23 12:32:28
+671,AWS,Suspicious Login,email-89.lloyd.org,High,Turkey,2026-02-20 08:48:40
+672,AWS,IAM Abuse,lt-50.meadows.org,Critical,Malta,2026-03-11 07:34:44
+673,AWS,IAM Abuse,web-81.sanchez-lee.com,High,Greece,2026-02-19 14:05:31
+674,AWS,IAM Abuse,db-72.le.biz,Low,Saint Martin,2026-05-22 21:07:37
+675,Google Cloud,Data Exposure,email-61.david.com,Critical,Italy,2026-03-20 22:17:00
+676,Google Cloud,Unauthorized Access,srv-64.jones-alvarez.com,Low,Antarctica (the territory South of 60 deg S),2026-04-17 02:37:29
+677,Google Cloud,Suspicious Login,email-76.chavez.biz,High,North Macedonia,2026-05-12 12:05:45
+678,Azure,Misconfigured Storage,srv-27.peterson.com,Critical,Palau,2026-01-09 13:51:11
+679,Azure,IAM Abuse,db-59.jackson.biz,High,British Virgin Islands,2026-04-01 18:46:06
+680,Azure,Suspicious Login,desktop-69.rose-marks.org,Critical,Mexico,2026-04-27 16:39:51
+681,Google Cloud,Suspicious Login,desktop-08.lee.org,Low,Sierra Leone,2026-01-14 20:20:59
+682,Azure,Suspicious Login,lt-43.reeves.com,High,Costa Rica,2026-04-05 02:26:33
+683,Google Cloud,Data Exposure,lt-61.ross-oconnor.com,High,Mozambique,2026-04-29 08:17:41
+684,Google Cloud,Unauthorized Access,db-52.kennedy-campbell.com,Medium,Liberia,2026-03-05 02:12:32
+685,AWS,Data Exposure,lt-29.perry-knox.com,Medium,Moldova,2026-05-11 15:54:45
+686,Google Cloud,Misconfigured Storage,email-09.norman-sparks.biz,High,Comoros,2026-05-21 22:43:45
+687,Azure,Unauthorized Access,email-73.hernandez.org,Critical,Saint Martin,2026-02-21 17:15:36
+688,Azure,Misconfigured Storage,laptop-72.ward.com,Medium,Trinidad and Tobago,2026-03-12 20:34:13
+689,Azure,Unauthorized Access,srv-58.jackson-hall.com,High,Cayman Islands,2026-01-14 11:59:37
+690,AWS,Unauthorized Access,srv-39.pittman-sparks.biz,Low,Venezuela,2026-02-22 20:10:51
+691,Google Cloud,Data Exposure,email-49.lynch-hurley.com,Medium,United Arab Emirates,2026-03-09 09:29:43
+692,Google Cloud,Unauthorized Access,lt-18.wolfe.com,Medium,Wallis and Futuna,2026-05-15 08:37:17
+693,Azure,Data Exposure,laptop-50.williams-howard.org,Medium,Botswana,2026-03-23 17:51:53
+694,Azure,Suspicious Login,email-97.rogers.biz,Critical,Afghanistan,2026-03-12 23:31:02
+695,Google Cloud,Unauthorized Access,email-18.bray.com,Low,Guatemala,2026-02-07 12:58:17
+696,AWS,Suspicious Login,lt-05.wade-miller.com,Low,Bulgaria,2026-04-03 23:34:16
+697,Azure,Unauthorized Access,email-72.olson.org,Critical,Turks and Caicos Islands,2026-05-26 12:34:37
+698,Azure,Data Exposure,srv-79.hamilton.com,Medium,Eritrea,2026-03-21 08:43:20
+699,AWS,IAM Abuse,web-59.mitchell.com,Critical,Heard Island and McDonald Islands,2026-04-06 13:29:23
+700,Azure,IAM Abuse,web-53.martinez.biz,Medium,Svalbard & Jan Mayen Islands,2026-04-19 13:02:41
+701,Google Cloud,Data Exposure,laptop-71.williams.com,Medium,Vanuatu,2026-04-16 20:18:26
+702,Azure,IAM Abuse,email-98.ramos-snyder.org,Low,Namibia,2026-02-16 21:07:35
+703,Azure,Data Exposure,srv-61.ramos.com,Low,Estonia,2026-05-07 22:05:40
+704,Google Cloud,Unauthorized Access,web-11.johnson.com,Medium,Togo,2026-05-08 12:37:58
+705,AWS,Unauthorized Access,web-73.west-rivera.biz,High,Libyan Arab Jamahiriya,2026-02-28 09:49:24
+706,Azure,Unauthorized Access,desktop-55.oconnor.com,Medium,Belarus,2026-01-20 12:55:50
+707,Azure,Misconfigured Storage,srv-74.li.com,Low,Maldives,2026-02-01 06:59:22
+708,Azure,Unauthorized Access,desktop-23.hawkins.net,Low,Palau,2026-03-11 08:21:48
+709,Azure,Misconfigured Storage,srv-55.blair.com,High,Russian Federation,2026-05-20 22:34:53
+710,AWS,IAM Abuse,desktop-51.briggs.com,High,Ethiopia,2026-05-06 01:10:00
+711,Google Cloud,Suspicious Login,email-70.young.org,Low,Montenegro,2026-01-11 10:21:17
+712,Google Cloud,Misconfigured Storage,srv-03.fields-morris.com,Medium,Iraq,2026-02-09 14:27:24
+713,Azure,Data Exposure,srv-65.rodriguez-james.com,Low,Benin,2026-05-20 20:20:11
+714,AWS,Misconfigured Storage,desktop-71.brown-peck.com,High,Honduras,2026-03-09 02:21:53
+715,Azure,Misconfigured Storage,lt-67.nichols.com,Critical,Turks and Caicos Islands,2026-02-25 11:05:03
+716,Azure,Data Exposure,laptop-18.brown.org,Medium,Finland,2026-02-15 08:55:01
+717,Google Cloud,Misconfigured Storage,db-73.randolph.info,Low,Algeria,2026-02-08 18:06:56
+718,Google Cloud,IAM Abuse,email-06.jackson.net,High,Cameroon,2026-01-12 19:42:10
+719,Azure,Unauthorized Access,desktop-64.lee.info,Low,Moldova,2026-03-31 06:19:03
+720,AWS,Data Exposure,db-75.lopez.com,Medium,Sweden,2026-03-05 06:46:36
+721,AWS,Data Exposure,lt-28.hammond.biz,High,Honduras,2026-03-28 19:19:03
+722,Azure,IAM Abuse,db-78.crawford.com,High,Libyan Arab Jamahiriya,2026-02-28 07:39:46
+723,AWS,Suspicious Login,email-58.green.com,Medium,Faroe Islands,2026-05-13 02:24:20
+724,Google Cloud,Misconfigured Storage,desktop-65.baird-bentley.biz,Low,Korea,2026-02-05 19:53:16
+725,Azure,Unauthorized Access,db-34.martin.com,Critical,Japan,2026-04-23 06:39:33
+726,Azure,IAM Abuse,email-01.fuentes.com,Critical,Niger,2026-05-17 15:53:22
+727,AWS,Misconfigured Storage,lt-74.thomas-cohen.com,High,Nepal,2026-03-22 04:28:08
+728,Google Cloud,Misconfigured Storage,srv-14.ruiz.com,High,Hong Kong,2026-03-09 07:51:57
+729,AWS,Unauthorized Access,lt-17.burgess.com,Low,Belarus,2026-05-04 20:50:56
+730,AWS,Unauthorized Access,desktop-66.peterson.com,Low,Paraguay,2026-03-06 09:31:40
+731,Azure,Data Exposure,srv-89.barnes.com,Critical,Lesotho,2026-05-13 08:28:05
+732,Azure,Data Exposure,web-63.robinson.com,Medium,Tunisia,2026-02-08 04:06:22
+733,Google Cloud,Unauthorized Access,lt-11.young-wiley.com,High,French Guiana,2026-04-17 12:33:22
+734,AWS,IAM Abuse,laptop-03.lee-johnson.com,Medium,Chad,2026-02-10 22:50:04
+735,Azure,Unauthorized Access,db-95.massey.biz,Critical,Guam,2026-01-16 07:48:33
+736,Azure,Data Exposure,web-35.valenzuela.info,Critical,Dominica,2026-01-27 13:53:05
+737,AWS,Suspicious Login,srv-70.miranda.com,High,Saint Lucia,2026-03-12 13:09:42
+738,Google Cloud,Misconfigured Storage,srv-60.walls.biz,Medium,Niue,2026-01-21 03:08:33
+739,AWS,Misconfigured Storage,lt-45.moreno.com,Medium,Jersey,2026-03-20 14:59:37
+740,Azure,Misconfigured Storage,srv-46.combs-hansen.com,Low,Falkland Islands (Malvinas),2026-01-11 14:58:58
+741,Azure,Unauthorized Access,desktop-55.roman.info,Low,Tanzania,2026-01-29 08:45:26
+742,Azure,IAM Abuse,lt-02.townsend.net,Critical,Saint Martin,2026-04-10 06:10:21
+743,Google Cloud,Misconfigured Storage,web-04.rogers.com,High,Micronesia,2026-05-10 06:27:59
+744,Google Cloud,Data Exposure,desktop-65.wilson-wall.com,Low,Haiti,2026-05-19 07:58:01
+745,Azure,Misconfigured Storage,lt-13.brooks.com,Critical,Sri Lanka,2026-01-23 19:08:19
+746,Google Cloud,Misconfigured Storage,db-90.reid.com,High,American Samoa,2026-05-06 05:21:09
+747,Azure,Misconfigured Storage,desktop-32.elliott-ortiz.com,Medium,Cook Islands,2026-01-18 06:36:02
+748,Azure,Unauthorized Access,email-10.mccann.com,High,Botswana,2026-04-04 21:14:25
+749,AWS,Data Exposure,email-75.lynch.com,Medium,Dominican Republic,2026-03-14 11:13:18
+750,Google Cloud,Data Exposure,email-05.rodriguez.org,Medium,South Africa,2026-02-17 14:11:36
+751,Azure,IAM Abuse,srv-29.mcmillan-arias.org,Low,Gabon,2026-04-06 10:08:53
+752,Google Cloud,Misconfigured Storage,desktop-00.russell.org,Critical,Tokelau,2026-05-01 08:57:02
+753,Google Cloud,Suspicious Login,db-81.barnett.com,Critical,Ethiopia,2026-04-22 08:49:14
+754,Google Cloud,Data Exposure,laptop-51.barrett.com,Critical,Vietnam,2026-03-18 09:27:49
+755,AWS,Misconfigured Storage,lt-90.wells.org,Critical,Bolivia,2026-01-31 00:36:07
+756,Azure,Misconfigured Storage,laptop-24.ballard-moore.com,High,Switzerland,2026-05-19 23:52:26
+757,AWS,Unauthorized Access,laptop-79.mcneil.com,High,Somalia,2026-05-27 17:12:47
+758,Azure,Suspicious Login,lt-38.lopez-brown.net,Critical,Cyprus,2026-02-05 14:18:03
+759,AWS,Data Exposure,srv-56.robinson-jordan.info,High,Falkland Islands (Malvinas),2026-02-16 21:56:32
+760,Google Cloud,Misconfigured Storage,email-35.taylor.net,Critical,Saint Lucia,2026-05-23 01:15:58
+761,AWS,Data Exposure,web-12.brown-white.com,Low,Moldova,2026-04-26 12:04:40
+762,AWS,Misconfigured Storage,email-26.haynes-adams.org,Medium,Korea,2026-01-08 16:13:27
+763,Google Cloud,Suspicious Login,srv-64.fisher.com,High,Jamaica,2026-02-14 01:06:19
+764,Google Cloud,IAM Abuse,web-69.mcdonald.org,Critical,Ecuador,2026-02-13 13:56:04
+765,AWS,Misconfigured Storage,db-94.johnston.com,High,Afghanistan,2026-04-04 10:27:54
+766,AWS,Suspicious Login,db-25.brooks-cunningham.com,Critical,Guernsey,2026-01-25 12:07:03
+767,Azure,Data Exposure,laptop-82.peters.biz,Critical,Saint Barthelemy,2026-03-07 17:45:03
+768,Google Cloud,Data Exposure,desktop-01.walters.org,Low,Romania,2026-03-20 05:45:56
+769,AWS,Misconfigured Storage,lt-24.holmes-rice.com,Critical,Cote d'Ivoire,2026-01-01 08:39:36
+770,Google Cloud,Misconfigured Storage,desktop-91.patel-sanchez.com,Critical,Lebanon,2026-01-30 00:57:30
+771,Azure,Misconfigured Storage,email-75.watson.info,Critical,Bouvet Island (Bouvetoya),2026-03-15 17:25:33
+772,Azure,IAM Abuse,db-94.oneill-miller.com,Critical,Croatia,2026-05-08 10:50:06
+773,Azure,IAM Abuse,email-85.edwards.com,High,Belize,2026-03-18 08:39:32
+774,AWS,Misconfigured Storage,srv-16.green.net,Critical,Western Sahara,2026-03-18 06:47:09
+775,Azure,Data Exposure,srv-20.vaughan.com,High,Jersey,2026-05-09 02:07:35
+776,AWS,IAM Abuse,email-16.crawford-smith.com,Low,British Virgin Islands,2026-05-09 22:47:57
+777,Azure,Suspicious Login,desktop-57.saunders.com,Critical,Bangladesh,2026-05-17 06:57:45
+778,Azure,Misconfigured Storage,email-27.love-mueller.com,Medium,Anguilla,2026-02-23 06:54:28
+779,Azure,Misconfigured Storage,lt-93.garcia.com,High,Lithuania,2026-04-25 23:03:13
+780,Azure,IAM Abuse,web-26.dennis.com,Critical,Estonia,2026-03-08 22:09:05
+781,AWS,Misconfigured Storage,laptop-17.hurley-fletcher.org,Low,San Marino,2026-01-16 23:37:56
+782,Azure,Misconfigured Storage,desktop-91.gregory.com,High,Indonesia,2026-03-27 21:28:02
+783,Azure,IAM Abuse,web-04.cox.net,Critical,Croatia,2026-04-04 11:03:20
+784,Google Cloud,Data Exposure,srv-05.rivera-rodgers.biz,Critical,Egypt,2026-02-15 00:36:04
+785,Azure,Misconfigured Storage,email-37.frye.com,Low,Tanzania,2026-03-03 19:00:11
+786,Google Cloud,Suspicious Login,web-41.sanders-hogan.com,Medium,Kenya,2026-04-08 19:22:05
+787,Google Cloud,Misconfigured Storage,email-17.wilson.com,Critical,Mauritania,2026-01-30 18:07:46
+788,Azure,IAM Abuse,lt-04.baker.biz,Low,Nicaragua,2026-04-28 04:46:29
+789,AWS,Suspicious Login,srv-91.jarvis.com,High,Guinea,2026-04-17 05:02:09
+790,Google Cloud,Suspicious Login,laptop-39.jones.com,High,South Africa,2026-03-10 14:21:01
+791,Azure,Misconfigured Storage,lt-17.espinoza-bell.net,Critical,Somalia,2026-01-07 02:35:16
+792,AWS,Suspicious Login,db-99.booker.com,Critical,Sudan,2026-01-17 06:12:30
+793,Google Cloud,IAM Abuse,email-51.harris-lowe.com,Medium,Montenegro,2026-04-11 11:53:13
+794,AWS,Suspicious Login,desktop-60.clark-estrada.net,Critical,Mauritania,2026-01-14 11:46:49
+795,Azure,Data Exposure,web-16.ellis.com,Medium,Thailand,2026-04-20 20:20:10
+796,Google Cloud,Suspicious Login,laptop-80.allen.info,Low,Guernsey,2026-04-30 01:07:28
+797,AWS,Data Exposure,laptop-62.everett-knapp.com,Medium,South Africa,2026-04-11 10:37:09
+798,Google Cloud,Misconfigured Storage,srv-17.thompson-robertson.com,Critical,Senegal,2026-03-04 19:41:50
+799,Google Cloud,Suspicious Login,email-24.norris.info,Medium,Ecuador,2026-05-19 17:22:37
+800,Google Cloud,IAM Abuse,desktop-79.fowler.com,Medium,Hungary,2026-03-18 04:58:29
+801,AWS,Data Exposure,lt-24.kane.com,High,Peru,2026-05-06 09:24:30
+802,Google Cloud,Data Exposure,email-96.blackwell.com,Medium,Monaco,2026-04-14 20:17:08
+803,Google Cloud,Unauthorized Access,srv-55.james-johnson.com,Critical,Uruguay,2026-01-16 23:47:17
+804,Google Cloud,Data Exposure,srv-29.mccullough-phillips.com,Medium,Guam,2026-04-30 12:01:38
+805,AWS,Misconfigured Storage,desktop-48.salinas-herrera.com,Medium,Iran,2026-04-22 09:10:12
+806,Azure,IAM Abuse,lt-57.oneill.com,High,Brazil,2026-01-15 12:54:11
+807,Google Cloud,Misconfigured Storage,lt-78.white-chen.com,Medium,Thailand,2026-03-28 02:55:30
+808,Google Cloud,Unauthorized Access,web-50.nichols.com,Medium,Botswana,2026-04-16 00:40:08
+809,Azure,Misconfigured Storage,web-67.webb-braun.com,Medium,Japan,2026-01-26 04:29:57
+810,Azure,Suspicious Login,db-17.leblanc-shannon.com,High,Vietnam,2026-04-15 05:03:18
+811,AWS,Suspicious Login,email-99.marks.net,Low,Dominica,2026-03-09 13:14:24
+812,Google Cloud,Suspicious Login,db-68.allen.info,High,Mozambique,2026-05-17 23:49:55
+813,Google Cloud,Unauthorized Access,laptop-29.davis-ortiz.net,Critical,Cote d'Ivoire,2026-05-10 21:41:32
+814,Azure,IAM Abuse,lt-45.miller.org,Low,Italy,2026-05-26 00:01:47
+815,Google Cloud,Unauthorized Access,srv-10.carpenter.com,High,Aruba,2026-01-17 14:37:27
+816,AWS,Unauthorized Access,lt-37.hernandez.com,Low,Guadeloupe,2026-04-22 05:44:01
+817,Google Cloud,Data Exposure,laptop-20.miller.com,Critical,Sao Tome and Principe,2026-05-25 18:39:01
+818,AWS,Unauthorized Access,srv-00.haynes.com,High,New Caledonia,2026-01-11 17:53:49
+819,Azure,Suspicious Login,email-18.price-castillo.net,High,Eritrea,2026-05-05 20:27:04
+820,Google Cloud,Data Exposure,lt-24.anderson.com,Low,Syrian Arab Republic,2026-05-19 12:34:06
+821,Google Cloud,Misconfigured Storage,email-50.lee-delacruz.com,Medium,Vanuatu,2026-05-20 02:19:10
+822,AWS,Misconfigured Storage,lt-25.caldwell-hayes.com,Critical,Guinea-Bissau,2026-03-27 01:50:52
+823,Azure,Suspicious Login,srv-40.morales.com,Medium,Chile,2026-04-19 15:40:12
+824,AWS,IAM Abuse,desktop-06.george.net,Critical,Belgium,2026-02-11 08:37:32
+825,Google Cloud,Misconfigured Storage,desktop-74.kaiser.com,Critical,Guinea-Bissau,2026-03-10 09:59:17
+826,AWS,Data Exposure,email-97.perry-barrett.info,Critical,Jamaica,2026-04-23 16:07:34
+827,Google Cloud,Misconfigured Storage,db-85.west-richard.biz,Low,Cambodia,2026-02-02 03:27:02
+828,AWS,Misconfigured Storage,lt-85.gomez.com,Low,Tanzania,2026-03-27 15:57:47
+829,AWS,Data Exposure,lt-55.fleming.com,High,Bhutan,2026-05-15 18:33:48
+830,AWS,Data Exposure,desktop-13.nguyen.com,Low,Wallis and Futuna,2026-04-17 09:14:01
+831,Azure,Unauthorized Access,laptop-60.wilkerson.com,Low,Tuvalu,2026-04-24 21:48:53
+832,AWS,IAM Abuse,email-93.butler-brooks.com,Low,United States of America,2026-04-24 21:45:06
+833,Google Cloud,IAM Abuse,srv-03.phillips-collins.org,Low,Australia,2026-01-02 12:52:57
+834,AWS,Suspicious Login,lt-95.mccullough.biz,Medium,Yemen,2026-05-11 06:42:52
+835,Azure,IAM Abuse,lt-49.lopez.net,Critical,Mauritania,2026-03-19 08:26:06
+836,Azure,Suspicious Login,desktop-29.torres-rodriguez.com,Critical,Montserrat,2026-03-17 20:23:20
+837,Google Cloud,Suspicious Login,email-79.sanders.org,Medium,Nicaragua,2026-03-29 05:28:08
+838,Google Cloud,IAM Abuse,db-62.flynn.com,High,Peru,2026-01-11 14:33:33
+839,AWS,IAM Abuse,srv-66.kennedy-foster.com,Critical,Haiti,2026-01-15 05:31:39
+840,Google Cloud,Misconfigured Storage,laptop-69.garcia-douglas.org,Low,Australia,2026-03-07 20:52:20
+841,AWS,Misconfigured Storage,laptop-04.hernandez-cooper.com,Low,Antigua and Barbuda,2026-04-12 22:44:06
+842,Google Cloud,IAM Abuse,db-36.anderson.com,High,Belize,2026-04-14 02:05:48
+843,Azure,IAM Abuse,desktop-51.mathews.com,High,Thailand,2026-02-03 21:00:07
+844,Google Cloud,Data Exposure,srv-20.mccann-simmons.net,High,Benin,2026-05-08 21:14:41
+845,AWS,IAM Abuse,email-57.taylor.org,Critical,Serbia,2026-04-03 20:49:36
+846,Google Cloud,Data Exposure,db-87.ortiz-houston.com,Critical,Antigua and Barbuda,2026-01-13 02:00:31
+847,Azure,Misconfigured Storage,srv-37.frank.com,Critical,South Georgia and the South Sandwich Islands,2026-03-10 15:45:57
+848,Azure,IAM Abuse,desktop-16.johnson.net,Critical,Iceland,2026-03-20 03:16:48
+849,Azure,Unauthorized Access,srv-50.graham-cox.info,Medium,Holy See (Vatican City State),2026-02-23 12:55:05
+850,Google Cloud,Suspicious Login,email-84.white-barber.com,Medium,Lithuania,2026-02-24 11:37:18
+851,Google Cloud,Unauthorized Access,srv-20.clark-parks.com,Medium,Namibia,2026-01-01 10:57:12
+852,Azure,Data Exposure,web-19.wang-hammond.com,Medium,Mexico,2026-04-21 03:31:13
+853,AWS,Unauthorized Access,laptop-26.ponce-grimes.com,Critical,Trinidad and Tobago,2026-03-21 07:44:32
+854,Google Cloud,Data Exposure,desktop-95.hurst-herrera.com,High,Philippines,2026-01-31 09:03:11
+855,Azure,Data Exposure,web-73.mcconnell.org,Critical,Cambodia,2026-05-19 06:11:05
+856,Azure,Data Exposure,laptop-78.edwards.com,Low,Zambia,2026-05-08 18:57:16
+857,Azure,Misconfigured Storage,laptop-26.alexander.org,Critical,Peru,2026-02-17 15:12:45
+858,Google Cloud,Misconfigured Storage,db-72.martin.info,Low,Burundi,2026-02-01 20:28:32
+859,Azure,Suspicious Login,web-91.waters.info,Low,Belgium,2026-01-15 21:16:28
+860,Azure,Suspicious Login,lt-39.williams.com,Medium,Georgia,2026-01-17 01:29:19
+861,Azure,IAM Abuse,email-52.hendricks-jimenez.com,Low,Bhutan,2026-01-13 23:48:09
+862,Google Cloud,Misconfigured Storage,srv-73.thomas.net,Critical,Finland,2026-04-06 22:58:40
+863,Azure,Unauthorized Access,desktop-74.keller.com,Critical,Malta,2026-03-07 19:19:35
+864,Google Cloud,Data Exposure,srv-48.vega.com,Critical,South Africa,2026-01-17 15:17:44
+865,Azure,IAM Abuse,srv-52.carter.com,Medium,Albania,2026-01-19 20:22:25
+866,AWS,Suspicious Login,desktop-68.flores.com,High,Sao Tome and Principe,2026-02-17 14:22:57
+867,Azure,Data Exposure,email-75.ellison.com,Low,Monaco,2026-01-10 13:06:14
+868,Google Cloud,Suspicious Login,lt-17.hunter-rodriguez.info,Low,Finland,2026-05-18 21:41:58
+869,Azure,Misconfigured Storage,web-30.rodriguez.com,High,Congo,2026-05-28 13:26:12
+870,Google Cloud,Suspicious Login,email-61.dennis.biz,High,Guam,2026-01-08 14:57:00
+871,Google Cloud,Misconfigured Storage,email-74.jones.com,Medium,Qatar,2026-02-15 18:52:01
+872,AWS,Suspicious Login,laptop-90.pineda-pratt.com,Medium,Libyan Arab Jamahiriya,2026-04-05 10:19:09
+873,Google Cloud,Suspicious Login,email-91.thompson.biz,Low,Grenada,2026-05-04 08:45:26
+874,AWS,IAM Abuse,db-10.nelson.com,Low,Northern Mariana Islands,2026-04-23 18:49:15
+875,Azure,Unauthorized Access,email-75.hawkins.com,High,Hungary,2026-05-12 00:26:19
+876,Azure,Misconfigured Storage,email-06.thomas.net,Critical,Gambia,2026-01-04 13:22:33
+877,Google Cloud,Data Exposure,desktop-83.martinez.com,High,Haiti,2026-02-12 03:06:39
+878,Google Cloud,Misconfigured Storage,web-89.lewis.com,High,Colombia,2026-03-17 23:45:14
+879,AWS,Misconfigured Storage,laptop-53.jones.info,Low,Azerbaijan,2026-03-14 12:55:29
+880,Google Cloud,Suspicious Login,lt-54.humphrey-harrison.biz,Medium,Iraq,2026-05-20 19:02:02
+881,Google Cloud,Misconfigured Storage,email-77.bowers.com,Low,Germany,2026-02-03 14:54:02
+882,AWS,Misconfigured Storage,srv-41.long.com,High,Lao People's Democratic Republic,2026-04-29 03:33:32
+883,AWS,Misconfigured Storage,lt-83.martin.com,Critical,Gabon,2026-01-09 17:47:04
+884,Google Cloud,IAM Abuse,desktop-47.henry.com,Medium,Western Sahara,2026-05-27 16:44:10
+885,Azure,Data Exposure,db-88.dixon.com,Critical,Algeria,2026-02-17 16:48:37
+886,AWS,Unauthorized Access,lt-67.downs.com,Medium,Isle of Man,2026-01-03 01:29:48
+887,AWS,Misconfigured Storage,email-80.turner-wilson.net,Low,Bahrain,2026-05-15 11:17:13
+888,AWS,IAM Abuse,web-58.garcia.com,Critical,Finland,2026-03-09 10:13:28
+889,Azure,Unauthorized Access,desktop-49.rodriguez.info,High,Czech Republic,2026-04-10 12:17:49
+890,Azure,Unauthorized Access,lt-24.goodman.com,Medium,Somalia,2026-02-19 14:47:40
+891,AWS,Data Exposure,lt-32.le.net,Low,Reunion,2026-04-14 18:52:06
+892,Azure,Suspicious Login,web-65.lewis.com,Medium,Luxembourg,2026-05-21 22:48:54
+893,Google Cloud,Misconfigured Storage,laptop-04.jenkins-chandler.com,Medium,Portugal,2026-03-04 10:48:59
+894,Azure,Misconfigured Storage,email-51.strickland-hill.com,Critical,Kuwait,2026-01-05 15:13:00
+895,Google Cloud,Suspicious Login,desktop-68.smith.biz,Critical,Yemen,2026-01-28 17:32:03
+896,AWS,Unauthorized Access,lt-57.ochoa.com,Medium,Qatar,2026-02-25 18:39:29
+897,AWS,Data Exposure,desktop-44.miller.com,Medium,Pakistan,2026-05-27 23:03:36
+898,Google Cloud,Data Exposure,email-49.gibson.info,Low,Slovenia,2026-01-09 20:38:12
+899,AWS,Misconfigured Storage,email-12.johnson.com,High,Saint Vincent and the Grenadines,2026-04-10 10:08:01
+900,AWS,Suspicious Login,web-42.huang-pope.biz,Critical,United States of America,2026-04-07 19:48:25
+901,Google Cloud,Unauthorized Access,laptop-03.mcbride.info,Medium,Niue,2026-03-08 04:45:27
+902,AWS,Data Exposure,desktop-46.lambert.com,High,Trinidad and Tobago,2026-03-08 03:06:36
+903,Azure,Unauthorized Access,lt-27.lewis.com,Low,Mayotte,2026-04-28 19:32:29
+904,AWS,Misconfigured Storage,lt-98.fields.net,High,Liechtenstein,2026-05-04 19:50:29
+905,AWS,Data Exposure,srv-22.chan-reynolds.com,Low,Djibouti,2026-02-17 07:30:58
+906,Google Cloud,Suspicious Login,srv-83.floyd-rodgers.org,Low,Tajikistan,2026-01-03 22:48:23
+907,Azure,Data Exposure,desktop-22.martinez-allen.org,Low,United Arab Emirates,2026-01-01 07:52:21
+908,AWS,Unauthorized Access,laptop-82.watts.com,High,Somalia,2026-05-26 04:34:29
+909,AWS,Unauthorized Access,email-94.reeves.com,Medium,Guernsey,2026-01-12 04:07:30
+910,AWS,Suspicious Login,srv-47.sherman-parsons.com,Medium,Cocos (Keeling) Islands,2026-04-24 20:04:17
+911,Google Cloud,IAM Abuse,lt-14.tran-hawkins.com,High,Bolivia,2026-01-31 10:20:24
+912,AWS,IAM Abuse,email-14.taylor.info,Critical,Bulgaria,2026-04-28 14:15:57
+913,AWS,IAM Abuse,web-48.klein.com,Low,Guam,2026-04-12 07:36:40
+914,AWS,IAM Abuse,laptop-98.johnson-johnston.org,Low,Madagascar,2026-04-19 01:36:55
+915,Google Cloud,Suspicious Login,desktop-45.wong.net,Medium,Zambia,2026-01-27 22:09:01
+916,Google Cloud,Misconfigured Storage,db-82.harris.net,Low,El Salvador,2026-02-19 07:06:00
+917,Azure,IAM Abuse,email-01.noble.com,Medium,Costa Rica,2026-03-31 14:25:56
+918,AWS,Data Exposure,web-07.kirby-ortiz.com,Low,Papua New Guinea,2026-01-29 16:29:39
+919,AWS,Suspicious Login,web-76.hernandez.com,Critical,Heard Island and McDonald Islands,2026-01-26 16:21:53
+920,Azure,IAM Abuse,srv-26.lucas-brewer.com,Medium,Vanuatu,2026-01-27 21:20:13
+921,AWS,Unauthorized Access,laptop-61.anderson-mason.com,Low,Albania,2026-01-14 20:18:16
+922,Azure,Misconfigured Storage,email-31.rivera.com,Medium,Reunion,2026-01-08 04:12:46
+923,AWS,Unauthorized Access,email-60.hardy-burgess.info,Critical,Tanzania,2026-03-05 13:56:22
+924,Google Cloud,IAM Abuse,email-72.daniel.com,Critical,Palestinian Territory,2026-03-24 21:44:45
+925,AWS,IAM Abuse,lt-14.reeves.com,Low,Ghana,2026-03-07 02:55:52
+926,Google Cloud,Unauthorized Access,web-24.gonzalez.org,High,Qatar,2026-03-31 12:46:36
+927,Azure,Misconfigured Storage,db-80.harrison.com,Critical,Jordan,2026-05-17 15:46:21
+928,AWS,Data Exposure,laptop-45.lamb.biz,High,Burkina Faso,2026-02-24 20:16:11
+929,Google Cloud,Suspicious Login,web-60.patel.com,Medium,Turkey,2026-04-28 19:34:04
+930,AWS,Suspicious Login,laptop-66.martin.com,High,Qatar,2026-05-07 12:59:28
+931,Azure,Data Exposure,srv-09.forbes-silva.com,High,Japan,2026-01-08 01:43:07
+932,Google Cloud,Data Exposure,db-96.suarez.com,Medium,Bouvet Island (Bouvetoya),2026-02-09 15:43:33
+933,Azure,Misconfigured Storage,lt-49.williams.info,Critical,United States Virgin Islands,2026-01-15 23:27:59
+934,Google Cloud,Unauthorized Access,laptop-38.hudson.com,Medium,Bangladesh,2026-05-09 07:13:53
+935,Google Cloud,Unauthorized Access,srv-65.brown.info,Critical,Armenia,2026-02-04 17:23:43
+936,AWS,Misconfigured Storage,email-58.washington.com,Low,Kiribati,2026-03-13 14:26:58
+937,AWS,Misconfigured Storage,desktop-70.miller-hill.info,Medium,Saint Vincent and the Grenadines,2026-01-02 22:22:46
+938,Azure,IAM Abuse,db-78.guzman.info,Low,Swaziland,2026-05-28 12:46:28
+939,Azure,IAM Abuse,email-83.scott.com,Medium,Benin,2026-03-12 12:54:11
+940,Google Cloud,Data Exposure,email-37.boone.biz,Low,Trinidad and Tobago,2026-01-28 21:29:02
+941,AWS,Unauthorized Access,laptop-98.jones.info,Medium,Suriname,2026-01-16 09:10:58
+942,Azure,Misconfigured Storage,db-33.garrison-flowers.com,Critical,Wallis and Futuna,2026-02-14 18:03:56
+943,Google Cloud,Suspicious Login,web-74.maldonado.net,Medium,El Salvador,2026-03-12 10:21:44
+944,AWS,IAM Abuse,email-99.mullen.com,High,Mauritius,2026-01-30 09:36:13
+945,Google Cloud,Data Exposure,db-30.smith.info,Critical,Congo,2026-02-03 10:28:04
+946,Google Cloud,Data Exposure,web-36.young.com,Low,Gibraltar,2026-01-17 12:17:38
+947,Azure,Data Exposure,email-98.anderson.com,Critical,Greece,2026-05-01 22:57:04
+948,Google Cloud,Suspicious Login,lt-33.sanchez.com,High,Brazil,2026-01-24 09:21:25
+949,Azure,Suspicious Login,email-20.graham-marquez.info,Medium,Madagascar,2026-02-11 23:58:55
+950,AWS,Data Exposure,email-18.kline-rodriguez.net,Critical,French Guiana,2026-05-26 01:02:10
+951,Azure,IAM Abuse,db-02.walton-floyd.net,Critical,Burkina Faso,2026-04-24 03:21:29
+952,AWS,Misconfigured Storage,laptop-51.rubio.com,High,Guernsey,2026-01-31 23:24:08
+953,AWS,Data Exposure,db-82.bowen.com,Critical,Saint Barthelemy,2026-03-25 05:09:41
+954,AWS,Suspicious Login,desktop-82.smith.com,High,Maldives,2026-03-12 13:56:10
+955,Azure,Unauthorized Access,desktop-00.thomas-tucker.org,High,Jordan,2026-01-22 06:36:31
+956,AWS,Misconfigured Storage,email-13.brown.com,Medium,Cameroon,2026-04-01 04:24:34
+957,Azure,Suspicious Login,desktop-29.king.org,Low,British Indian Ocean Territory (Chagos Archipelago),2026-01-06 01:36:19
+958,AWS,Misconfigured Storage,db-44.williams.com,High,Palau,2026-03-24 07:37:42
+959,Google Cloud,Data Exposure,lt-90.cohen.org,Medium,Turkmenistan,2026-02-16 22:51:51
+960,Azure,Suspicious Login,email-85.hobbs.info,Low,Saint Pierre and Miquelon,2026-03-22 10:16:57
+961,AWS,Data Exposure,srv-07.walker.biz,Critical,Austria,2026-05-15 19:44:42
+962,Google Cloud,Suspicious Login,db-88.wilson-trevino.org,High,Namibia,2026-05-19 09:51:06
+963,Azure,Unauthorized Access,desktop-33.williams-simpson.biz,High,Belarus,2026-03-29 15:29:30
+964,Azure,Data Exposure,web-66.gallagher.com,Critical,Cambodia,2026-02-21 03:06:12
+965,Azure,Suspicious Login,db-08.riley.org,Medium,Lebanon,2026-03-18 10:51:29
+966,Google Cloud,IAM Abuse,desktop-44.gutierrez.com,Low,Netherlands Antilles,2026-03-30 20:03:55
+967,Azure,Unauthorized Access,laptop-63.palmer-house.com,Critical,Portugal,2026-02-02 21:15:11
+968,AWS,Misconfigured Storage,srv-84.ellison.com,High,Philippines,2026-02-01 00:46:14
+969,AWS,Data Exposure,web-15.adams.com,High,Namibia,2026-03-02 04:47:37
+970,Google Cloud,IAM Abuse,web-65.smith.com,Medium,Luxembourg,2026-01-01 14:26:03
+971,Google Cloud,Suspicious Login,desktop-27.fisher-wilcox.com,Low,Malawi,2026-01-09 06:20:18
+972,AWS,Unauthorized Access,laptop-71.snyder-rodriguez.org,Low,Iceland,2026-03-04 02:40:39
+973,Google Cloud,Unauthorized Access,lt-81.bradley-taylor.com,High,Antarctica (the territory South of 60 deg S),2026-05-18 18:20:57
+974,Azure,IAM Abuse,email-16.lopez.com,High,Yemen,2026-02-23 05:32:34
+975,AWS,Suspicious Login,lt-02.brooks-stafford.com,Medium,United States Minor Outlying Islands,2026-01-25 20:36:35
+976,Azure,Suspicious Login,db-08.phillips.org,High,Lebanon,2026-01-07 16:58:36
+977,AWS,Unauthorized Access,lt-11.riddle.com,Critical,Faroe Islands,2026-04-26 23:17:00
+978,Azure,IAM Abuse,db-15.solis-delgado.net,Critical,Egypt,2026-01-28 13:07:51
+979,Google Cloud,Unauthorized Access,email-94.dunn-rush.com,Low,Croatia,2026-05-10 17:49:52
+980,Google Cloud,Data Exposure,db-28.ortega-boone.com,Low,Cyprus,2026-01-20 01:37:09
+981,Google Cloud,Data Exposure,email-36.gentry-clark.com,Medium,Chile,2026-03-17 19:48:41
+982,Azure,Unauthorized Access,srv-15.fleming.net,Low,Croatia,2026-04-19 06:35:02
+983,AWS,IAM Abuse,web-75.tate.info,High,Bolivia,2026-01-31 10:42:22
+984,Google Cloud,Unauthorized Access,web-39.white.biz,Critical,Papua New Guinea,2026-03-18 14:50:22
+985,AWS,Unauthorized Access,web-14.lopez.info,Low,Russian Federation,2026-04-04 02:14:14
+986,Azure,Unauthorized Access,lt-37.baldwin.com,High,British Indian Ocean Territory (Chagos Archipelago),2026-03-15 08:20:23
+987,Azure,Suspicious Login,db-74.hayes-dominguez.com,Low,Taiwan,2026-02-18 00:31:43
+988,AWS,Unauthorized Access,db-36.carey.org,Medium,Tokelau,2026-03-14 01:24:29
+989,AWS,Misconfigured Storage,lt-69.navarro.com,Critical,Tokelau,2026-04-04 18:44:56
+990,Azure,Misconfigured Storage,desktop-39.odom.com,Critical,Isle of Man,2026-04-09 12:33:50
+991,Google Cloud,Suspicious Login,srv-15.smith.biz,Medium,Mozambique,2026-02-17 18:18:37
+992,Azure,Data Exposure,lt-60.decker-good.com,Medium,Costa Rica,2026-05-07 20:17:42
+993,Google Cloud,Data Exposure,lt-20.jackson-turner.com,High,Ethiopia,2026-02-18 22:11:43
+994,Azure,Unauthorized Access,email-66.mcdonald.com,Critical,San Marino,2026-01-06 07:30:29
+995,Google Cloud,Suspicious Login,db-26.moore.info,Critical,Peru,2026-02-04 20:55:43
+996,AWS,Unauthorized Access,desktop-19.valdez.com,Low,Falkland Islands (Malvinas),2026-03-05 07:36:12
+997,Azure,Unauthorized Access,desktop-58.davis.com,High,Macao,2026-05-11 02:44:19
+998,Google Cloud,Unauthorized Access,laptop-78.young.com,Medium,Jersey,2026-04-08 20:50:33
+999,AWS,Suspicious Login,srv-01.nelson.com,High,Palestinian Territory,2026-04-26 15:30:03
+1000,AWS,IAM Abuse,db-72.berry.com,Medium,Turks and Caicos Islands,2026-03-31 02:28:20

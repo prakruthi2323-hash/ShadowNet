@@ -1,0 +1,8 @@
+pandas
+numpy
+faker
+sqlalchemy
+psycopg2
+kafka-python
+openpyxl
+psycopg2-binary

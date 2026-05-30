@@ -1,0 +1,1001 @@
+darkweb_event_id,threat_type,source_platform,country,severity,affected_organization,timestamp
+1,Compromised Accounts,Telegram,Kiribati,Low,Johnson PLC,2026-02-17 17:39:33
+2,Leaked Credentials,Marketplace,Bangladesh,High,"James, Rodriguez and Jackson",2026-02-22 20:07:00
+3,Compromised Accounts,Telegram,Saudi Arabia,Critical,Alexander Inc,2026-04-12 15:09:47
+4,Hacker Forum Mention,Telegram,China,Medium,Salazar Ltd,2026-02-02 19:40:27
+5,Leaked Credentials,Dark Forum,Angola,Critical,Burgess LLC,2026-01-19 15:22:33
+6,Leaked Credentials,Telegram,Northern Mariana Islands,Low,Blair-Jensen,2026-01-23 09:36:01
+7,Leaked Credentials,Dark Forum,Mauritania,Critical,Pitts PLC,2026-04-23 07:17:45
+8,Hacker Forum Mention,Deep Web Chat,Cook Islands,Critical,"Black, Page and Gray",2026-02-17 16:44:03
+9,Compromised Accounts,Deep Web Chat,Venezuela,Low,"Clay, Johnson and Martinez",2026-03-29 03:47:23
+10,Hacker Forum Mention,Dark Forum,Liberia,Medium,Schultz-Davis,2026-05-02 23:32:19
+11,Compromised Accounts,Deep Web Chat,Samoa,High,Johnson-Smith,2026-03-24 23:40:38
+12,Hacker Forum Mention,Marketplace,Papua New Guinea,Critical,"Humphrey, Osborn and Potter",2026-03-11 07:33:04
+13,Stolen Credit Cards,Marketplace,Ireland,Medium,Jenkins PLC,2026-03-18 04:37:47
+14,Hacker Forum Mention,Marketplace,New Zealand,High,Nichols Ltd,2026-01-30 06:03:20
+15,Compromised Accounts,Deep Web Chat,Bahrain,Low,Neal Ltd,2026-02-24 15:18:08
+16,Hacker Forum Mention,Dark Forum,Iraq,Medium,White PLC,2026-01-08 14:14:08
+17,Data Leak,Deep Web Chat,Australia,Low,Owens-Robertson,2026-03-18 21:17:58
+18,Hacker Forum Mention,Deep Web Chat,Timor-Leste,Low,"Andrade, Turner and Wilson",2026-03-29 07:21:57
+19,Leaked Credentials,Marketplace,Guinea-Bissau,Medium,Noble-Frank,2026-01-28 20:24:36
+20,Stolen Credit Cards,Deep Web Chat,Ecuador,Critical,Henry Inc,2026-03-07 22:28:05
+21,Hacker Forum Mention,Marketplace,Marshall Islands,Low,Oliver-Wright,2026-03-26 12:46:03
+22,Compromised Accounts,Marketplace,Iran,Medium,Becker LLC,2026-05-08 11:47:16
+23,Hacker Forum Mention,Deep Web Chat,Netherlands Antilles,High,"Scott, Miles and Bautista",2026-02-26 03:32:17
+24,Leaked Credentials,Telegram,Lesotho,Medium,Farley LLC,2026-02-05 06:48:24
+25,Leaked Credentials,Telegram,United States Minor Outlying Islands,Medium,Hanson-Goodman,2026-03-17 15:09:00
+26,Leaked Credentials,Marketplace,Niue,Low,Lopez LLC,2026-04-19 18:04:06
+27,Compromised Accounts,Deep Web Chat,Bangladesh,High,"Rogers, Allen and Gonzalez",2026-03-26 23:09:42
+28,Hacker Forum Mention,Deep Web Chat,Israel,Medium,Moore-Lane,2026-03-21 07:42:24
+29,Data Leak,Deep Web Chat,French Guiana,High,"Griffin, Lucas and Sanchez",2026-04-06 07:29:04
+30,Hacker Forum Mention,Marketplace,Czech Republic,Medium,Zuniga PLC,2026-02-16 06:36:13
+31,Leaked Credentials,Marketplace,Cyprus,Critical,"Taylor, Wade and Owens",2026-01-21 08:51:53
+32,Stolen Credit Cards,Dark Forum,Colombia,High,Caldwell-Gordon,2026-02-21 04:21:13
+33,Hacker Forum Mention,Dark Forum,Cameroon,High,Cummings Inc,2026-02-25 18:47:08
+34,Leaked Credentials,Telegram,Ghana,High,Davis Group,2026-03-02 22:20:56
+35,Data Leak,Telegram,Saint Barthelemy,Medium,"Kemp, Thomas and Hull",2026-03-20 02:50:13
+36,Hacker Forum Mention,Dark Forum,Madagascar,Low,Ward and Sons,2026-02-22 07:45:11
+37,Leaked Credentials,Telegram,Saint Martin,Medium,Carter-Singleton,2026-05-12 05:31:55
+38,Compromised Accounts,Telegram,Montenegro,Critical,"Pitts, Jacobs and Pearson",2026-02-26 09:53:55
+39,Stolen Credit Cards,Marketplace,Brazil,High,"Brown, Anthony and Barber",2026-05-26 12:31:47
+40,Data Leak,Marketplace,Poland,Medium,"Hamilton, Avery and Baxter",2026-02-14 15:26:45
+41,Stolen Credit Cards,Telegram,Ireland,Medium,"Anderson, Arellano and Larsen",2026-05-21 16:32:32
+42,Data Leak,Dark Forum,Tonga,Critical,"Duke, Foley and Sanders",2026-02-23 07:45:37
+43,Hacker Forum Mention,Marketplace,Netherlands Antilles,Low,"Lewis, Johnson and Mccormick",2026-03-15 23:10:48
+44,Hacker Forum Mention,Telegram,China,High,"Michael, Bush and Woodard",2026-04-27 13:37:11
+45,Leaked Credentials,Deep Web Chat,Saint Kitts and Nevis,Medium,Watson-Morales,2026-03-17 03:45:45
+46,Data Leak,Marketplace,Lao People's Democratic Republic,Low,Patel and Sons,2026-05-05 04:25:12
+47,Hacker Forum Mention,Marketplace,Uruguay,Medium,Rodriguez LLC,2026-04-08 02:39:45
+48,Stolen Credit Cards,Telegram,Niger,Low,Johnson and Sons,2026-03-22 20:41:09
+49,Hacker Forum Mention,Telegram,Ireland,High,"Morton, Martinez and Duran",2026-02-22 13:02:01
+50,Data Leak,Deep Web Chat,New Zealand,Medium,"Henson, Alvarez and Shields",2026-05-07 00:51:23
+51,Leaked Credentials,Marketplace,Chile,Low,"Hall, Lloyd and Martinez",2026-03-30 03:19:33
+52,Leaked Credentials,Telegram,Iran,High,Jackson-Coleman,2026-01-21 11:52:23
+53,Compromised Accounts,Dark Forum,Palau,Medium,"Cochran, Colon and Shepherd",2026-05-19 11:37:10
+54,Compromised Accounts,Telegram,Jersey,Medium,Shah Ltd,2026-01-19 04:21:17
+55,Stolen Credit Cards,Dark Forum,Cyprus,Medium,Lynch-Shields,2026-03-05 15:49:10
+56,Leaked Credentials,Marketplace,Belgium,High,Bartlett-Ray,2026-03-16 04:24:02
+57,Data Leak,Marketplace,Marshall Islands,Medium,Smith-Ross,2026-05-11 01:02:19
+58,Data Leak,Telegram,Czech Republic,Medium,Jennings Ltd,2026-03-25 17:33:26
+59,Stolen Credit Cards,Telegram,Egypt,Critical,"Brewer, Harris and Ortiz",2026-03-28 23:54:15
+60,Stolen Credit Cards,Dark Forum,Finland,Low,Reed-Lee,2026-02-03 05:35:58
+61,Leaked Credentials,Marketplace,French Polynesia,Low,Mercado PLC,2026-04-08 23:29:47
+62,Hacker Forum Mention,Telegram,French Guiana,Critical,Lee Ltd,2026-04-19 19:54:03
+63,Hacker Forum Mention,Marketplace,Jersey,Medium,Stewart-Vance,2026-03-28 09:08:35
+64,Stolen Credit Cards,Telegram,Romania,High,Santana-Pope,2026-05-03 03:49:01
+65,Stolen Credit Cards,Dark Forum,Iceland,Low,Thomas-Mcguire,2026-05-13 08:36:11
+66,Compromised Accounts,Dark Forum,Egypt,Critical,Freeman LLC,2026-04-14 00:13:01
+67,Data Leak,Dark Forum,Wallis and Futuna,High,Elliott Group,2026-01-21 11:35:15
+68,Hacker Forum Mention,Deep Web Chat,Palestinian Territory,Low,Villarreal LLC,2026-02-27 05:48:07
+69,Hacker Forum Mention,Telegram,Reunion,High,"Walters, Cole and Taylor",2026-03-09 09:52:19
+70,Stolen Credit Cards,Dark Forum,British Indian Ocean Territory (Chagos Archipelago),Critical,Baker LLC,2026-03-19 07:08:11
+71,Leaked Credentials,Telegram,Solomon Islands,High,"Francis, Bentley and Kelly",2026-04-05 07:20:56
+72,Stolen Credit Cards,Dark Forum,Rwanda,Low,Burke Ltd,2026-02-21 11:57:43
+73,Data Leak,Marketplace,French Polynesia,Medium,"Fisher, Salinas and Garcia",2026-04-19 17:51:52
+74,Stolen Credit Cards,Dark Forum,Kenya,Low,Bailey-Allen,2026-02-27 20:29:31
+75,Data Leak,Dark Forum,Saint Vincent and the Grenadines,Medium,Brown PLC,2026-04-29 16:21:29
+76,Compromised Accounts,Dark Forum,Niue,Critical,"Henry, Martin and Anderson",2026-05-25 16:48:37
+77,Leaked Credentials,Dark Forum,Wallis and Futuna,High,"Howell, Krueger and Byrd",2026-02-13 03:49:09
+78,Compromised Accounts,Deep Web Chat,Hong Kong,Medium,Wallace Inc,2026-04-02 22:31:39
+79,Data Leak,Telegram,Montserrat,Low,"Randolph, Pratt and Martinez",2026-01-21 12:38:34
+80,Compromised Accounts,Dark Forum,Isle of Man,Medium,"Warner, Ramos and Ward",2026-01-01 21:01:09
+81,Stolen Credit Cards,Marketplace,Haiti,Medium,Johnson-Meza,2026-05-04 04:57:41
+82,Data Leak,Dark Forum,Guinea,High,Hammond-Atkins,2026-01-02 22:24:25
+83,Stolen Credit Cards,Deep Web Chat,Tajikistan,Medium,Thomas LLC,2026-01-31 19:14:15
+84,Hacker Forum Mention,Dark Forum,Vanuatu,Medium,Ortiz-Green,2026-05-11 02:55:13
+85,Hacker Forum Mention,Dark Forum,Slovenia,Low,Santiago LLC,2026-03-09 01:43:40
+86,Hacker Forum Mention,Marketplace,Lao People's Democratic Republic,Medium,Smith-Harris,2026-04-01 14:45:54
+87,Data Leak,Telegram,Papua New Guinea,Low,Jones and Sons,2026-01-06 09:54:39
+88,Stolen Credit Cards,Deep Web Chat,Guinea-Bissau,Low,"Walker, Coleman and Thompson",2026-01-15 21:59:11
+89,Data Leak,Deep Web Chat,Paraguay,Low,Barton Inc,2026-04-01 05:59:02
+90,Leaked Credentials,Telegram,Uruguay,Critical,"Holt, Calderon and Martin",2026-05-12 08:34:55
+91,Data Leak,Marketplace,Tokelau,High,Gibson-Williams,2026-04-16 12:20:32
+92,Stolen Credit Cards,Marketplace,Equatorial Guinea,Medium,Rogers-Hall,2026-03-18 19:23:09
+93,Compromised Accounts,Telegram,Maldives,High,"Mayo, Dickerson and Bush",2026-04-26 23:15:35
+94,Data Leak,Dark Forum,Jamaica,Low,Robinson-Jensen,2026-03-17 22:05:06
+95,Data Leak,Telegram,Grenada,Low,Phillips Ltd,2026-02-24 23:02:34
+96,Stolen Credit Cards,Telegram,Georgia,Critical,Clark PLC,2026-03-21 21:17:59
+97,Hacker Forum Mention,Deep Web Chat,French Polynesia,Medium,Wolfe Inc,2026-02-06 19:51:12
+98,Stolen Credit Cards,Telegram,Nicaragua,Low,"Todd, Montoya and Smith",2026-04-07 16:39:39
+99,Compromised Accounts,Dark Forum,Luxembourg,High,"Moore, Turner and Rivas",2026-03-04 08:41:13
+100,Leaked Credentials,Deep Web Chat,Kenya,Low,Munoz Ltd,2026-05-23 13:56:40
+101,Hacker Forum Mention,Deep Web Chat,Madagascar,Low,"George, Simpson and Mcpherson",2026-03-15 22:48:19
+102,Compromised Accounts,Dark Forum,Romania,Medium,Butler-Neal,2026-04-26 20:53:05
+103,Data Leak,Marketplace,Syrian Arab Republic,Low,Morris Ltd,2026-04-10 22:23:39
+104,Compromised Accounts,Telegram,British Virgin Islands,High,Taylor Inc,2026-02-12 09:51:57
+105,Hacker Forum Mention,Marketplace,Lebanon,High,Ford Group,2026-05-20 23:30:16
+106,Hacker Forum Mention,Deep Web Chat,Qatar,Medium,Price Ltd,2026-01-10 11:15:11
+107,Data Leak,Marketplace,Estonia,High,Hanson-Garcia,2026-05-02 17:34:02
+108,Compromised Accounts,Telegram,Ecuador,Medium,Ingram and Sons,2026-05-10 01:16:25
+109,Stolen Credit Cards,Marketplace,French Southern Territories,High,Gonzalez Inc,2026-01-10 07:31:28
+110,Data Leak,Telegram,Japan,Low,Thomas-Lewis,2026-03-15 20:26:53
+111,Compromised Accounts,Dark Forum,Turkey,Low,Richardson Group,2026-03-21 06:12:58
+112,Stolen Credit Cards,Deep Web Chat,Portugal,Low,Rodriguez and Sons,2026-01-09 02:29:17
+113,Data Leak,Deep Web Chat,Bhutan,Medium,Chambers Ltd,2026-03-29 09:10:18
+114,Compromised Accounts,Marketplace,Slovakia (Slovak Republic),Critical,Davis-Dyer,2026-01-18 05:15:33
+115,Leaked Credentials,Deep Web Chat,Somalia,Low,"Stone, Smith and Singh",2026-04-03 23:33:26
+116,Hacker Forum Mention,Marketplace,Tuvalu,Low,Mcmillan-Mills,2026-04-21 12:58:38
+117,Stolen Credit Cards,Deep Web Chat,Liberia,Low,Cline Inc,2026-05-20 08:20:18
+118,Data Leak,Telegram,Israel,Low,Carter-Martin,2026-05-13 15:28:44
+119,Data Leak,Deep Web Chat,Japan,Low,"Chapman, Herrera and Pierce",2026-04-17 05:54:04
+120,Compromised Accounts,Marketplace,Guernsey,High,Jacobs-Brown,2026-04-16 02:40:53
+121,Stolen Credit Cards,Telegram,Saudi Arabia,Medium,Arellano-Bowers,2026-01-31 13:58:59
+122,Leaked Credentials,Telegram,Congo,Critical,Hernandez-Novak,2026-05-12 08:52:28
+123,Compromised Accounts,Deep Web Chat,Latvia,Critical,"Hanson, Smith and Cameron",2026-01-29 03:08:36
+124,Data Leak,Marketplace,Congo,High,"Smith, Skinner and Rodgers",2026-05-15 05:36:01
+125,Data Leak,Deep Web Chat,United States Minor Outlying Islands,High,"Rogers, Parker and Rodriguez",2026-02-05 08:58:31
+126,Stolen Credit Cards,Dark Forum,French Guiana,Low,White and Sons,2026-01-10 14:04:54
+127,Leaked Credentials,Deep Web Chat,United States of America,Medium,Mendez-Hurley,2026-05-05 08:41:34
+128,Hacker Forum Mention,Dark Forum,Tajikistan,Low,Hanson Group,2026-01-06 00:33:08
+129,Hacker Forum Mention,Dark Forum,Estonia,High,Richardson Ltd,2026-04-19 11:02:50
+130,Leaked Credentials,Dark Forum,Belgium,High,Hernandez-Ortiz,2026-01-26 01:30:06
+131,Data Leak,Telegram,Rwanda,Low,"White, Daniels and Cox",2026-02-04 02:31:58
+132,Leaked Credentials,Marketplace,Ethiopia,High,Perry and Sons,2026-03-05 10:08:09
+133,Compromised Accounts,Marketplace,Luxembourg,Medium,Banks-Martinez,2026-02-06 00:45:24
+134,Stolen Credit Cards,Dark Forum,Korea,Critical,"Jacobs, Evans and Barr",2026-05-11 13:35:18
+135,Compromised Accounts,Telegram,Heard Island and McDonald Islands,High,Larson Inc,2026-04-04 23:34:24
+136,Hacker Forum Mention,Dark Forum,Anguilla,High,"Hudson, Hall and Cox",2026-04-30 21:17:12
+137,Stolen Credit Cards,Telegram,Trinidad and Tobago,High,Allen Ltd,2026-04-20 00:52:34
+138,Compromised Accounts,Marketplace,Gambia,Critical,Patton-Martinez,2026-01-23 02:09:53
+139,Stolen Credit Cards,Telegram,Romania,High,"Leonard, White and Lynn",2026-01-07 11:47:50
+140,Data Leak,Marketplace,Jamaica,Critical,Smith-Miles,2026-01-16 11:59:28
+141,Leaked Credentials,Dark Forum,Monaco,High,"Rivera, Nguyen and Lindsey",2026-05-28 12:12:14
+142,Hacker Forum Mention,Dark Forum,Latvia,Medium,Miller-Coleman,2026-03-22 22:41:05
+143,Compromised Accounts,Telegram,United Kingdom,Low,"Brown, Jackson and Payne",2026-05-20 01:38:37
+144,Stolen Credit Cards,Deep Web Chat,Austria,Low,Miller and Sons,2026-04-08 08:08:55
+145,Hacker Forum Mention,Dark Forum,Guyana,Medium,Fuentes PLC,2026-03-21 08:53:47
+146,Leaked Credentials,Deep Web Chat,Vanuatu,Medium,"Thomas, Lee and Wright",2026-05-18 03:02:03
+147,Leaked Credentials,Dark Forum,Cambodia,Critical,Ayers-Kelly,2026-02-28 18:20:23
+148,Leaked Credentials,Deep Web Chat,Poland,Critical,Peters-Bailey,2026-03-10 06:41:56
+149,Data Leak,Telegram,Gambia,Critical,Williamson Inc,2026-02-12 17:52:28
+150,Hacker Forum Mention,Deep Web Chat,Palau,High,Kennedy Inc,2026-02-03 17:46:27
+151,Compromised Accounts,Marketplace,Pitcairn Islands,High,Ashley-Arnold,2026-05-11 02:15:33
+152,Leaked Credentials,Deep Web Chat,Nepal,High,Archer Ltd,2026-01-08 16:37:37
+153,Data Leak,Dark Forum,Pitcairn Islands,Critical,Ford-Decker,2026-05-27 04:16:17
+154,Compromised Accounts,Dark Forum,Cocos (Keeling) Islands,Critical,Parker-Ponce,2026-01-28 08:23:38
+155,Hacker Forum Mention,Deep Web Chat,Puerto Rico,Low,"Johnson, Hernandez and Ryan",2026-01-02 11:27:17
+156,Stolen Credit Cards,Telegram,Montserrat,Low,Edwards Group,2026-01-15 05:17:59
+157,Stolen Credit Cards,Dark Forum,Cyprus,Low,Taylor-Taylor,2026-04-10 15:37:17
+158,Data Leak,Marketplace,Zimbabwe,Medium,"Bell, Hoffman and Perkins",2026-02-10 07:29:06
+159,Leaked Credentials,Deep Web Chat,United Arab Emirates,High,Rodriguez Group,2026-04-30 10:31:04
+160,Stolen Credit Cards,Telegram,Finland,Critical,"Compton, Scott and Hamilton",2026-03-19 04:27:30
+161,Stolen Credit Cards,Telegram,Hungary,Low,Lopez and Sons,2026-05-06 18:12:49
+162,Hacker Forum Mention,Dark Forum,Serbia,Low,"Salas, Mcdowell and Smith",2026-05-19 09:03:08
+163,Compromised Accounts,Telegram,France,Low,Warren and Sons,2026-04-17 02:54:09
+164,Compromised Accounts,Marketplace,Puerto Rico,Low,Cortez Inc,2026-03-20 07:36:59
+165,Hacker Forum Mention,Deep Web Chat,Montserrat,High,"Robinson, Riley and Escobar",2026-01-09 01:57:04
+166,Stolen Credit Cards,Dark Forum,Lesotho,Low,Gonzales-Ortiz,2026-04-02 14:03:30
+167,Leaked Credentials,Dark Forum,Dominican Republic,Critical,"Crawford, Rogers and Smith",2026-04-12 19:02:06
+168,Stolen Credit Cards,Deep Web Chat,Maldives,Medium,Villarreal Group,2026-01-30 22:33:10
+169,Stolen Credit Cards,Telegram,Western Sahara,High,"Wu, Vargas and Lynch",2026-04-05 02:08:55
+170,Hacker Forum Mention,Deep Web Chat,Afghanistan,Medium,"Porter, Lopez and Phillips",2026-02-26 18:20:50
+171,Stolen Credit Cards,Telegram,Saudi Arabia,High,"Short, Williams and Kennedy",2026-01-10 04:07:14
+172,Leaked Credentials,Deep Web Chat,Morocco,Critical,Ortega and Sons,2026-02-10 01:09:28
+173,Hacker Forum Mention,Deep Web Chat,Cook Islands,Critical,Ashley-Hogan,2026-04-18 10:34:29
+174,Data Leak,Dark Forum,Dominica,High,"Oliver, Williams and Mercer",2026-02-25 07:44:31
+175,Compromised Accounts,Telegram,Liechtenstein,Low,"Romero, Castro and Brown",2026-01-28 07:50:32
+176,Compromised Accounts,Marketplace,China,High,"Schmitt, Mccall and Salazar",2026-01-27 18:16:37
+177,Hacker Forum Mention,Dark Forum,Liberia,Critical,"Walter, Graham and Lutz",2026-03-18 21:47:04
+178,Hacker Forum Mention,Dark Forum,Bermuda,Medium,May-Moody,2026-02-08 18:46:51
+179,Compromised Accounts,Marketplace,Saint Kitts and Nevis,Low,"Mcdonald, Lopez and Reynolds",2026-04-24 04:34:55
+180,Stolen Credit Cards,Dark Forum,Christmas Island,Critical,"White, Walters and Smith",2026-03-07 05:03:42
+181,Leaked Credentials,Telegram,Guinea-Bissau,Critical,"Miller, Pierce and Oneal",2026-02-14 09:45:19
+182,Leaked Credentials,Deep Web Chat,Belarus,Critical,Brown Ltd,2026-05-22 15:15:01
+183,Leaked Credentials,Marketplace,Benin,Low,Decker-May,2026-05-06 10:33:41
+184,Data Leak,Dark Forum,Pakistan,Critical,Bailey-Coffey,2026-05-18 22:57:01
+185,Data Leak,Deep Web Chat,North Macedonia,Low,Lopez-Joyce,2026-03-07 03:24:39
+186,Leaked Credentials,Deep Web Chat,Singapore,Critical,Moody-Pratt,2026-03-30 20:33:36
+187,Data Leak,Dark Forum,Pitcairn Islands,High,Cook Inc,2026-04-17 05:47:28
+188,Stolen Credit Cards,Dark Forum,Turkmenistan,Medium,Cole-Snyder,2026-02-05 03:03:59
+189,Stolen Credit Cards,Deep Web Chat,Maldives,Low,Anderson-Lopez,2026-03-02 22:28:08
+190,Stolen Credit Cards,Marketplace,French Polynesia,Critical,Navarro LLC,2026-05-08 18:18:55
+191,Compromised Accounts,Marketplace,Mexico,Critical,"Ross, Henderson and Archer",2026-05-16 02:58:10
+192,Stolen Credit Cards,Dark Forum,Uzbekistan,High,Dominguez Inc,2026-04-09 19:13:16
+193,Data Leak,Marketplace,San Marino,Low,Dodson-Livingston,2026-01-10 00:29:38
+194,Data Leak,Dark Forum,Germany,Medium,"Ortega, Harper and Archer",2026-03-03 05:47:31
+195,Hacker Forum Mention,Telegram,Cape Verde,Medium,"Banks, Shepard and Owens",2026-02-04 20:16:48
+196,Compromised Accounts,Dark Forum,Antarctica (the territory South of 60 deg S),High,"Powers, Rojas and Walters",2026-05-21 08:05:47
+197,Data Leak,Dark Forum,Malta,Critical,"Moore, Wiley and Payne",2026-02-19 13:20:00
+198,Compromised Accounts,Deep Web Chat,Iran,Critical,"Jones, Kelly and Contreras",2026-04-12 10:52:24
+199,Compromised Accounts,Dark Forum,Falkland Islands (Malvinas),Medium,Hunt-Brooks,2026-04-19 17:39:16
+200,Leaked Credentials,Dark Forum,Congo,Critical,"Jones, Hall and White",2026-04-21 12:03:08
+201,Leaked Credentials,Marketplace,Svalbard & Jan Mayen Islands,High,"Maxwell, Fields and Farmer",2026-05-01 09:20:35
+202,Hacker Forum Mention,Telegram,Montserrat,Critical,Santiago-Maddox,2026-05-02 19:28:25
+203,Compromised Accounts,Dark Forum,British Virgin Islands,Low,Welch Group,2026-03-26 11:52:44
+204,Leaked Credentials,Deep Web Chat,Guinea,Medium,Morse Ltd,2026-05-07 19:47:14
+205,Hacker Forum Mention,Marketplace,Philippines,Low,Williams and Sons,2026-05-04 00:17:24
+206,Compromised Accounts,Marketplace,Spain,Medium,"Hill, Sharp and Moreno",2026-05-22 16:36:37
+207,Leaked Credentials,Deep Web Chat,Heard Island and McDonald Islands,Critical,"Hardy, Johnson and Roth",2026-03-13 17:42:52
+208,Leaked Credentials,Telegram,Gabon,High,"Boyer, Woods and Guerra",2026-03-25 08:11:43
+209,Compromised Accounts,Deep Web Chat,Marshall Islands,High,"Smith, Porter and Sutton",2026-02-15 02:17:17
+210,Compromised Accounts,Telegram,Pitcairn Islands,Critical,Ray-Mcdonald,2026-03-16 10:20:42
+211,Hacker Forum Mention,Telegram,Slovenia,Low,Thompson-Watkins,2026-03-02 21:09:22
+212,Compromised Accounts,Deep Web Chat,Mauritania,Low,Bentley-Bass,2026-05-01 13:32:35
+213,Hacker Forum Mention,Marketplace,Bangladesh,Critical,"Jones, Zimmerman and Shepard",2026-05-25 20:54:52
+214,Data Leak,Telegram,Belgium,Medium,Walsh PLC,2026-01-31 00:33:05
+215,Leaked Credentials,Dark Forum,Zimbabwe,High,Stafford-Vargas,2026-03-01 20:35:38
+216,Compromised Accounts,Telegram,United States Virgin Islands,Medium,Choi-Lee,2026-01-20 05:30:25
+217,Hacker Forum Mention,Telegram,Malaysia,Critical,Cook-Griffin,2026-02-15 07:29:20
+218,Hacker Forum Mention,Dark Forum,Cuba,Low,White-Villarreal,2026-05-15 04:17:38
+219,Stolen Credit Cards,Marketplace,Marshall Islands,Critical,Finley-Rocha,2026-04-29 07:16:05
+220,Leaked Credentials,Telegram,South Georgia and the South Sandwich Islands,Critical,Black Group,2026-02-14 20:14:16
+221,Leaked Credentials,Marketplace,South Georgia and the South Sandwich Islands,Critical,Peters Group,2026-04-09 23:14:44
+222,Leaked Credentials,Telegram,Costa Rica,Critical,"Johnson, Hayes and Frederick",2026-01-27 14:19:21
+223,Compromised Accounts,Dark Forum,Lesotho,Critical,"Day, Thomas and Zuniga",2026-01-06 04:23:08
+224,Compromised Accounts,Deep Web Chat,British Virgin Islands,Low,"Smith, Garza and Norman",2026-04-28 16:28:54
+225,Data Leak,Marketplace,Mali,Medium,Taylor PLC,2026-04-28 00:56:22
+226,Data Leak,Marketplace,Mayotte,Critical,Atkinson Ltd,2026-01-08 12:16:42
+227,Stolen Credit Cards,Deep Web Chat,Greece,High,"Fleming, Yang and Schmidt",2026-02-20 11:24:39
+228,Leaked Credentials,Telegram,British Virgin Islands,Medium,Raymond-Collier,2026-03-02 13:15:28
+229,Compromised Accounts,Telegram,South Africa,Medium,"Johnson, Jones and Powers",2026-04-12 23:45:30
+230,Hacker Forum Mention,Telegram,Bahrain,Critical,"Marshall, Mack and Jennings",2026-05-10 10:12:34
+231,Data Leak,Telegram,Saint Helena,Low,Stewart Inc,2026-05-24 14:12:15
+232,Leaked Credentials,Marketplace,Nepal,Medium,Rice and Sons,2026-04-01 11:38:30
+233,Leaked Credentials,Marketplace,Mauritania,Critical,Shaw and Sons,2026-01-16 21:57:32
+234,Stolen Credit Cards,Deep Web Chat,Saint Barthelemy,Low,"Lewis, Grant and Abbott",2026-03-15 16:32:24
+235,Compromised Accounts,Deep Web Chat,Holy See (Vatican City State),Critical,"Washington, Martin and Thomas",2026-03-06 03:02:18
+236,Compromised Accounts,Deep Web Chat,Bahrain,Critical,"Thompson, Davenport and Jones",2026-03-25 10:29:35
+237,Data Leak,Telegram,Malta,Critical,"Davila, Patterson and Wade",2026-03-15 23:39:08
+238,Leaked Credentials,Dark Forum,Latvia,Critical,Crawford LLC,2026-03-24 10:14:45
+239,Stolen Credit Cards,Marketplace,Saint Pierre and Miquelon,High,Bailey Ltd,2026-05-06 05:11:47
+240,Hacker Forum Mention,Dark Forum,Botswana,Critical,Valentine Group,2026-04-02 20:26:28
+241,Leaked Credentials,Telegram,Lao People's Democratic Republic,Low,"Marsh, Hoover and Calhoun",2026-03-15 18:33:22
+242,Stolen Credit Cards,Telegram,Slovakia (Slovak Republic),Critical,Hoover LLC,2026-05-17 03:42:08
+243,Compromised Accounts,Deep Web Chat,Papua New Guinea,Low,"Mckee, Munoz and Kelly",2026-03-22 12:30:14
+244,Data Leak,Dark Forum,Pakistan,Critical,"Duncan, Bush and Johnson",2026-01-12 11:06:47
+245,Hacker Forum Mention,Dark Forum,Cayman Islands,Critical,Berg Ltd,2026-04-30 02:19:08
+246,Hacker Forum Mention,Telegram,United Arab Emirates,Critical,Howell-Barajas,2026-01-31 19:12:00
+247,Hacker Forum Mention,Deep Web Chat,Comoros,Medium,"Owens, Spears and Elliott",2026-01-20 21:04:12
+248,Leaked Credentials,Dark Forum,Taiwan,High,Guerra and Sons,2026-03-10 00:51:25
+249,Leaked Credentials,Deep Web Chat,Portugal,Medium,Galvan-Alexander,2026-02-14 14:49:52
+250,Leaked Credentials,Telegram,North Macedonia,Critical,Fischer-Brown,2026-01-21 22:17:10
+251,Compromised Accounts,Telegram,Saudi Arabia,High,Cruz-Flynn,2026-04-19 04:47:48
+252,Leaked Credentials,Telegram,Croatia,Low,"Garcia, Boyle and Randall",2026-02-27 17:52:10
+253,Leaked Credentials,Marketplace,Tajikistan,Medium,Miller Group,2026-03-23 00:58:26
+254,Compromised Accounts,Dark Forum,Cook Islands,Medium,Lam-Diaz,2026-02-02 12:48:00
+255,Hacker Forum Mention,Dark Forum,Saint Lucia,Critical,"Hall, Cain and Martin",2026-05-07 10:24:47
+256,Stolen Credit Cards,Deep Web Chat,Solomon Islands,Medium,"Harris, Walters and Lopez",2026-04-08 01:27:04
+257,Leaked Credentials,Deep Web Chat,Tunisia,High,"Quinn, Schmidt and Perry",2026-01-15 01:17:07
+258,Hacker Forum Mention,Dark Forum,Benin,Medium,"Guerra, Proctor and Adams",2026-04-27 15:20:05
+259,Stolen Credit Cards,Dark Forum,Guyana,Critical,Ramirez-Hernandez,2026-04-11 13:14:40
+260,Compromised Accounts,Marketplace,Cyprus,Critical,Miller Group,2026-02-24 14:22:20
+261,Compromised Accounts,Marketplace,Croatia,Low,"Spencer, Green and Smith",2026-02-26 17:46:08
+262,Leaked Credentials,Marketplace,Philippines,Medium,Patterson-Cortez,2026-01-22 14:08:06
+263,Compromised Accounts,Dark Forum,Micronesia,Low,"Newton, Parrish and Lee",2026-01-30 22:53:46
+264,Leaked Credentials,Deep Web Chat,Anguilla,Critical,"Phillips, Logan and Guzman",2026-02-17 02:03:27
+265,Hacker Forum Mention,Dark Forum,Guyana,Critical,"Nelson, Wall and Olson",2026-04-29 08:10:58
+266,Stolen Credit Cards,Marketplace,Bosnia and Herzegovina,Medium,Brown Inc,2026-03-13 19:55:13
+267,Stolen Credit Cards,Dark Forum,Maldives,Critical,Holt Group,2026-05-17 21:30:53
+268,Compromised Accounts,Marketplace,French Guiana,Critical,Hendricks and Sons,2026-01-16 11:40:23
+269,Hacker Forum Mention,Telegram,Bahrain,Critical,Taylor-Turner,2026-03-15 09:54:46
+270,Leaked Credentials,Deep Web Chat,Tanzania,High,Hernandez LLC,2026-01-06 18:10:53
+271,Stolen Credit Cards,Telegram,Bhutan,Medium,"Jones, Warner and Cunningham",2026-03-17 14:18:01
+272,Compromised Accounts,Dark Forum,Djibouti,Critical,Henderson-Rogers,2026-03-12 15:27:48
+273,Hacker Forum Mention,Dark Forum,Norfolk Island,High,"Deleon, Wright and Hebert",2026-03-12 07:58:01
+274,Data Leak,Marketplace,Palau,Critical,"Petty, Richardson and Cruz",2026-01-19 11:39:57
+275,Hacker Forum Mention,Marketplace,Libyan Arab Jamahiriya,Critical,Curry-Jackson,2026-01-28 18:15:27
+276,Compromised Accounts,Deep Web Chat,Guadeloupe,High,Boyd-Jackson,2026-03-19 14:19:58
+277,Data Leak,Telegram,Comoros,Critical,"Weaver, Stanton and Lee",2026-02-02 05:33:30
+278,Leaked Credentials,Deep Web Chat,Western Sahara,Critical,Carter-Newman,2026-01-14 19:32:20
+279,Hacker Forum Mention,Telegram,Malawi,Critical,"Brown, James and Richardson",2026-04-25 14:23:56
+280,Leaked Credentials,Marketplace,Brunei Darussalam,Low,Carpenter-Vincent,2026-04-09 11:22:15
+281,Compromised Accounts,Dark Forum,Tokelau,High,Jackson-Ramirez,2026-02-24 00:38:04
+282,Hacker Forum Mention,Deep Web Chat,Tuvalu,Low,Williams-Schneider,2026-04-09 18:27:52
+283,Hacker Forum Mention,Marketplace,Marshall Islands,Low,"Ho, Thomas and Perez",2026-03-26 12:18:06
+284,Data Leak,Dark Forum,Portugal,High,Sanders-Miller,2026-03-22 10:12:02
+285,Stolen Credit Cards,Marketplace,Liechtenstein,High,Bowman-Anderson,2026-04-12 22:53:36
+286,Compromised Accounts,Deep Web Chat,Bahamas,High,"Lewis, Kelly and Wright",2026-01-24 18:34:42
+287,Compromised Accounts,Marketplace,Portugal,Low,"Lawson, Townsend and Rios",2026-02-28 11:14:11
+288,Data Leak,Marketplace,Bosnia and Herzegovina,Low,Fernandez-Mcgrath,2026-04-15 18:12:08
+289,Leaked Credentials,Telegram,Brunei Darussalam,Critical,"Fritz, Pineda and Allen",2026-03-10 11:41:03
+290,Stolen Credit Cards,Marketplace,Palau,Critical,Reid Ltd,2026-01-19 05:17:31
+291,Data Leak,Deep Web Chat,Bosnia and Herzegovina,High,Booth-Rhodes,2026-02-16 17:35:31
+292,Stolen Credit Cards,Telegram,Reunion,Medium,Fowler-Hall,2026-05-11 12:52:44
+293,Hacker Forum Mention,Deep Web Chat,Slovenia,Critical,Sanders-Thompson,2026-02-11 00:54:34
+294,Compromised Accounts,Marketplace,Bosnia and Herzegovina,Low,Gonzalez Ltd,2026-01-05 22:28:47
+295,Hacker Forum Mention,Deep Web Chat,Ethiopia,Low,Estes Inc,2026-02-07 02:51:00
+296,Stolen Credit Cards,Deep Web Chat,South Georgia and the South Sandwich Islands,Critical,"Leblanc, Barrera and Weaver",2026-03-15 23:47:34
+297,Stolen Credit Cards,Telegram,Fiji,Low,Smith Inc,2026-05-09 19:08:23
+298,Hacker Forum Mention,Dark Forum,Monaco,Low,Thompson-Rojas,2026-03-10 08:02:28
+299,Hacker Forum Mention,Deep Web Chat,Tonga,High,"Garcia, Walker and Carroll",2026-01-08 20:58:28
+300,Compromised Accounts,Marketplace,Papua New Guinea,Medium,"Alvarez, Juarez and Smith",2026-03-18 09:34:02
+301,Leaked Credentials,Deep Web Chat,Angola,Medium,Cook Group,2026-05-04 15:50:16
+302,Leaked Credentials,Marketplace,Iceland,Critical,"Murray, Robinson and Rodriguez",2026-04-03 19:41:04
+303,Compromised Accounts,Deep Web Chat,Bahamas,Low,Webb Inc,2026-01-05 05:05:55
+304,Compromised Accounts,Marketplace,Rwanda,Low,James Ltd,2026-04-18 04:50:05
+305,Leaked Credentials,Deep Web Chat,Turkey,Low,"Gross, Hogan and Taylor",2026-01-26 13:52:59
+306,Compromised Accounts,Deep Web Chat,United Kingdom,Critical,Bauer-Chapman,2026-03-04 19:22:23
+307,Stolen Credit Cards,Dark Forum,Puerto Rico,Medium,Andrews-Morris,2026-01-26 18:54:49
+308,Hacker Forum Mention,Marketplace,Chile,Critical,Miller-Elliott,2026-05-27 22:58:35
+309,Stolen Credit Cards,Dark Forum,Belgium,High,Gomez PLC,2026-04-26 00:27:24
+310,Data Leak,Telegram,Malaysia,Critical,"Griffith, Anderson and Lopez",2026-03-10 19:52:04
+311,Stolen Credit Cards,Deep Web Chat,Tonga,High,"Simmons, Nguyen and Washington",2026-05-19 01:56:14
+312,Stolen Credit Cards,Marketplace,Uganda,Medium,"Kelley, Hernandez and Roth",2026-04-30 21:13:40
+313,Stolen Credit Cards,Telegram,Algeria,Critical,Smith LLC,2026-01-06 13:05:07
+314,Leaked Credentials,Deep Web Chat,Martinique,Low,Davis Group,2026-04-27 22:03:58
+315,Stolen Credit Cards,Telegram,Mauritania,Low,Ramirez PLC,2026-01-22 04:01:56
+316,Data Leak,Deep Web Chat,Trinidad and Tobago,Medium,"Obrien, Davidson and Davis",2026-05-17 09:35:46
+317,Leaked Credentials,Dark Forum,Samoa,Medium,Burns Ltd,2026-05-02 21:30:14
+318,Compromised Accounts,Telegram,Maldives,Low,"Wilson, Anderson and Pruitt",2026-01-20 06:03:00
+319,Compromised Accounts,Telegram,Algeria,High,Hawkins-Townsend,2026-02-20 11:32:42
+320,Hacker Forum Mention,Marketplace,Turkmenistan,Critical,"Norton, Morgan and Reyes",2026-05-07 18:20:40
+321,Leaked Credentials,Telegram,Iceland,Medium,"Chung, Flores and Young",2026-01-19 15:29:24
+322,Hacker Forum Mention,Marketplace,Guinea-Bissau,Medium,"Schultz, Moore and Guzman",2026-01-20 12:54:39
+323,Leaked Credentials,Dark Forum,Nepal,Low,Larson-Johnson,2026-04-08 18:50:29
+324,Hacker Forum Mention,Dark Forum,American Samoa,Critical,"Nelson, Cooper and Bell",2026-05-20 07:49:05
+325,Hacker Forum Mention,Dark Forum,Comoros,Low,Ruiz-Cook,2026-05-05 16:43:56
+326,Compromised Accounts,Deep Web Chat,North Macedonia,Low,Coleman PLC,2026-04-29 13:55:48
+327,Data Leak,Dark Forum,Malaysia,High,Cooper PLC,2026-01-28 01:52:43
+328,Hacker Forum Mention,Marketplace,Uruguay,Low,Price PLC,2026-01-01 09:44:44
+329,Hacker Forum Mention,Dark Forum,Swaziland,Medium,"Smith, Smith and Payne",2026-03-24 02:16:12
+330,Data Leak,Deep Web Chat,Guyana,Low,Miller-Webb,2026-04-26 22:03:13
+331,Hacker Forum Mention,Telegram,Saint Vincent and the Grenadines,High,"Christensen, Chandler and Best",2026-02-12 07:21:03
+332,Stolen Credit Cards,Marketplace,Uzbekistan,Critical,"Meadows, Sanchez and Cole",2026-03-26 10:50:17
+333,Leaked Credentials,Deep Web Chat,Palestinian Territory,Medium,"Jackson, Bell and Carpenter",2026-04-27 21:55:53
+334,Data Leak,Dark Forum,Svalbard & Jan Mayen Islands,Medium,"Larsen, Leach and Camacho",2026-01-31 11:28:09
+335,Compromised Accounts,Telegram,Taiwan,Low,Larson and Sons,2026-02-28 20:32:13
+336,Leaked Credentials,Dark Forum,Micronesia,Low,Washington and Sons,2026-03-13 08:13:19
+337,Hacker Forum Mention,Deep Web Chat,Italy,Critical,"Chavez, Hernandez and Austin",2026-01-24 22:10:05
+338,Compromised Accounts,Telegram,United Kingdom,High,"Brandt, Green and Rasmussen",2026-02-22 18:38:45
+339,Hacker Forum Mention,Marketplace,Senegal,Medium,"George, Sullivan and Rodriguez",2026-03-05 14:27:29
+340,Data Leak,Marketplace,Fiji,Low,Nicholson-Mullins,2026-01-06 16:43:07
+341,Leaked Credentials,Deep Web Chat,Azerbaijan,Medium,Stewart-Johnson,2026-05-25 09:37:36
+342,Leaked Credentials,Telegram,Armenia,High,"Rich, Fischer and Stanley",2026-02-19 13:31:10
+343,Leaked Credentials,Deep Web Chat,Saint Martin,Critical,White Ltd,2026-03-23 03:43:14
+344,Hacker Forum Mention,Telegram,Iraq,High,Ho-Avery,2026-03-02 13:14:20
+345,Hacker Forum Mention,Telegram,Western Sahara,Medium,Santiago PLC,2026-04-27 00:21:43
+346,Compromised Accounts,Telegram,Comoros,Low,"Rush, Webb and Taylor",2026-02-08 11:00:14
+347,Leaked Credentials,Telegram,Sri Lanka,Low,West-Meza,2026-03-22 21:36:10
+348,Hacker Forum Mention,Dark Forum,Netherlands,Medium,"Hanson, Mcdonald and Mack",2026-01-13 04:27:45
+349,Data Leak,Deep Web Chat,Vietnam,High,"Miller, Stanley and Herrera",2026-05-12 01:31:22
+350,Data Leak,Dark Forum,Micronesia,Low,"Caldwell, Anthony and Ramirez",2026-02-01 12:03:27
+351,Compromised Accounts,Marketplace,Suriname,Medium,Reid PLC,2026-02-25 10:13:18
+352,Stolen Credit Cards,Deep Web Chat,Thailand,Low,Mack LLC,2026-02-06 00:19:38
+353,Hacker Forum Mention,Deep Web Chat,China,Low,Burns-Montgomery,2026-01-26 04:28:41
+354,Data Leak,Deep Web Chat,Italy,Medium,Hernandez-Benitez,2026-03-14 17:25:31
+355,Stolen Credit Cards,Dark Forum,Netherlands Antilles,Low,Turner Ltd,2026-05-10 08:54:15
+356,Stolen Credit Cards,Telegram,Tanzania,High,Harris and Sons,2026-05-08 08:27:38
+357,Stolen Credit Cards,Deep Web Chat,Nigeria,Medium,Cox PLC,2026-01-08 01:08:09
+358,Stolen Credit Cards,Telegram,Papua New Guinea,High,Clark-Schmidt,2026-02-20 02:11:43
+359,Compromised Accounts,Telegram,Eritrea,Medium,"Berger, King and Strickland",2026-04-22 04:07:56
+360,Leaked Credentials,Marketplace,Mozambique,Low,Walker Ltd,2026-02-21 11:00:26
+361,Compromised Accounts,Dark Forum,Peru,High,Ortiz-Bailey,2026-02-25 09:56:23
+362,Hacker Forum Mention,Telegram,Latvia,High,Miller LLC,2026-04-25 06:22:17
+363,Stolen Credit Cards,Marketplace,Isle of Man,Medium,Carter LLC,2026-05-24 04:40:09
+364,Stolen Credit Cards,Deep Web Chat,Norfolk Island,Medium,"Morris, Jackson and Moore",2026-01-06 20:01:28
+365,Hacker Forum Mention,Telegram,Ireland,Medium,Whitehead and Sons,2026-01-24 06:15:29
+366,Hacker Forum Mention,Telegram,Uganda,Low,Lewis-Maldonado,2026-05-09 04:30:29
+367,Compromised Accounts,Telegram,Turkmenistan,Critical,Smith-Young,2026-05-11 17:32:31
+368,Leaked Credentials,Telegram,Turkmenistan,Medium,Hernandez-Watkins,2026-04-29 06:22:45
+369,Leaked Credentials,Deep Web Chat,Myanmar,Critical,"Parker, Pearson and Mueller",2026-04-04 07:26:42
+370,Hacker Forum Mention,Telegram,United States of America,Low,Miller Inc,2026-03-21 14:24:24
+371,Data Leak,Dark Forum,United States Virgin Islands,High,"Pace, Greer and Bowers",2026-04-15 06:34:32
+372,Hacker Forum Mention,Dark Forum,Zimbabwe,Low,"Powell, Allen and Vasquez",2026-02-12 19:23:28
+373,Data Leak,Dark Forum,Hungary,Medium,Hunter and Sons,2026-04-17 21:10:07
+374,Hacker Forum Mention,Dark Forum,Nicaragua,Low,Morse-Stanton,2026-02-03 06:21:18
+375,Leaked Credentials,Telegram,Madagascar,Low,Yoder-Green,2026-01-24 22:43:46
+376,Compromised Accounts,Marketplace,Australia,High,Haynes PLC,2026-05-17 01:36:49
+377,Data Leak,Deep Web Chat,Congo,Low,"Warren, Atkins and Miller",2026-04-01 07:29:11
+378,Stolen Credit Cards,Marketplace,Somalia,Low,"Munoz, Franco and Rodriguez",2026-04-22 16:38:45
+379,Stolen Credit Cards,Telegram,Spain,High,Marks Ltd,2026-03-22 00:17:29
+380,Data Leak,Deep Web Chat,Somalia,Low,Smith-Kaufman,2026-01-20 13:48:36
+381,Compromised Accounts,Dark Forum,Turks and Caicos Islands,Critical,Steele Inc,2026-01-27 23:11:05
+382,Data Leak,Deep Web Chat,Estonia,Medium,"Soto, Mills and Scott",2026-02-08 23:10:34
+383,Compromised Accounts,Marketplace,Namibia,High,"Perez, Webster and Middleton",2026-02-23 12:23:09
+384,Stolen Credit Cards,Telegram,Cayman Islands,Medium,Owens-Long,2026-04-20 03:23:47
+385,Compromised Accounts,Dark Forum,Slovakia (Slovak Republic),High,Coleman-Brown,2026-05-16 05:30:34
+386,Stolen Credit Cards,Telegram,Guadeloupe,Critical,White-Blake,2026-04-13 15:11:05
+387,Compromised Accounts,Telegram,El Salvador,High,"Kent, Rodgers and Wagner",2026-01-31 08:26:56
+388,Hacker Forum Mention,Marketplace,Aruba,Medium,Smith-Jacobs,2026-04-29 22:06:27
+389,Leaked Credentials,Marketplace,Micronesia,Critical,Martin and Sons,2026-03-03 23:53:26
+390,Hacker Forum Mention,Marketplace,China,Low,"Frederick, Adkins and Malone",2026-04-04 16:41:52
+391,Compromised Accounts,Marketplace,Uzbekistan,Critical,Chapman Ltd,2026-03-24 08:11:33
+392,Stolen Credit Cards,Marketplace,Hungary,High,Burns-Bullock,2026-05-21 03:35:31
+393,Compromised Accounts,Marketplace,Sweden,Critical,Martin-Thomas,2026-02-23 13:26:10
+394,Compromised Accounts,Dark Forum,Somalia,Low,"Grant, Robinson and Conley",2026-01-10 02:27:21
+395,Data Leak,Telegram,Mozambique,Medium,Harris Ltd,2026-01-07 10:33:53
+396,Compromised Accounts,Marketplace,Zimbabwe,Critical,"Wagner, Walker and Pena",2026-03-15 13:13:51
+397,Leaked Credentials,Deep Web Chat,Papua New Guinea,Low,Larsen and Sons,2026-03-01 06:11:33
+398,Stolen Credit Cards,Deep Web Chat,Hungary,Critical,"Greene, Hernandez and Small",2026-01-25 02:23:33
+399,Compromised Accounts,Deep Web Chat,Mexico,High,"Graves, Ortiz and Brown",2026-04-04 17:35:48
+400,Compromised Accounts,Deep Web Chat,Svalbard & Jan Mayen Islands,Medium,"Barrett, Reyes and Johnson",2026-01-23 07:20:33
+401,Data Leak,Marketplace,Botswana,Medium,Castaneda-Mercado,2026-02-03 23:22:46
+402,Compromised Accounts,Deep Web Chat,Cyprus,Critical,"Taylor, Carlson and King",2026-05-02 06:30:40
+403,Compromised Accounts,Telegram,France,Low,"Mccall, Scott and Robinson",2026-01-29 16:41:20
+404,Leaked Credentials,Deep Web Chat,Wallis and Futuna,Critical,Clark and Sons,2026-02-21 22:29:33
+405,Stolen Credit Cards,Marketplace,Zambia,Critical,Cline LLC,2026-02-18 06:32:28
+406,Stolen Credit Cards,Telegram,Norfolk Island,Critical,"Gill, Mccoy and Mcdonald",2026-01-16 09:44:10
+407,Data Leak,Marketplace,Jamaica,Low,Byrd PLC,2026-05-04 13:17:09
+408,Data Leak,Marketplace,Bahamas,High,Sanchez-Choi,2026-01-09 12:09:28
+409,Compromised Accounts,Dark Forum,Chad,Low,Price PLC,2026-02-15 07:44:18
+410,Compromised Accounts,Deep Web Chat,Western Sahara,High,"Cross, Davis and Rodriguez",2026-02-23 08:37:49
+411,Data Leak,Deep Web Chat,Bangladesh,Critical,"Klein, Butler and Williams",2026-05-20 22:55:51
+412,Leaked Credentials,Marketplace,Spain,High,Bishop-Leonard,2026-03-17 07:11:35
+413,Hacker Forum Mention,Deep Web Chat,Barbados,Critical,Caldwell-Arroyo,2026-02-16 20:59:30
+414,Data Leak,Telegram,Saint Barthelemy,Low,Hines-Campbell,2026-03-11 17:04:04
+415,Leaked Credentials,Dark Forum,Hong Kong,Critical,Jones-Kelly,2026-01-27 17:52:24
+416,Compromised Accounts,Deep Web Chat,Antarctica (the territory South of 60 deg S),Medium,"Clay, Hill and Fisher",2026-02-04 17:11:48
+417,Data Leak,Telegram,Belgium,Low,Wilson and Sons,2026-02-22 19:25:45
+418,Leaked Credentials,Telegram,Bouvet Island (Bouvetoya),Low,"Johnson, Graham and Ballard",2026-02-25 10:18:20
+419,Leaked Credentials,Marketplace,Iran,High,"Villarreal, Lopez and Sharp",2026-05-27 23:01:15
+420,Data Leak,Dark Forum,Seychelles,Medium,Martinez-Smith,2026-04-28 04:31:42
+421,Data Leak,Deep Web Chat,Belarus,Low,"Marquez, Wood and Miller",2026-02-18 09:54:58
+422,Data Leak,Telegram,Germany,Critical,"Conrad, Davis and Everett",2026-05-23 16:08:13
+423,Leaked Credentials,Dark Forum,Algeria,Low,Henry PLC,2026-01-22 06:00:37
+424,Compromised Accounts,Dark Forum,South Africa,Medium,Velasquez and Sons,2026-03-14 19:32:29
+425,Stolen Credit Cards,Marketplace,Macao,Critical,"Young, Richardson and Brooks",2026-03-14 11:56:59
+426,Leaked Credentials,Deep Web Chat,Ghana,Medium,Patterson-Jones,2026-04-22 18:20:40
+427,Data Leak,Marketplace,South Georgia and the South Sandwich Islands,Low,"Cowan, Browning and White",2026-04-09 11:50:27
+428,Compromised Accounts,Marketplace,Somalia,Low,Dennis-Cooper,2026-05-08 02:57:11
+429,Compromised Accounts,Telegram,Chile,Critical,"Williams, Parsons and Grant",2026-02-15 00:21:54
+430,Hacker Forum Mention,Deep Web Chat,Burkina Faso,Critical,"Gibson, Harris and Rowland",2026-04-02 11:07:46
+431,Stolen Credit Cards,Telegram,Guam,Low,"Vasquez, Aguirre and Hicks",2026-04-26 13:00:52
+432,Compromised Accounts,Dark Forum,Angola,Medium,"Ferguson, King and Martinez",2026-01-02 12:46:22
+433,Hacker Forum Mention,Deep Web Chat,Holy See (Vatican City State),Medium,"Mueller, Robinson and Lewis",2026-03-30 20:45:14
+434,Compromised Accounts,Deep Web Chat,Netherlands Antilles,High,Norris Group,2026-04-23 15:09:58
+435,Hacker Forum Mention,Telegram,Saint Lucia,High,Mccullough-George,2026-05-01 21:34:48
+436,Leaked Credentials,Marketplace,British Indian Ocean Territory (Chagos Archipelago),Low,Cohen-Johnson,2026-01-09 07:16:54
+437,Data Leak,Telegram,Lebanon,Low,Wilkinson Ltd,2026-04-05 11:56:29
+438,Data Leak,Dark Forum,Nigeria,Low,Warren-Le,2026-02-05 02:05:37
+439,Hacker Forum Mention,Dark Forum,Netherlands Antilles,Medium,"Mann, Burnett and Garza",2026-03-07 23:04:13
+440,Compromised Accounts,Deep Web Chat,Cyprus,Low,"Roberson, Lin and Freeman",2026-04-14 13:38:51
+441,Data Leak,Telegram,Gibraltar,Medium,Wilcox-Carpenter,2026-02-18 12:26:22
+442,Leaked Credentials,Dark Forum,Slovakia (Slovak Republic),High,Peterson PLC,2026-03-06 01:24:50
+443,Leaked Credentials,Deep Web Chat,Malta,High,Baker-Hunt,2026-04-02 13:38:58
+444,Hacker Forum Mention,Marketplace,Belarus,Medium,Frazier-Bailey,2026-05-14 10:13:49
+445,Stolen Credit Cards,Dark Forum,Fiji,Medium,Blair Ltd,2026-03-28 18:12:07
+446,Data Leak,Marketplace,Lesotho,High,"Butler, Moore and Scott",2026-02-20 08:49:11
+447,Hacker Forum Mention,Marketplace,Swaziland,Critical,Allen Ltd,2026-02-08 19:15:14
+448,Leaked Credentials,Telegram,Sweden,High,Boyle Inc,2026-02-06 22:40:44
+449,Compromised Accounts,Marketplace,Netherlands Antilles,Low,"Johnson, Carter and Newton",2026-04-09 05:39:55
+450,Compromised Accounts,Dark Forum,Aruba,Medium,Reed-Chandler,2026-04-21 00:22:31
+451,Data Leak,Telegram,French Guiana,Low,Bennett Inc,2026-02-08 05:33:33
+452,Hacker Forum Mention,Telegram,Benin,Medium,"Stone, Day and Ortiz",2026-04-02 20:03:56
+453,Leaked Credentials,Deep Web Chat,Nigeria,Medium,Johnson-Jones,2026-03-11 05:07:53
+454,Compromised Accounts,Telegram,Guatemala,Critical,Benjamin and Sons,2026-05-14 13:25:09
+455,Leaked Credentials,Marketplace,Georgia,Critical,King-Kelly,2026-02-17 11:57:38
+456,Data Leak,Telegram,Cuba,High,Mccoy-Phillips,2026-02-27 06:11:19
+457,Stolen Credit Cards,Marketplace,Slovenia,High,Middleton Group,2026-01-29 00:28:50
+458,Hacker Forum Mention,Telegram,Faroe Islands,Critical,Miller Ltd,2026-02-04 13:41:14
+459,Leaked Credentials,Telegram,Saint Barthelemy,Medium,"Nelson, Thomas and Gibson",2026-05-06 19:32:02
+460,Compromised Accounts,Deep Web Chat,Croatia,Low,"Gardner, Wright and Torres",2026-04-10 04:25:35
+461,Hacker Forum Mention,Deep Web Chat,Kiribati,High,"Williams, Shaffer and Joseph",2026-05-23 09:17:25
+462,Compromised Accounts,Telegram,British Indian Ocean Territory (Chagos Archipelago),Critical,Bennett-Rose,2026-03-07 11:01:16
+463,Hacker Forum Mention,Marketplace,Liechtenstein,High,West-Smith,2026-04-21 23:15:53
+464,Hacker Forum Mention,Dark Forum,Benin,Critical,"Gray, Campos and Williamson",2026-04-09 11:53:05
+465,Stolen Credit Cards,Telegram,Zambia,High,Osborne-Stewart,2026-01-26 02:35:11
+466,Data Leak,Marketplace,Guinea-Bissau,High,Bates-Adams,2026-03-07 16:37:37
+467,Hacker Forum Mention,Dark Forum,Malta,High,Curry Inc,2026-02-17 16:15:58
+468,Data Leak,Deep Web Chat,Libyan Arab Jamahiriya,Critical,"Grant, Gaines and Sawyer",2026-05-19 19:35:35
+469,Leaked Credentials,Dark Forum,Svalbard & Jan Mayen Islands,Low,Kennedy and Sons,2026-03-29 04:31:34
+470,Compromised Accounts,Deep Web Chat,Palau,Critical,Carpenter Group,2026-05-19 10:19:25
+471,Compromised Accounts,Dark Forum,Netherlands,Low,Johnson Inc,2026-03-01 15:23:04
+472,Stolen Credit Cards,Dark Forum,Colombia,Critical,"Rivera, Rosales and Green",2026-03-05 12:19:17
+473,Data Leak,Dark Forum,Cote d'Ivoire,High,Ochoa LLC,2026-01-07 03:50:10
+474,Hacker Forum Mention,Dark Forum,Ethiopia,Low,"Gibson, Dickson and Wise",2026-05-28 06:44:07
+475,Data Leak,Marketplace,Cocos (Keeling) Islands,High,Soto PLC,2026-01-23 05:09:19
+476,Hacker Forum Mention,Marketplace,Lebanon,Medium,"Martinez, Bishop and Smith",2026-04-04 08:21:34
+477,Compromised Accounts,Marketplace,Paraguay,Critical,"Burgess, Caldwell and Parks",2026-01-15 19:05:05
+478,Compromised Accounts,Telegram,Morocco,Medium,"Patel, Moreno and Roman",2026-04-11 06:01:38
+479,Data Leak,Marketplace,Togo,Medium,Poole and Sons,2026-05-18 05:21:03
+480,Compromised Accounts,Dark Forum,Czech Republic,Low,Owens-Cuevas,2026-04-08 09:36:22
+481,Data Leak,Telegram,United States Minor Outlying Islands,Critical,Shah-Ross,2026-01-14 06:51:22
+482,Compromised Accounts,Deep Web Chat,Qatar,Critical,Carter Inc,2026-05-25 11:55:46
+483,Hacker Forum Mention,Dark Forum,Cote d'Ivoire,Medium,"Jones, Patterson and Thomas",2026-01-21 21:25:46
+484,Compromised Accounts,Deep Web Chat,Cocos (Keeling) Islands,Critical,"Smith, Fernandez and Gonzalez",2026-03-23 09:50:02
+485,Data Leak,Dark Forum,Ukraine,Medium,"Walsh, Hernandez and Mayo",2026-01-18 07:31:17
+486,Stolen Credit Cards,Marketplace,Bulgaria,High,Burns and Sons,2026-01-19 10:13:23
+487,Stolen Credit Cards,Marketplace,Australia,Medium,Hall-Carter,2026-04-06 15:24:29
+488,Hacker Forum Mention,Deep Web Chat,Bouvet Island (Bouvetoya),Low,Moreno-Odonnell,2026-03-05 08:22:16
+489,Stolen Credit Cards,Telegram,Dominican Republic,Critical,Baker Inc,2026-01-24 15:46:03
+490,Data Leak,Dark Forum,South Georgia and the South Sandwich Islands,Medium,Williams and Sons,2026-05-07 05:55:08
+491,Hacker Forum Mention,Deep Web Chat,Barbados,Low,Rhodes-Garza,2026-01-08 16:51:18
+492,Hacker Forum Mention,Dark Forum,Colombia,Medium,Spears-Sullivan,2026-03-14 22:33:20
+493,Hacker Forum Mention,Telegram,Algeria,Critical,"Miranda, Wilcox and Brown",2026-02-14 09:03:56
+494,Data Leak,Telegram,Algeria,Medium,"Lawrence, Bailey and Nichols",2026-05-02 22:48:41
+495,Hacker Forum Mention,Telegram,Algeria,Medium,Lamb Group,2026-01-02 00:38:44
+496,Data Leak,Marketplace,Romania,Low,Sims-Bates,2026-03-26 11:24:20
+497,Compromised Accounts,Telegram,Honduras,Critical,Gonzalez Group,2026-04-28 16:26:37
+498,Hacker Forum Mention,Dark Forum,Swaziland,Medium,"Nelson, Moon and Dyer",2026-02-17 00:03:01
+499,Leaked Credentials,Dark Forum,Anguilla,Medium,Andersen and Sons,2026-03-10 11:09:57
+500,Compromised Accounts,Dark Forum,Estonia,Medium,Lawrence-Glenn,2026-01-19 20:55:20
+501,Data Leak,Dark Forum,Nepal,Low,Harris-Diaz,2026-03-18 20:05:01
+502,Compromised Accounts,Deep Web Chat,Mexico,Critical,White and Sons,2026-05-11 22:21:23
+503,Leaked Credentials,Deep Web Chat,Nepal,High,Shaffer LLC,2026-02-24 21:23:29
+504,Stolen Credit Cards,Marketplace,Kazakhstan,Medium,Ellis and Sons,2026-02-26 06:00:58
+505,Stolen Credit Cards,Deep Web Chat,Swaziland,Medium,"Stewart, Sosa and Morales",2026-04-24 11:42:39
+506,Data Leak,Deep Web Chat,United States Virgin Islands,Medium,Mendez-Figueroa,2026-03-29 20:01:55
+507,Stolen Credit Cards,Telegram,French Polynesia,Critical,Alvarez LLC,2026-01-20 03:13:00
+508,Hacker Forum Mention,Dark Forum,Rwanda,Critical,Jones-Carlson,2026-02-07 13:57:19
+509,Stolen Credit Cards,Marketplace,Tajikistan,Critical,Myers-Hernandez,2026-03-27 14:08:14
+510,Data Leak,Dark Forum,Guam,Critical,Perez PLC,2026-04-28 14:00:18
+511,Data Leak,Marketplace,Holy See (Vatican City State),Low,"Taylor, Barrett and Pitts",2026-02-21 14:45:20
+512,Leaked Credentials,Dark Forum,Iraq,Critical,Dean-Rodriguez,2026-05-11 06:06:24
+513,Leaked Credentials,Telegram,Luxembourg,Critical,Bradley-Frost,2026-03-04 11:15:15
+514,Compromised Accounts,Dark Forum,Guadeloupe,Low,Jones-Ramirez,2026-01-23 18:53:51
+515,Leaked Credentials,Telegram,Ukraine,High,Burgess PLC,2026-03-04 23:24:24
+516,Hacker Forum Mention,Marketplace,United Kingdom,Medium,"Smith, Brewer and Hayes",2026-01-01 03:18:18
+517,Leaked Credentials,Telegram,Bermuda,Medium,Martin Ltd,2026-04-04 00:59:12
+518,Hacker Forum Mention,Dark Forum,Benin,High,Johnston Ltd,2026-01-30 13:09:39
+519,Hacker Forum Mention,Telegram,Spain,High,"Peterson, Smith and Anderson",2026-05-03 14:29:47
+520,Stolen Credit Cards,Deep Web Chat,Taiwan,Critical,"Yoder, Martinez and Riley",2026-05-15 11:20:40
+521,Leaked Credentials,Deep Web Chat,Maldives,High,Caldwell Group,2026-01-13 05:41:53
+522,Data Leak,Dark Forum,Algeria,Critical,"Ruiz, Hess and Williams",2026-03-22 10:55:59
+523,Hacker Forum Mention,Dark Forum,Romania,Low,"Smith, Horne and Ortiz",2026-03-21 06:54:16
+524,Data Leak,Telegram,Jersey,Critical,Petersen LLC,2026-01-28 09:29:14
+525,Leaked Credentials,Telegram,Mali,Critical,Hogan LLC,2026-02-18 17:55:19
+526,Compromised Accounts,Dark Forum,Niger,High,"Lawrence, Jones and Pearson",2026-01-06 08:37:02
+527,Stolen Credit Cards,Telegram,Korea,Medium,"Johnson, Roberts and Grant",2026-01-23 17:45:16
+528,Leaked Credentials,Dark Forum,Saudi Arabia,Critical,"Horn, Pitts and Wilson",2026-03-19 22:54:06
+529,Leaked Credentials,Deep Web Chat,Romania,Medium,"Vazquez, Briggs and Henderson",2026-04-26 04:47:23
+530,Hacker Forum Mention,Dark Forum,Suriname,Medium,"Peterson, Stewart and Scott",2026-04-20 12:22:53
+531,Stolen Credit Cards,Dark Forum,Malta,Low,Daniels-Duncan,2026-04-05 16:20:13
+532,Hacker Forum Mention,Dark Forum,Saint Martin,High,Kirby Group,2026-04-27 16:29:15
+533,Compromised Accounts,Deep Web Chat,Dominican Republic,Critical,"Gillespie, Jacobs and Anderson",2026-05-08 23:07:00
+534,Leaked Credentials,Deep Web Chat,Ukraine,Medium,Williams-Steele,2026-04-17 21:18:29
+535,Compromised Accounts,Marketplace,Antarctica (the territory South of 60 deg S),Medium,Cox-Brown,2026-02-18 23:35:26
+536,Data Leak,Deep Web Chat,Tajikistan,Low,"Reeves, Nguyen and Arnold",2026-04-10 23:30:38
+537,Hacker Forum Mention,Marketplace,Barbados,Low,Kramer-Kelly,2026-04-04 05:29:47
+538,Compromised Accounts,Dark Forum,Jordan,Critical,Hurst LLC,2026-05-20 21:12:03
+539,Stolen Credit Cards,Marketplace,Marshall Islands,High,Boyd-Vargas,2026-03-11 07:17:59
+540,Data Leak,Telegram,Thailand,High,Foster-Wiley,2026-03-30 21:42:25
+541,Leaked Credentials,Deep Web Chat,Bolivia,Critical,Collins-Green,2026-01-08 21:01:36
+542,Stolen Credit Cards,Dark Forum,Madagascar,High,Ballard Ltd,2026-05-14 21:56:16
+543,Stolen Credit Cards,Marketplace,Madagascar,Low,"Cox, Mitchell and Hancock",2026-02-07 07:24:36
+544,Data Leak,Dark Forum,Falkland Islands (Malvinas),Medium,"Williams, Sanford and Sullivan",2026-05-17 21:54:55
+545,Data Leak,Telegram,Ghana,Low,"Jimenez, Oliver and Vance",2026-04-04 17:02:05
+546,Hacker Forum Mention,Dark Forum,Jersey,Medium,"Donovan, White and Brock",2026-04-29 17:44:02
+547,Compromised Accounts,Marketplace,Seychelles,Low,Trevino Group,2026-03-29 12:30:15
+548,Compromised Accounts,Deep Web Chat,Mali,High,Brown Group,2026-01-25 11:58:50
+549,Stolen Credit Cards,Deep Web Chat,Egypt,Critical,Turner and Sons,2026-04-21 01:00:44
+550,Stolen Credit Cards,Telegram,Ukraine,Medium,"Cole, Mayo and Raymond",2026-04-12 19:46:13
+551,Leaked Credentials,Deep Web Chat,Turks and Caicos Islands,Medium,"Ross, Gomez and Thompson",2026-04-09 23:58:07
+552,Stolen Credit Cards,Deep Web Chat,Kuwait,Medium,Castillo PLC,2026-05-25 03:14:38
+553,Hacker Forum Mention,Telegram,Montserrat,Critical,Underwood and Sons,2026-03-30 15:00:42
+554,Data Leak,Marketplace,Tanzania,Critical,Chang Ltd,2026-02-03 03:34:20
+555,Stolen Credit Cards,Deep Web Chat,Burundi,Critical,Jones Ltd,2026-02-06 20:03:29
+556,Compromised Accounts,Deep Web Chat,Barbados,Medium,"Robertson, Saunders and Wallace",2026-03-12 01:51:59
+557,Leaked Credentials,Marketplace,Western Sahara,Critical,Grant PLC,2026-03-15 21:55:48
+558,Stolen Credit Cards,Telegram,Korea,Medium,"Walker, Green and Chambers",2026-01-30 14:39:48
+559,Stolen Credit Cards,Telegram,Mali,Medium,Olson Inc,2026-04-22 05:48:13
+560,Hacker Forum Mention,Marketplace,Faroe Islands,Medium,Martinez-Smith,2026-01-14 17:29:41
+561,Data Leak,Marketplace,Poland,Critical,Robertson-Roberts,2026-03-25 05:46:55
+562,Compromised Accounts,Dark Forum,Antarctica (the territory South of 60 deg S),High,Jones LLC,2026-05-06 18:56:59
+563,Hacker Forum Mention,Deep Web Chat,Belize,Low,Taylor-Martin,2026-05-22 12:10:04
+564,Compromised Accounts,Telegram,Ethiopia,Medium,"Day, Baker and Page",2026-04-07 08:57:53
+565,Leaked Credentials,Deep Web Chat,Antarctica (the territory South of 60 deg S),Medium,Miller-Strickland,2026-04-11 20:07:50
+566,Stolen Credit Cards,Telegram,Gambia,Medium,Miller Group,2026-05-18 23:50:59
+567,Stolen Credit Cards,Dark Forum,Colombia,Medium,House-Rice,2026-05-21 12:05:03
+568,Compromised Accounts,Dark Forum,Tuvalu,Low,"White, Prince and Cohen",2026-01-26 16:51:46
+569,Hacker Forum Mention,Dark Forum,San Marino,Medium,"Cox, Cardenas and Scott",2026-02-27 12:32:47
+570,Compromised Accounts,Deep Web Chat,Nigeria,High,Jackson-Dickson,2026-05-18 21:07:05
+571,Compromised Accounts,Marketplace,Australia,Low,Nunez LLC,2026-05-20 17:36:55
+572,Leaked Credentials,Telegram,Greenland,Critical,Miller-Parsons,2026-01-22 10:56:46
+573,Hacker Forum Mention,Marketplace,Timor-Leste,High,Higgins-Jennings,2026-04-09 13:39:58
+574,Compromised Accounts,Marketplace,Albania,Critical,"Washington, Gibson and Mckinney",2026-01-19 08:13:50
+575,Stolen Credit Cards,Dark Forum,Romania,Low,Heath-Kelly,2026-05-07 19:20:53
+576,Stolen Credit Cards,Dark Forum,France,Medium,White PLC,2026-04-21 15:08:44
+577,Data Leak,Marketplace,Wallis and Futuna,Low,"Smith, Gibbs and Lee",2026-05-14 07:58:01
+578,Compromised Accounts,Deep Web Chat,Saint Vincent and the Grenadines,Critical,Friedman-Ruiz,2026-03-01 17:58:45
+579,Hacker Forum Mention,Deep Web Chat,Jamaica,High,Neal-Tapia,2026-02-23 16:01:12
+580,Stolen Credit Cards,Marketplace,Isle of Man,Low,"Wilcox, Carpenter and Williams",2026-05-04 22:09:23
+581,Stolen Credit Cards,Marketplace,Western Sahara,High,Kaufman-Schneider,2026-05-28 02:21:54
+582,Data Leak,Dark Forum,Japan,Medium,Hernandez-Leach,2026-04-11 13:18:40
+583,Stolen Credit Cards,Deep Web Chat,France,Critical,Turner Inc,2026-03-09 12:24:23
+584,Hacker Forum Mention,Dark Forum,United States Minor Outlying Islands,Critical,Ingram-Daniels,2026-01-26 04:44:55
+585,Stolen Credit Cards,Telegram,Slovenia,Critical,Smith-Ortega,2026-05-23 01:27:46
+586,Leaked Credentials,Dark Forum,Ethiopia,High,Moyer-Howell,2026-03-22 11:54:24
+587,Compromised Accounts,Marketplace,Cape Verde,Low,"Armstrong, Martin and Garcia",2026-03-17 00:22:06
+588,Hacker Forum Mention,Deep Web Chat,South Georgia and the South Sandwich Islands,Low,"Russell, Wagner and Leonard",2026-02-04 01:52:08
+589,Compromised Accounts,Marketplace,Yemen,Critical,"Garcia, Cross and Bird",2026-04-07 21:54:08
+590,Data Leak,Telegram,Madagascar,Low,Baxter-Waters,2026-04-01 12:45:18
+591,Leaked Credentials,Dark Forum,Zambia,Low,Simmons PLC,2026-03-20 15:50:38
+592,Hacker Forum Mention,Telegram,Svalbard & Jan Mayen Islands,High,Collins Group,2026-05-16 07:44:19
+593,Hacker Forum Mention,Telegram,Niger,Low,Johnson and Sons,2026-04-24 03:14:52
+594,Data Leak,Deep Web Chat,Palau,Medium,Adams-Cross,2026-02-16 02:21:40
+595,Leaked Credentials,Telegram,Romania,High,Williams Group,2026-05-24 01:37:57
+596,Hacker Forum Mention,Telegram,Bahrain,Medium,Cervantes Group,2026-03-03 06:45:03
+597,Leaked Credentials,Deep Web Chat,Pakistan,Medium,Barnett-Chambers,2026-01-23 22:53:26
+598,Data Leak,Deep Web Chat,Barbados,Medium,"Gomez, Callahan and Moreno",2026-02-06 14:37:12
+599,Leaked Credentials,Marketplace,Barbados,Medium,"Buchanan, Davis and Robbins",2026-04-24 19:40:16
+600,Hacker Forum Mention,Dark Forum,Antigua and Barbuda,Critical,Bonilla-Sellers,2026-05-04 05:12:59
+601,Stolen Credit Cards,Dark Forum,United Kingdom,Medium,Lawson Inc,2026-01-04 13:25:24
+602,Leaked Credentials,Marketplace,Saint Kitts and Nevis,Critical,Brown-Flores,2026-01-04 02:26:39
+603,Leaked Credentials,Deep Web Chat,Ethiopia,Critical,Anderson Inc,2026-02-06 17:34:00
+604,Stolen Credit Cards,Telegram,Egypt,Low,Carrillo LLC,2026-03-08 01:29:43
+605,Hacker Forum Mention,Dark Forum,Vanuatu,Low,Murphy-Harrison,2026-03-06 05:16:55
+606,Data Leak,Deep Web Chat,Netherlands,High,Moran-Cordova,2026-03-05 12:38:57
+607,Data Leak,Dark Forum,Cape Verde,High,"Joseph, Johnson and Cook",2026-04-22 20:26:09
+608,Leaked Credentials,Marketplace,Christmas Island,Medium,Morgan Ltd,2026-04-16 23:44:01
+609,Stolen Credit Cards,Dark Forum,United Arab Emirates,High,"Richardson, Mcdonald and Sawyer",2026-03-15 17:59:58
+610,Stolen Credit Cards,Marketplace,Mongolia,Low,Mason PLC,2026-01-21 19:18:16
+611,Data Leak,Deep Web Chat,Cook Islands,High,Evans-Wilkins,2026-04-17 08:40:02
+612,Hacker Forum Mention,Telegram,Palau,Low,Parker-Matthews,2026-04-23 12:47:52
+613,Leaked Credentials,Deep Web Chat,Swaziland,Critical,Bennett Ltd,2026-02-28 03:44:00
+614,Data Leak,Telegram,El Salvador,Low,Johnson Inc,2026-03-30 20:17:56
+615,Compromised Accounts,Marketplace,Dominica,Critical,Nelson Group,2026-05-15 22:32:20
+616,Stolen Credit Cards,Deep Web Chat,Norfolk Island,Critical,"Mosley, Hartman and Wilson",2026-01-23 08:56:44
+617,Data Leak,Deep Web Chat,Burundi,High,Hooper-Johnson,2026-03-08 14:13:14
+618,Hacker Forum Mention,Marketplace,Mexico,Medium,"Lee, Hall and Henry",2026-03-29 14:45:36
+619,Hacker Forum Mention,Deep Web Chat,Samoa,Low,Davis-Poole,2026-05-14 10:04:21
+620,Data Leak,Marketplace,Malawi,Medium,Glass-Brown,2026-03-14 14:08:02
+621,Compromised Accounts,Deep Web Chat,Singapore,Medium,"Hale, Gilbert and King",2026-05-03 15:54:07
+622,Stolen Credit Cards,Deep Web Chat,Barbados,Low,Haynes-Lamb,2026-04-01 00:19:10
+623,Leaked Credentials,Deep Web Chat,Panama,High,Baldwin-Rodriguez,2026-03-17 15:58:49
+624,Compromised Accounts,Dark Forum,Belgium,Low,Frye-Hopkins,2026-01-10 14:11:00
+625,Hacker Forum Mention,Telegram,Kazakhstan,Medium,Allen PLC,2026-02-26 04:52:14
+626,Data Leak,Marketplace,Greenland,Medium,Gonzalez-Clark,2026-05-27 13:40:37
+627,Stolen Credit Cards,Telegram,Iraq,Low,Kaiser-Morris,2026-05-16 05:26:25
+628,Hacker Forum Mention,Deep Web Chat,Jersey,Critical,Schneider Ltd,2026-03-04 17:38:25
+629,Leaked Credentials,Deep Web Chat,Guadeloupe,Medium,Campbell-Fowler,2026-04-16 20:56:16
+630,Hacker Forum Mention,Deep Web Chat,Sweden,High,"Fisher, Camacho and Cervantes",2026-01-18 18:03:24
+631,Compromised Accounts,Deep Web Chat,Mali,High,Payne LLC,2026-02-28 01:47:03
+632,Stolen Credit Cards,Dark Forum,Libyan Arab Jamahiriya,Low,Davis Inc,2026-04-27 18:53:39
+633,Compromised Accounts,Marketplace,Latvia,Low,Perez Inc,2026-01-16 20:16:58
+634,Data Leak,Marketplace,Korea,Low,Taylor-King,2026-03-03 14:14:37
+635,Stolen Credit Cards,Deep Web Chat,Greece,Low,Pena-Mcguire,2026-01-17 05:10:35
+636,Stolen Credit Cards,Deep Web Chat,Colombia,Low,Tucker-Anderson,2026-03-20 07:46:23
+637,Compromised Accounts,Telegram,Australia,Critical,Sloan-Boone,2026-05-15 10:25:36
+638,Compromised Accounts,Telegram,Malaysia,Critical,Conley LLC,2026-05-22 18:26:47
+639,Leaked Credentials,Deep Web Chat,Kuwait,Critical,Williams Group,2026-04-08 11:45:00
+640,Leaked Credentials,Dark Forum,Bosnia and Herzegovina,Medium,"Kent, Wood and Martinez",2026-01-27 21:11:40
+641,Compromised Accounts,Dark Forum,Tajikistan,High,West and Sons,2026-01-15 05:20:34
+642,Stolen Credit Cards,Deep Web Chat,Iceland,Critical,Curtis Inc,2026-02-22 05:22:00
+643,Compromised Accounts,Dark Forum,Niue,Low,Turner PLC,2026-05-07 22:48:30
+644,Compromised Accounts,Telegram,Malaysia,Critical,Reed-Morris,2026-01-28 19:10:54
+645,Hacker Forum Mention,Telegram,Congo,Low,Hudson-Cook,2026-01-09 06:09:04
+646,Leaked Credentials,Marketplace,Hong Kong,Low,Davis-Bishop,2026-02-04 00:17:00
+647,Leaked Credentials,Marketplace,Chile,Medium,Francis Inc,2026-02-07 18:03:41
+648,Data Leak,Telegram,Guadeloupe,Critical,Martin-Hammond,2026-05-10 21:26:01
+649,Compromised Accounts,Dark Forum,Monaco,Critical,"Smith, Mejia and Lee",2026-03-24 15:52:52
+650,Leaked Credentials,Deep Web Chat,Senegal,Critical,Moore LLC,2026-01-24 11:23:02
+651,Data Leak,Dark Forum,Barbados,High,"Foster, Tran and Williams",2026-02-08 08:36:22
+652,Leaked Credentials,Deep Web Chat,Seychelles,Medium,Hernandez Ltd,2026-03-21 06:30:45
+653,Data Leak,Deep Web Chat,Syrian Arab Republic,Low,Valdez-Page,2026-05-25 05:47:58
+654,Compromised Accounts,Dark Forum,Papua New Guinea,Low,"Hall, Johnson and Flores",2026-04-23 03:00:17
+655,Leaked Credentials,Dark Forum,Andorra,Medium,"Pacheco, Morales and Munoz",2026-01-31 02:49:16
+656,Data Leak,Telegram,Slovakia (Slovak Republic),Critical,Gray Group,2026-03-04 02:44:19
+657,Hacker Forum Mention,Dark Forum,Guyana,High,"Hubbard, Carter and Garcia",2026-03-26 06:50:51
+658,Hacker Forum Mention,Deep Web Chat,Angola,Medium,"Atkinson, Lindsey and Love",2026-04-01 02:45:04
+659,Stolen Credit Cards,Telegram,Guam,Critical,Walsh-Webb,2026-02-14 02:48:18
+660,Compromised Accounts,Telegram,Armenia,Critical,Ross Ltd,2026-01-24 05:37:45
+661,Stolen Credit Cards,Deep Web Chat,Vietnam,High,Tran and Sons,2026-05-10 21:21:39
+662,Hacker Forum Mention,Deep Web Chat,Brunei Darussalam,Medium,Reed Ltd,2026-02-12 03:29:33
+663,Compromised Accounts,Telegram,Martinique,Critical,"Bruce, Smith and French",2026-01-24 16:36:09
+664,Leaked Credentials,Dark Forum,Honduras,Low,"Frazier, Bennett and Morrow",2026-04-23 02:51:12
+665,Data Leak,Dark Forum,Namibia,Medium,Gaines-Daniels,2026-04-30 23:33:30
+666,Leaked Credentials,Deep Web Chat,Western Sahara,Medium,"Mills, Gomez and Roth",2026-01-19 07:09:09
+667,Data Leak,Deep Web Chat,Serbia,Critical,"Dillon, Barton and Torres",2026-02-22 13:43:44
+668,Compromised Accounts,Dark Forum,India,Medium,"Davis, Medina and Valenzuela",2026-03-04 23:10:27
+669,Leaked Credentials,Telegram,Falkland Islands (Malvinas),High,Murphy-Perez,2026-04-17 15:57:59
+670,Hacker Forum Mention,Dark Forum,Martinique,Medium,"Carter, Moore and Wright",2026-03-24 05:40:50
+671,Leaked Credentials,Dark Forum,Guatemala,High,Reynolds-Weber,2026-02-22 07:30:52
+672,Stolen Credit Cards,Marketplace,South Georgia and the South Sandwich Islands,Critical,Douglas-Williams,2026-04-25 23:18:53
+673,Stolen Credit Cards,Telegram,Barbados,Medium,"Baker, Acevedo and Phillips",2026-03-17 11:02:59
+674,Stolen Credit Cards,Marketplace,Chile,Medium,"Walker, Glass and Shannon",2026-04-15 02:43:25
+675,Hacker Forum Mention,Marketplace,Martinique,Medium,Davis and Sons,2026-02-12 19:23:57
+676,Stolen Credit Cards,Dark Forum,Netherlands,Medium,"Gonzalez, Sanchez and Patterson",2026-01-10 01:08:13
+677,Hacker Forum Mention,Telegram,North Macedonia,Critical,"Cox, Vang and Craig",2026-01-07 09:23:19
+678,Leaked Credentials,Deep Web Chat,Brunei Darussalam,Medium,Gray Ltd,2026-04-20 11:01:24
+679,Stolen Credit Cards,Telegram,Netherlands Antilles,Critical,Williams Inc,2026-02-25 08:15:30
+680,Compromised Accounts,Telegram,Saudi Arabia,Medium,Carr-Ward,2026-04-20 12:32:08
+681,Data Leak,Deep Web Chat,Norfolk Island,Low,Adams Group,2026-03-16 02:07:28
+682,Hacker Forum Mention,Dark Forum,Palau,Medium,"Donovan, Brown and Paul",2026-03-05 12:48:07
+683,Data Leak,Telegram,Bermuda,Medium,"Alvarez, Lawrence and Yates",2026-05-05 23:51:08
+684,Leaked Credentials,Telegram,Guinea-Bissau,Medium,"Mayer, Hall and Murphy",2026-05-22 03:18:37
+685,Compromised Accounts,Marketplace,Brazil,Low,"Simon, Taylor and Harrison",2026-03-27 16:15:32
+686,Hacker Forum Mention,Dark Forum,Norway,Medium,Rodgers PLC,2026-01-28 10:19:53
+687,Compromised Accounts,Marketplace,Zimbabwe,High,"Khan, Williams and Myers",2026-03-13 01:45:45
+688,Data Leak,Telegram,Bosnia and Herzegovina,Medium,"Roy, Malone and Jones",2026-01-06 14:33:50
+689,Hacker Forum Mention,Marketplace,Mali,High,"Terry, Mora and Rojas",2026-05-10 01:35:35
+690,Stolen Credit Cards,Dark Forum,Palau,High,Reynolds-Contreras,2026-01-20 15:40:55
+691,Leaked Credentials,Dark Forum,French Guiana,Medium,"Barnes, Davis and Patterson",2026-03-28 02:03:26
+692,Hacker Forum Mention,Dark Forum,British Virgin Islands,High,"Hutchinson, Peterson and Dawson",2026-01-06 19:45:22
+693,Compromised Accounts,Dark Forum,Guatemala,Critical,Pearson-Robertson,2026-01-10 22:32:10
+694,Hacker Forum Mention,Marketplace,Benin,Low,Simmons Inc,2026-03-20 16:25:23
+695,Hacker Forum Mention,Dark Forum,Uganda,Low,"Burnett, Williams and Barnes",2026-04-02 19:14:12
+696,Data Leak,Dark Forum,Kuwait,Low,"Stewart, Pope and Dominguez",2026-05-27 11:41:33
+697,Compromised Accounts,Marketplace,United States Virgin Islands,Low,Pruitt PLC,2026-02-14 22:28:23
+698,Data Leak,Dark Forum,Argentina,Critical,Mitchell-Nichols,2026-01-16 12:41:03
+699,Stolen Credit Cards,Dark Forum,Puerto Rico,Critical,"Jackson, Sims and Mora",2026-01-26 09:39:12
+700,Data Leak,Telegram,Maldives,Critical,"Singleton, Price and Nolan",2026-02-05 08:39:27
+701,Stolen Credit Cards,Deep Web Chat,Egypt,Medium,"Floyd, Young and Martinez",2026-05-07 13:34:54
+702,Stolen Credit Cards,Marketplace,Bahrain,Critical,Thomas and Sons,2026-05-24 16:23:29
+703,Compromised Accounts,Deep Web Chat,France,High,Davis-Miller,2026-01-10 13:45:51
+704,Stolen Credit Cards,Deep Web Chat,Bhutan,Critical,Rose Ltd,2026-03-19 12:45:13
+705,Compromised Accounts,Marketplace,Samoa,High,Lopez-Turner,2026-03-17 17:50:30
+706,Leaked Credentials,Telegram,Tonga,Medium,Sellers Group,2026-05-11 13:31:11
+707,Hacker Forum Mention,Deep Web Chat,Heard Island and McDonald Islands,Low,Tate-Meadows,2026-02-07 02:32:29
+708,Leaked Credentials,Telegram,Falkland Islands (Malvinas),Critical,Nelson-Camacho,2026-03-13 22:11:44
+709,Compromised Accounts,Telegram,Svalbard & Jan Mayen Islands,Medium,Williams-Farmer,2026-04-30 17:40:22
+710,Leaked Credentials,Deep Web Chat,Argentina,Low,Davis PLC,2026-04-27 10:52:21
+711,Compromised Accounts,Telegram,Norfolk Island,High,"Duke, Mays and Smith",2026-04-05 12:01:17
+712,Leaked Credentials,Marketplace,Guinea-Bissau,High,Wolfe-Bush,2026-02-15 02:49:10
+713,Data Leak,Dark Forum,Benin,Critical,Simon PLC,2026-02-06 04:27:36
+714,Compromised Accounts,Deep Web Chat,Montenegro,High,Lee-Cook,2026-03-23 16:16:33
+715,Compromised Accounts,Telegram,Bangladesh,Medium,"King, Briggs and Tran",2026-01-14 02:07:33
+716,Leaked Credentials,Dark Forum,Venezuela,Low,"Good, Moody and Lam",2026-05-14 09:10:19
+717,Data Leak,Telegram,Taiwan,Medium,"Gill, Marks and Palmer",2026-01-22 03:16:40
+718,Stolen Credit Cards,Telegram,Lebanon,Low,Floyd PLC,2026-01-05 07:40:15
+719,Compromised Accounts,Telegram,Honduras,Medium,Carr LLC,2026-03-28 17:01:53
+720,Data Leak,Dark Forum,Malaysia,Medium,Tucker and Sons,2026-04-21 09:45:04
+721,Compromised Accounts,Marketplace,El Salvador,Low,Holt Group,2026-03-06 10:15:16
+722,Hacker Forum Mention,Deep Web Chat,Latvia,Medium,Newton-Cole,2026-03-29 20:54:44
+723,Data Leak,Dark Forum,Barbados,Critical,"Morales, Cross and Hudson",2026-03-22 14:22:56
+724,Data Leak,Dark Forum,Fiji,Medium,Ryan and Sons,2026-04-18 10:48:15
+725,Stolen Credit Cards,Deep Web Chat,Armenia,Critical,Gonzalez PLC,2026-04-18 00:07:38
+726,Hacker Forum Mention,Marketplace,Martinique,High,"Lewis, Davis and Wilson",2026-03-29 02:45:04
+727,Stolen Credit Cards,Dark Forum,Congo,High,"Ward, Graham and Wall",2026-04-16 23:53:35
+728,Hacker Forum Mention,Deep Web Chat,Cuba,Critical,"Watson, Oconnor and Reed",2026-04-04 00:22:43
+729,Leaked Credentials,Deep Web Chat,Bouvet Island (Bouvetoya),Low,Greene Ltd,2026-02-13 00:01:02
+730,Compromised Accounts,Dark Forum,Faroe Islands,High,Gibson-Warner,2026-01-16 06:59:29
+731,Leaked Credentials,Deep Web Chat,Cayman Islands,Critical,"Matthews, Francis and Pratt",2026-05-04 00:47:29
+732,Stolen Credit Cards,Telegram,Bouvet Island (Bouvetoya),Critical,Lewis PLC,2026-01-02 14:27:22
+733,Stolen Credit Cards,Dark Forum,Tajikistan,Low,Wilson PLC,2026-04-02 15:26:32
+734,Data Leak,Marketplace,Dominican Republic,Medium,Davis-Allen,2026-01-11 14:41:28
+735,Stolen Credit Cards,Deep Web Chat,Iceland,Critical,"Williams, Richmond and Hale",2026-03-24 09:08:59
+736,Leaked Credentials,Deep Web Chat,United States Minor Outlying Islands,Low,"Carson, Serrano and Lam",2026-01-11 08:08:05
+737,Data Leak,Dark Forum,Thailand,Low,"Mccoy, Reynolds and Mcmahon",2026-04-27 20:51:46
+738,Leaked Credentials,Marketplace,New Caledonia,Critical,Thompson LLC,2026-02-01 11:20:42
+739,Data Leak,Deep Web Chat,Heard Island and McDonald Islands,Low,"Sanchez, Santiago and Riley",2026-05-15 15:31:08
+740,Hacker Forum Mention,Telegram,France,High,"Rivera, Savage and Hamilton",2026-04-15 15:55:17
+741,Stolen Credit Cards,Deep Web Chat,Marshall Islands,Medium,Martinez and Sons,2026-03-28 21:59:04
+742,Leaked Credentials,Marketplace,Congo,Medium,"Mann, Patton and Moore",2026-03-12 07:45:17
+743,Data Leak,Deep Web Chat,Denmark,Critical,"Bush, Marshall and Brown",2026-03-30 03:28:25
+744,Hacker Forum Mention,Marketplace,South Georgia and the South Sandwich Islands,Low,Bray-Rice,2026-02-07 21:02:34
+745,Leaked Credentials,Dark Forum,Ethiopia,Low,"Garcia, Hughes and Lutz",2026-04-16 07:12:38
+746,Compromised Accounts,Dark Forum,Armenia,Critical,"Blevins, Cohen and Hamilton",2026-02-16 10:19:02
+747,Compromised Accounts,Dark Forum,Nauru,Low,"Alvarado, Aguilar and Phillips",2026-02-04 04:29:08
+748,Data Leak,Telegram,Turkmenistan,High,Williams-Mclean,2026-02-27 02:24:40
+749,Compromised Accounts,Marketplace,Cameroon,High,"Rodriguez, Ryan and Allen",2026-05-20 05:03:06
+750,Compromised Accounts,Dark Forum,Saint Pierre and Miquelon,Medium,Taylor-Rodriguez,2026-05-18 18:06:48
+751,Leaked Credentials,Deep Web Chat,Tunisia,Medium,Steele-Martin,2026-02-25 09:42:49
+752,Data Leak,Marketplace,Malawi,High,Gamble-Watts,2026-04-17 02:07:42
+753,Data Leak,Marketplace,Afghanistan,Critical,"Elliott, Chandler and Jordan",2026-04-22 08:52:57
+754,Compromised Accounts,Marketplace,Mayotte,Critical,Lopez-Perez,2026-02-17 16:42:22
+755,Data Leak,Dark Forum,Hungary,Critical,"Hernandez, Taylor and Hall",2026-04-07 13:29:39
+756,Leaked Credentials,Deep Web Chat,Libyan Arab Jamahiriya,Medium,Waters-Myers,2026-05-07 06:10:36
+757,Leaked Credentials,Dark Forum,Northern Mariana Islands,Low,Summers-Maldonado,2026-04-12 16:18:54
+758,Data Leak,Marketplace,Aruba,Medium,Mclaughlin and Sons,2026-03-29 08:40:08
+759,Leaked Credentials,Deep Web Chat,Niue,Low,Clark Group,2026-01-21 07:47:43
+760,Stolen Credit Cards,Marketplace,Micronesia,Low,Stark Group,2026-02-27 07:48:35
+761,Stolen Credit Cards,Dark Forum,Turkey,Low,"Mora, Wells and Cobb",2026-03-06 16:15:34
+762,Leaked Credentials,Telegram,Luxembourg,Critical,"Warner, Bishop and Massey",2026-05-10 06:32:32
+763,Hacker Forum Mention,Telegram,Slovakia (Slovak Republic),Critical,Ritter-Smith,2026-01-24 04:11:22
+764,Stolen Credit Cards,Deep Web Chat,Paraguay,Critical,Johnson-Smith,2026-03-14 02:23:22
+765,Stolen Credit Cards,Deep Web Chat,Ghana,Medium,"Morris, Huang and Lambert",2026-01-01 00:26:57
+766,Stolen Credit Cards,Deep Web Chat,Zimbabwe,Critical,Watson LLC,2026-01-27 15:37:33
+767,Hacker Forum Mention,Dark Forum,Kyrgyz Republic,Critical,Douglas-Williams,2026-03-07 06:41:32
+768,Stolen Credit Cards,Deep Web Chat,Guinea-Bissau,High,Clark-Heath,2026-04-30 17:03:48
+769,Leaked Credentials,Dark Forum,Jamaica,High,Dickson-Burch,2026-01-29 20:33:21
+770,Stolen Credit Cards,Telegram,Bhutan,High,Davis LLC,2026-02-27 18:19:46
+771,Hacker Forum Mention,Marketplace,Tonga,Critical,Barton PLC,2026-05-19 00:27:34
+772,Leaked Credentials,Dark Forum,Niger,High,White PLC,2026-03-12 17:48:27
+773,Hacker Forum Mention,Telegram,Suriname,Medium,"Hall, Whitehead and Taylor",2026-04-16 19:52:52
+774,Hacker Forum Mention,Telegram,Guyana,Critical,"Thompson, Mcdaniel and Diaz",2026-01-18 10:56:58
+775,Compromised Accounts,Marketplace,Kazakhstan,Medium,Cooper PLC,2026-04-19 07:28:25
+776,Leaked Credentials,Telegram,Bahamas,Medium,Price-Martin,2026-05-02 15:46:50
+777,Hacker Forum Mention,Dark Forum,Sudan,Critical,Daniels Inc,2026-05-14 05:15:59
+778,Compromised Accounts,Deep Web Chat,Norway,Low,Villarreal-Cooke,2026-03-14 09:31:18
+779,Compromised Accounts,Telegram,Malawi,Medium,Strong-Butler,2026-05-23 10:15:48
+780,Compromised Accounts,Deep Web Chat,Zimbabwe,Critical,Fuller-Griffin,2026-05-14 16:02:39
+781,Leaked Credentials,Deep Web Chat,Isle of Man,Medium,"Gray, Reese and Wright",2026-01-03 20:12:37
+782,Hacker Forum Mention,Dark Forum,Dominica,Medium,Washington-George,2026-02-07 02:14:02
+783,Stolen Credit Cards,Marketplace,Belarus,Low,Garcia-Horn,2026-01-08 23:16:46
+784,Hacker Forum Mention,Deep Web Chat,Reunion,Low,Powers and Sons,2026-02-14 23:40:12
+785,Compromised Accounts,Telegram,Anguilla,Low,Clark-Fry,2026-01-16 20:58:45
+786,Stolen Credit Cards,Deep Web Chat,El Salvador,High,Clark-Lawrence,2026-01-16 02:58:59
+787,Data Leak,Deep Web Chat,Brunei Darussalam,Low,Thompson PLC,2026-03-01 11:39:40
+788,Leaked Credentials,Telegram,Panama,High,"Guzman, Robles and Carter",2026-05-08 20:38:15
+789,Leaked Credentials,Telegram,Sierra Leone,Critical,"Hernandez, Monroe and Anderson",2026-02-25 13:20:58
+790,Compromised Accounts,Marketplace,Latvia,Critical,Ho-Moyer,2026-02-15 19:08:50
+791,Hacker Forum Mention,Dark Forum,United Kingdom,Critical,"Harris, Gonzalez and Haynes",2026-04-30 10:29:24
+792,Stolen Credit Cards,Marketplace,Somalia,Medium,"Preston, Hunt and Barker",2026-04-07 06:43:33
+793,Data Leak,Telegram,Albania,Critical,Brady PLC,2026-04-03 17:08:03
+794,Stolen Credit Cards,Dark Forum,Cote d'Ivoire,Low,Holder Group,2026-05-06 02:34:50
+795,Compromised Accounts,Deep Web Chat,Thailand,Medium,"Wilson, Mcbride and Collins",2026-01-26 10:10:34
+796,Stolen Credit Cards,Telegram,Canada,Critical,"Cooper, Smith and Downs",2026-01-31 07:37:14
+797,Hacker Forum Mention,Telegram,Cayman Islands,Medium,"Barton, Rose and Banks",2026-05-09 19:06:40
+798,Data Leak,Dark Forum,Kiribati,Low,"Church, Palmer and Hughes",2026-02-01 02:31:40
+799,Leaked Credentials,Marketplace,Montserrat,High,Leonard Inc,2026-02-16 04:01:44
+800,Hacker Forum Mention,Telegram,Netherlands,Medium,Olson-Mendoza,2026-04-18 10:25:35
+801,Data Leak,Dark Forum,Tonga,Critical,"Bowman, Anderson and Cortez",2026-01-01 15:41:07
+802,Stolen Credit Cards,Marketplace,Estonia,Medium,Bush Inc,2026-03-16 12:22:25
+803,Hacker Forum Mention,Dark Forum,Pakistan,High,Lee-Powell,2026-01-13 07:43:32
+804,Data Leak,Telegram,Burkina Faso,Low,Hudson-Fletcher,2026-03-31 18:23:41
+805,Leaked Credentials,Telegram,Ecuador,Critical,"Yoder, Anderson and Davidson",2026-05-10 12:57:03
+806,Leaked Credentials,Telegram,China,Medium,Chambers PLC,2026-05-05 14:40:21
+807,Data Leak,Marketplace,Dominican Republic,Low,Jackson LLC,2026-05-05 00:31:01
+808,Data Leak,Marketplace,Qatar,Medium,Chan PLC,2026-05-11 11:24:05
+809,Compromised Accounts,Dark Forum,Anguilla,Critical,Bennett-Shelton,2026-02-22 04:19:45
+810,Hacker Forum Mention,Deep Web Chat,Tonga,Critical,Cooper LLC,2026-05-24 10:19:56
+811,Stolen Credit Cards,Telegram,Turkmenistan,Medium,Hampton-Evans,2026-02-24 20:15:20
+812,Stolen Credit Cards,Telegram,Slovakia (Slovak Republic),Medium,"Thomas, Clark and Rodriguez",2026-03-28 10:59:59
+813,Hacker Forum Mention,Marketplace,Belgium,Critical,"Cochran, Vega and Porter",2026-01-23 22:44:24
+814,Hacker Forum Mention,Deep Web Chat,Uzbekistan,Critical,"Taylor, Bailey and Cole",2026-04-02 04:48:13
+815,Compromised Accounts,Dark Forum,Vanuatu,Low,Woods-Beasley,2026-01-30 03:25:52
+816,Data Leak,Telegram,Mexico,Low,"Johnson, Bailey and Byrd",2026-01-17 19:17:15
+817,Data Leak,Deep Web Chat,Greenland,Low,Schneider Group,2026-05-14 10:43:15
+818,Stolen Credit Cards,Telegram,Cape Verde,Critical,Davis Inc,2026-01-08 00:19:00
+819,Stolen Credit Cards,Deep Web Chat,Syrian Arab Republic,High,David and Sons,2026-05-01 00:59:38
+820,Compromised Accounts,Deep Web Chat,Bulgaria,Low,Lewis-Mendoza,2026-01-23 09:16:59
+821,Stolen Credit Cards,Dark Forum,Turkey,Critical,"Gardner, Foley and Tucker",2026-05-11 14:22:40
+822,Stolen Credit Cards,Deep Web Chat,Israel,High,Morales-Hernandez,2026-03-15 21:43:30
+823,Stolen Credit Cards,Deep Web Chat,France,High,"Mckinney, Garrison and Bauer",2026-03-22 23:12:43
+824,Leaked Credentials,Telegram,Cuba,Low,"Gordon, Smith and Hall",2026-01-06 18:56:08
+825,Leaked Credentials,Dark Forum,Egypt,Low,"Murray, Meyer and Villa",2026-05-04 12:26:46
+826,Stolen Credit Cards,Telegram,Spain,Medium,Smith-Rose,2026-04-26 23:27:21
+827,Data Leak,Dark Forum,Algeria,Medium,Escobar PLC,2026-04-04 11:17:26
+828,Data Leak,Telegram,Romania,Medium,Fields and Sons,2026-02-01 04:45:54
+829,Hacker Forum Mention,Deep Web Chat,Sao Tome and Principe,Low,Morris and Sons,2026-05-17 18:03:57
+830,Stolen Credit Cards,Marketplace,Cape Verde,Critical,Rodriguez-Jackson,2026-05-16 23:19:22
+831,Compromised Accounts,Marketplace,Haiti,Low,"Hays, Webb and Jacobs",2026-05-15 20:05:59
+832,Stolen Credit Cards,Marketplace,Belgium,Medium,"Rogers, Douglas and Moore",2026-03-18 08:05:58
+833,Leaked Credentials,Telegram,Australia,High,Tapia Group,2026-04-05 05:17:53
+834,Compromised Accounts,Deep Web Chat,Germany,Critical,Cummings LLC,2026-02-05 12:07:20
+835,Compromised Accounts,Deep Web Chat,Spain,Critical,"Mathis, Banks and Stark",2026-05-28 15:05:42
+836,Data Leak,Telegram,Lao People's Democratic Republic,Low,"Brown, Delacruz and Mann",2026-01-11 16:31:09
+837,Compromised Accounts,Dark Forum,Nicaragua,High,Taylor-Payne,2026-02-23 11:28:02
+838,Stolen Credit Cards,Deep Web Chat,Christmas Island,Critical,"Jenkins, Middleton and Huang",2026-02-10 12:25:11
+839,Compromised Accounts,Dark Forum,Bangladesh,Low,"Smith, Melton and Payne",2026-05-01 06:30:10
+840,Stolen Credit Cards,Deep Web Chat,Japan,Medium,Smith-Fowler,2026-01-12 00:24:33
+841,Leaked Credentials,Dark Forum,Yemen,Medium,Dillon Group,2026-04-06 12:24:06
+842,Data Leak,Telegram,Bolivia,High,May and Sons,2026-05-02 01:30:45
+843,Data Leak,Dark Forum,Lithuania,Low,"Glass, Norton and Stone",2026-04-12 12:23:55
+844,Hacker Forum Mention,Marketplace,Papua New Guinea,Critical,Miranda-Hansen,2026-05-09 07:33:45
+845,Compromised Accounts,Marketplace,Madagascar,High,"Pruitt, Townsend and Bailey",2026-03-03 15:41:18
+846,Leaked Credentials,Dark Forum,Chile,High,Flowers-Harrison,2026-04-18 19:04:29
+847,Hacker Forum Mention,Dark Forum,Chad,High,"Thomas, Sanchez and Spencer",2026-05-18 07:56:11
+848,Stolen Credit Cards,Telegram,Malta,Low,Vazquez PLC,2026-01-09 09:55:15
+849,Data Leak,Telegram,Guam,Low,Murillo Inc,2026-01-16 00:24:49
+850,Hacker Forum Mention,Marketplace,Mozambique,Low,Oconnell-Romero,2026-01-26 11:37:40
+851,Compromised Accounts,Marketplace,Uzbekistan,High,"Best, George and Elliott",2026-04-30 16:10:43
+852,Leaked Credentials,Deep Web Chat,Czech Republic,Medium,Smith Ltd,2026-01-02 18:47:08
+853,Hacker Forum Mention,Dark Forum,Kenya,High,Richardson-Higgins,2026-03-27 17:25:50
+854,Data Leak,Marketplace,Bosnia and Herzegovina,High,"Williams, Brown and Rice",2026-04-04 01:45:26
+855,Stolen Credit Cards,Dark Forum,Paraguay,Critical,"Levy, Williams and Gardner",2026-03-02 12:43:49
+856,Stolen Credit Cards,Dark Forum,Andorra,High,"Olsen, Collins and Freeman",2026-02-04 11:53:08
+857,Compromised Accounts,Marketplace,Nepal,Medium,Gonzalez-Lopez,2026-03-01 03:08:55
+858,Leaked Credentials,Marketplace,Greece,Critical,"Mitchell, Marsh and Ruiz",2026-01-02 13:50:30
+859,Leaked Credentials,Telegram,Christmas Island,Critical,"Jarvis, Lee and Sanchez",2026-05-06 19:24:28
+860,Data Leak,Deep Web Chat,Netherlands Antilles,Critical,Williams-Garcia,2026-03-26 04:30:12
+861,Compromised Accounts,Telegram,Angola,Medium,Ayala Ltd,2026-05-27 03:17:42
+862,Compromised Accounts,Dark Forum,Slovakia (Slovak Republic),Low,Sims Inc,2026-01-13 09:29:12
+863,Compromised Accounts,Dark Forum,Bangladesh,Low,Mckinney Ltd,2026-02-24 13:57:23
+864,Stolen Credit Cards,Marketplace,Ethiopia,Critical,Henderson-David,2026-02-27 05:28:43
+865,Leaked Credentials,Deep Web Chat,Jersey,Low,"Acosta, Hicks and Garcia",2026-02-10 15:36:33
+866,Hacker Forum Mention,Marketplace,Libyan Arab Jamahiriya,Medium,Serrano and Sons,2026-01-11 11:36:30
+867,Data Leak,Deep Web Chat,Greenland,High,"Beasley, Morrison and Moore",2026-02-05 23:43:21
+868,Leaked Credentials,Marketplace,Angola,Critical,Williams PLC,2026-04-30 11:40:13
+869,Hacker Forum Mention,Marketplace,Czech Republic,Low,Bryan-Duarte,2026-03-11 20:54:12
+870,Compromised Accounts,Telegram,Turkmenistan,Low,Wagner Group,2026-04-22 16:03:24
+871,Hacker Forum Mention,Marketplace,Lebanon,Critical,Cowan PLC,2026-04-29 05:53:47
+872,Leaked Credentials,Marketplace,Barbados,Low,Sanford and Sons,2026-03-07 08:51:06
+873,Data Leak,Marketplace,New Caledonia,Medium,Russell Ltd,2026-05-28 11:21:54
+874,Compromised Accounts,Dark Forum,Isle of Man,High,Moore-Cook,2026-05-10 01:52:04
+875,Data Leak,Telegram,Bosnia and Herzegovina,Critical,"Webb, Brewer and Jimenez",2026-02-11 08:02:03
+876,Hacker Forum Mention,Marketplace,Zambia,Low,Arias-Parrish,2026-05-07 12:21:59
+877,Leaked Credentials,Deep Web Chat,Wallis and Futuna,Low,"Bowman, Lewis and Cook",2026-05-18 13:18:43
+878,Data Leak,Deep Web Chat,Fiji,Low,Hurley Inc,2026-05-22 20:10:51
+879,Compromised Accounts,Telegram,Congo,Critical,Arnold-Hill,2026-04-26 10:30:51
+880,Leaked Credentials,Dark Forum,Ireland,High,"Rubio, Underwood and Davis",2026-04-19 10:06:29
+881,Data Leak,Marketplace,Western Sahara,Low,Rodriguez Group,2026-04-14 04:57:13
+882,Compromised Accounts,Deep Web Chat,Marshall Islands,High,"Schmidt, Hess and Tanner",2026-02-06 13:55:52
+883,Compromised Accounts,Deep Web Chat,Maldives,Low,Wade-Noble,2026-03-23 18:50:33
+884,Compromised Accounts,Marketplace,Palau,Medium,James Ltd,2026-05-12 11:03:16
+885,Hacker Forum Mention,Marketplace,Slovakia (Slovak Republic),High,"Smith, Johnson and Owens",2026-05-05 13:31:55
+886,Hacker Forum Mention,Dark Forum,Monaco,Critical,"Smith, Jones and Stewart",2026-02-03 04:33:11
+887,Stolen Credit Cards,Deep Web Chat,South Georgia and the South Sandwich Islands,Low,Medina LLC,2026-01-19 18:46:59
+888,Stolen Credit Cards,Marketplace,Kazakhstan,Low,"Schmidt, Ellis and Johnston",2026-01-18 12:17:50
+889,Leaked Credentials,Deep Web Chat,Serbia,Critical,Rush-Daniels,2026-02-12 19:46:24
+890,Compromised Accounts,Dark Forum,Venezuela,Critical,Stephens-Rodriguez,2026-03-22 02:06:29
+891,Stolen Credit Cards,Telegram,Saint Kitts and Nevis,Critical,Miller-Carpenter,2026-02-12 20:45:53
+892,Stolen Credit Cards,Dark Forum,Ukraine,High,Cooper-Robinson,2026-01-01 23:09:33
+893,Data Leak,Dark Forum,Greenland,High,Alvarez Inc,2026-02-07 16:50:22
+894,Data Leak,Telegram,Bangladesh,Critical,Fisher Group,2026-03-31 22:27:57
+895,Hacker Forum Mention,Dark Forum,Singapore,Critical,"Hansen, Campbell and Poole",2026-01-21 15:02:06
+896,Hacker Forum Mention,Deep Web Chat,Croatia,Medium,King-Roberson,2026-01-03 02:32:59
+897,Stolen Credit Cards,Deep Web Chat,Solomon Islands,Medium,"Vargas, Stevens and Thomas",2026-01-27 10:01:01
+898,Compromised Accounts,Dark Forum,Malta,Medium,"Hoffman, Garcia and Campos",2026-02-05 07:58:16
+899,Hacker Forum Mention,Deep Web Chat,Antigua and Barbuda,Critical,Mathews-Chen,2026-04-15 16:16:29
+900,Compromised Accounts,Marketplace,Guatemala,Critical,"Allen, Gardner and Carter",2026-04-18 14:27:05
+901,Hacker Forum Mention,Dark Forum,Cambodia,Low,"Martinez, Abbott and Conrad",2026-01-09 20:38:18
+902,Data Leak,Telegram,Vanuatu,Medium,Parker-Anderson,2026-05-21 20:40:04
+903,Leaked Credentials,Deep Web Chat,French Southern Territories,Low,Thompson PLC,2026-02-19 01:04:38
+904,Compromised Accounts,Deep Web Chat,Faroe Islands,Critical,Smith-Harvey,2026-03-16 23:53:27
+905,Compromised Accounts,Marketplace,Burundi,Medium,"Harris, Silva and Diaz",2026-04-09 13:37:10
+906,Stolen Credit Cards,Marketplace,Congo,Medium,"Lowery, Kelly and Moss",2026-04-07 15:09:59
+907,Stolen Credit Cards,Deep Web Chat,Namibia,High,Barker Ltd,2026-02-09 18:45:29
+908,Leaked Credentials,Deep Web Chat,Saint Pierre and Miquelon,Medium,"Knapp, Martinez and Farrell",2026-05-15 23:14:50
+909,Data Leak,Deep Web Chat,Anguilla,High,Johnson and Sons,2026-04-05 03:09:24
+910,Stolen Credit Cards,Marketplace,Lao People's Democratic Republic,Critical,"Allison, Booker and Reyes",2026-03-06 11:28:41
+911,Hacker Forum Mention,Deep Web Chat,Pakistan,Medium,Stephens PLC,2026-03-06 22:00:17
+912,Stolen Credit Cards,Telegram,Canada,Critical,Haley-Waller,2026-03-04 02:44:45
+913,Leaked Credentials,Telegram,Turkey,Medium,Castillo-Russell,2026-04-22 00:34:42
+914,Hacker Forum Mention,Deep Web Chat,India,Critical,"Edwards, Howell and Clay",2026-03-25 11:44:06
+915,Hacker Forum Mention,Marketplace,Paraguay,Critical,Orr-Perry,2026-04-15 04:31:18
+916,Compromised Accounts,Dark Forum,Syrian Arab Republic,Critical,Arnold Inc,2026-03-11 20:02:34
+917,Compromised Accounts,Telegram,Western Sahara,Medium,Bennett Inc,2026-02-13 14:50:37
+918,Stolen Credit Cards,Marketplace,Australia,High,Reynolds Ltd,2026-05-22 00:46:45
+919,Hacker Forum Mention,Telegram,French Guiana,Critical,Bailey-Olson,2026-02-03 19:06:48
+920,Data Leak,Telegram,Yemen,Critical,"Smith, Reyes and Moreno",2026-02-21 21:51:42
+921,Compromised Accounts,Deep Web Chat,Latvia,Critical,Murray-Cook,2026-01-14 10:41:13
+922,Compromised Accounts,Deep Web Chat,Lithuania,Critical,"Thompson, Cherry and Gonzalez",2026-03-05 05:30:05
+923,Data Leak,Dark Forum,Puerto Rico,Medium,King-Johnson,2026-03-11 17:23:57
+924,Hacker Forum Mention,Deep Web Chat,Zambia,High,Washington Group,2026-02-03 22:40:57
+925,Leaked Credentials,Telegram,Morocco,High,"Kaiser, Garcia and Jordan",2026-03-17 08:20:31
+926,Compromised Accounts,Telegram,Afghanistan,Medium,"Mccormick, Colon and Church",2026-03-09 13:32:10
+927,Hacker Forum Mention,Dark Forum,Jamaica,High,Pena Inc,2026-01-03 15:19:13
+928,Leaked Credentials,Telegram,American Samoa,Low,Green LLC,2026-01-18 11:38:30
+929,Compromised Accounts,Marketplace,Guinea-Bissau,Critical,Hawkins Inc,2026-03-20 03:16:56
+930,Hacker Forum Mention,Dark Forum,Grenada,Medium,Miller and Sons,2026-02-18 23:47:48
+931,Stolen Credit Cards,Marketplace,Nauru,High,Mitchell LLC,2026-03-24 08:47:30
+932,Stolen Credit Cards,Deep Web Chat,Bouvet Island (Bouvetoya),High,"Camacho, Peters and Martin",2026-05-23 12:19:39
+933,Stolen Credit Cards,Dark Forum,Djibouti,Medium,"Smith, Parker and Cunningham",2026-03-22 18:32:21
+934,Data Leak,Deep Web Chat,Bosnia and Herzegovina,Critical,Dodson Group,2026-01-22 00:58:52
+935,Leaked Credentials,Dark Forum,Lao People's Democratic Republic,Medium,"Lewis, Carr and Butler",2026-05-13 20:51:15
+936,Stolen Credit Cards,Dark Forum,Paraguay,High,Harris and Sons,2026-05-23 02:10:40
+937,Leaked Credentials,Telegram,Greece,Critical,Waters-Johnson,2026-03-29 00:52:55
+938,Hacker Forum Mention,Dark Forum,Lesotho,High,"Sanders, Ballard and Lopez",2026-03-10 21:38:29
+939,Leaked Credentials,Dark Forum,United Arab Emirates,Critical,"Bishop, Campbell and Mason",2026-05-06 02:23:19
+940,Leaked Credentials,Marketplace,Bhutan,Medium,Price PLC,2026-01-08 17:05:37
+941,Stolen Credit Cards,Dark Forum,Turks and Caicos Islands,Critical,"Pacheco, Kelley and Durham",2026-05-27 14:54:14
+942,Hacker Forum Mention,Deep Web Chat,Mauritania,Critical,"Howard, David and Harris",2026-04-10 14:35:20
+943,Data Leak,Marketplace,Bolivia,Low,Payne-Roberts,2026-05-20 13:16:53
+944,Compromised Accounts,Telegram,Slovenia,Medium,Davis Group,2026-02-22 22:03:02
+945,Stolen Credit Cards,Marketplace,Anguilla,Medium,"Ellis, Ramos and Perry",2026-02-27 09:31:24
+946,Hacker Forum Mention,Dark Forum,Bahamas,Critical,Griffin Group,2026-03-10 21:10:13
+947,Data Leak,Deep Web Chat,Singapore,Low,Mendoza-Martin,2026-04-30 03:44:07
+948,Stolen Credit Cards,Deep Web Chat,Saint Lucia,Medium,"Simmons, Nichols and Washington",2026-05-12 00:16:55
+949,Compromised Accounts,Telegram,Paraguay,High,Rodriguez and Sons,2026-05-15 14:25:02
+950,Hacker Forum Mention,Telegram,Mayotte,Critical,"Sweeney, Flowers and Ryan",2026-02-15 14:03:31
+951,Data Leak,Dark Forum,Mexico,High,Gomez Ltd,2026-04-30 07:48:29
+952,Compromised Accounts,Dark Forum,Peru,High,Guzman-Moses,2026-05-26 07:53:32
+953,Leaked Credentials,Deep Web Chat,Angola,Low,Juarez PLC,2026-02-25 02:02:43
+954,Hacker Forum Mention,Marketplace,Ireland,Medium,Craig LLC,2026-01-24 05:40:38
+955,Compromised Accounts,Dark Forum,Poland,Medium,Mccall LLC,2026-01-04 16:36:17
+956,Compromised Accounts,Telegram,Solomon Islands,Critical,Snyder Group,2026-05-11 08:42:35
+957,Leaked Credentials,Deep Web Chat,Bhutan,Critical,"Rose, Kerr and Morris",2026-02-10 19:40:16
+958,Leaked Credentials,Deep Web Chat,Fiji,High,"Davis, Carr and Black",2026-03-17 03:51:45
+959,Compromised Accounts,Telegram,United States Virgin Islands,High,Miller-Cruz,2026-05-03 01:50:27
+960,Stolen Credit Cards,Deep Web Chat,Chad,Medium,Joseph-Sellers,2026-03-30 16:57:53
+961,Data Leak,Deep Web Chat,Mayotte,Low,"Johnson, Smith and Richard",2026-02-18 04:31:41
+962,Stolen Credit Cards,Marketplace,Australia,High,"Conrad, Schwartz and Rogers",2026-01-31 07:05:46
+963,Hacker Forum Mention,Marketplace,Zambia,High,Skinner LLC,2026-03-10 19:38:53
+964,Leaked Credentials,Deep Web Chat,Isle of Man,Medium,Lucas Ltd,2026-01-01 11:52:03
+965,Data Leak,Marketplace,Uruguay,Critical,Sanchez LLC,2026-02-14 12:51:17
+966,Stolen Credit Cards,Deep Web Chat,Malta,Critical,"Lewis, Williams and Martin",2026-05-08 02:55:22
+967,Leaked Credentials,Marketplace,Croatia,High,Morrison Ltd,2026-04-04 21:02:10
+968,Leaked Credentials,Dark Forum,Benin,Critical,"Flores, Cisneros and Morgan",2026-05-02 15:33:52
+969,Data Leak,Dark Forum,Moldova,Low,"Rivers, Jackson and Jones",2026-04-15 07:04:52
+970,Leaked Credentials,Deep Web Chat,Taiwan,Low,"Phillips, Shelton and Campbell",2026-04-19 04:20:56
+971,Stolen Credit Cards,Dark Forum,Malaysia,High,Prince Inc,2026-01-06 13:04:46
+972,Compromised Accounts,Deep Web Chat,Ethiopia,Critical,Davis-Rose,2026-05-05 03:52:24
+973,Hacker Forum Mention,Telegram,Mongolia,High,"Mitchell, Thompson and Wheeler",2026-01-15 11:57:47
+974,Hacker Forum Mention,Telegram,Tunisia,Medium,Mcgee-Brooks,2026-01-11 01:13:16
+975,Leaked Credentials,Marketplace,Ecuador,Low,Johnson and Sons,2026-05-28 00:16:38
+976,Compromised Accounts,Telegram,Egypt,Critical,"Walker, Long and Ellis",2026-02-04 07:35:49
+977,Leaked Credentials,Marketplace,Norfolk Island,High,Miller-Riley,2026-05-06 17:59:11
+978,Data Leak,Telegram,Bhutan,Critical,Jenkins Inc,2026-02-09 18:05:31
+979,Data Leak,Telegram,Netherlands Antilles,Critical,Walker-Perez,2026-01-06 08:54:24
+980,Hacker Forum Mention,Marketplace,Moldova,High,Smith-Martinez,2026-05-21 05:26:35
+981,Data Leak,Marketplace,Malawi,Critical,Odom-Garcia,2026-05-14 10:11:25
+982,Data Leak,Marketplace,Indonesia,Medium,Flores-Anderson,2026-01-13 15:56:26
+983,Data Leak,Dark Forum,Zambia,Critical,Wood Ltd,2026-01-26 16:50:11
+984,Data Leak,Telegram,Uzbekistan,Low,Munoz Group,2026-05-27 14:58:09
+985,Leaked Credentials,Telegram,Chad,Critical,Turner-Davis,2026-02-13 15:00:45
+986,Data Leak,Telegram,Greece,Low,Torres-Russell,2026-05-15 08:35:38
+987,Hacker Forum Mention,Marketplace,Vanuatu,Medium,"Allen, Marshall and Jones",2026-04-07 22:22:17
+988,Leaked Credentials,Dark Forum,Central African Republic,Critical,Snyder-Valencia,2026-03-15 06:43:31
+989,Leaked Credentials,Marketplace,Georgia,Low,Benjamin LLC,2026-04-22 04:31:15
+990,Leaked Credentials,Dark Forum,Sri Lanka,Medium,Hardy-Burch,2026-05-11 21:07:16
+991,Leaked Credentials,Marketplace,Pakistan,Medium,"Stevenson, Griffin and Cruz",2026-04-01 06:16:01
+992,Hacker Forum Mention,Telegram,Antarctica (the territory South of 60 deg S),Low,Choi-Diaz,2026-01-18 05:40:26
+993,Hacker Forum Mention,Marketplace,Togo,Medium,Tanner PLC,2026-05-07 05:38:11
+994,Leaked Credentials,Marketplace,Turks and Caicos Islands,Critical,Richardson-Perry,2026-03-26 23:34:24
+995,Compromised Accounts,Deep Web Chat,Barbados,High,Jensen-Charles,2026-01-12 07:46:53
+996,Stolen Credit Cards,Deep Web Chat,Paraguay,Medium,Decker PLC,2026-03-10 18:36:32
+997,Stolen Credit Cards,Telegram,Central African Republic,Medium,Buck and Sons,2026-03-15 15:12:02
+998,Leaked Credentials,Dark Forum,Heard Island and McDonald Islands,Critical,"Scott, Gray and Pacheco",2026-03-17 02:48:32
+999,Hacker Forum Mention,Deep Web Chat,Wallis and Futuna,Medium,Rogers Group,2026-04-03 13:25:52
+1000,Data Leak,Marketplace,Tajikistan,Critical,"Davis, Walsh and Collins",2026-05-02 04:58:02

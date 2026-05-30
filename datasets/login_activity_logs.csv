@@ -1,0 +1,1001 @@
+login_id,user_id,login_location,device_type,browser,failed_attempts,login_status,mfa_status,timestamp
+1,4078,United Kingdom,Mobile,Edge,2,Success,Enabled,2026-05-17 22:36:43
+2,2644,Greece,Tablet,Chrome,5,Failed,Enabled,2026-05-23 23:26:32
+3,9805,British Indian Ocean Territory (Chagos Archipelago),Laptop,Firefox,5,Success,Disabled,2026-02-12 18:29:41
+4,2634,Cameroon,Tablet,Chrome,2,Success,Enabled,2026-03-10 13:34:19
+5,2294,Spain,Tablet,Edge,1,Failed,Disabled,2026-01-23 02:37:07
+6,9075,Morocco,Laptop,Firefox,2,Failed,Enabled,2026-01-13 15:38:10
+7,6790,Chad,Desktop,Safari,1,Failed,Enabled,2026-04-27 07:27:41
+8,1539,Pakistan,Desktop,Safari,1,Success,Enabled,2026-03-30 14:58:48
+9,2112,Israel,Tablet,Firefox,4,Success,Enabled,2026-04-08 20:58:03
+10,2180,Burundi,Mobile,Chrome,2,Failed,Disabled,2026-04-26 12:53:11
+11,3703,United Arab Emirates,Laptop,Chrome,4,Success,Enabled,2026-01-12 02:44:35
+12,2117,Bulgaria,Laptop,Edge,4,Failed,Disabled,2026-03-14 09:51:23
+13,9246,Morocco,Mobile,Chrome,0,Success,Enabled,2026-03-22 06:26:59
+14,7623,Ukraine,Tablet,Chrome,3,Success,Disabled,2026-05-02 06:39:54
+15,9996,Congo,Desktop,Safari,2,Success,Enabled,2026-05-07 16:51:29
+16,7003,Libyan Arab Jamahiriya,Tablet,Firefox,4,Success,Enabled,2026-03-09 19:35:30
+17,2490,Guinea,Tablet,Firefox,0,Failed,Enabled,2026-03-06 00:52:26
+18,6538,San Marino,Desktop,Safari,3,Success,Disabled,2026-01-17 06:56:43
+19,3745,Ghana,Tablet,Firefox,4,Failed,Disabled,2026-01-09 19:48:24
+20,3928,Congo,Laptop,Edge,2,Failed,Enabled,2026-03-05 10:44:57
+21,4023,Guadeloupe,Laptop,Chrome,2,Success,Disabled,2026-01-19 10:14:11
+22,3936,United States Virgin Islands,Laptop,Edge,0,Success,Disabled,2026-03-06 00:41:57
+23,2661,Solomon Islands,Laptop,Firefox,1,Failed,Disabled,2026-02-16 10:24:00
+24,4487,Palau,Laptop,Chrome,5,Success,Enabled,2026-05-07 21:26:38
+25,9207,Lebanon,Tablet,Safari,1,Success,Disabled,2026-03-10 16:15:41
+26,7303,Iran,Desktop,Safari,1,Success,Disabled,2026-05-03 15:13:25
+27,1288,Svalbard & Jan Mayen Islands,Tablet,Chrome,3,Failed,Enabled,2026-01-14 03:59:56
+28,2288,Saint Martin,Tablet,Safari,4,Success,Disabled,2026-03-25 12:27:16
+29,7047,France,Tablet,Edge,0,Success,Disabled,2026-01-05 05:56:40
+30,2251,Cook Islands,Mobile,Firefox,4,Success,Enabled,2026-02-20 07:17:15
+31,4927,Poland,Laptop,Edge,1,Failed,Disabled,2026-05-13 09:52:01
+32,5856,Liechtenstein,Desktop,Edge,3,Failed,Disabled,2026-03-25 11:07:30
+33,1576,Grenada,Desktop,Chrome,4,Success,Enabled,2026-03-08 23:13:35
+34,2050,Zambia,Tablet,Edge,2,Success,Disabled,2026-04-12 18:14:12
+35,4342,Samoa,Mobile,Chrome,3,Failed,Enabled,2026-04-21 10:49:33
+36,2322,Djibouti,Mobile,Chrome,2,Success,Enabled,2026-05-22 23:01:56
+37,2381,Cambodia,Tablet,Firefox,5,Success,Enabled,2026-05-15 02:56:53
+38,4529,Faroe Islands,Laptop,Edge,2,Failed,Disabled,2026-03-15 09:34:46
+39,9459,Netherlands Antilles,Mobile,Edge,5,Failed,Disabled,2026-02-06 14:40:55
+40,8868,Pakistan,Laptop,Edge,0,Failed,Disabled,2026-02-10 19:50:43
+41,2080,Liberia,Desktop,Firefox,1,Success,Enabled,2026-04-11 20:54:52
+42,1444,Belarus,Laptop,Edge,5,Success,Disabled,2026-01-19 14:53:10
+43,8737,Guadeloupe,Tablet,Firefox,4,Success,Disabled,2026-01-08 15:11:44
+44,5884,Georgia,Tablet,Chrome,4,Success,Enabled,2026-05-26 22:35:12
+45,4482,Mayotte,Laptop,Chrome,4,Failed,Enabled,2026-01-25 11:11:02
+46,5340,American Samoa,Tablet,Edge,5,Failed,Disabled,2026-05-22 03:04:35
+47,3286,Gibraltar,Tablet,Chrome,2,Failed,Enabled,2026-03-30 05:14:19
+48,7728,Morocco,Laptop,Firefox,2,Failed,Disabled,2026-05-01 14:22:40
+49,4456,Paraguay,Mobile,Safari,3,Success,Disabled,2026-02-05 18:58:42
+50,8431,Liberia,Laptop,Edge,5,Failed,Enabled,2026-04-09 21:14:30
+51,8866,Israel,Laptop,Edge,5,Success,Enabled,2026-02-03 06:36:08
+52,6383,Isle of Man,Mobile,Firefox,2,Success,Enabled,2026-05-06 13:10:00
+53,2556,Georgia,Mobile,Chrome,3,Failed,Disabled,2026-04-22 02:57:32
+54,4579,South Africa,Desktop,Chrome,5,Failed,Enabled,2026-02-25 23:54:57
+55,2327,Rwanda,Tablet,Firefox,3,Success,Disabled,2026-01-26 07:14:35
+56,4456,Singapore,Mobile,Firefox,5,Failed,Enabled,2026-02-23 03:54:23
+57,1688,Saudi Arabia,Desktop,Chrome,4,Failed,Disabled,2026-04-12 16:23:57
+58,2355,Turkmenistan,Tablet,Chrome,0,Success,Disabled,2026-01-12 01:31:28
+59,4707,Hong Kong,Laptop,Chrome,2,Success,Enabled,2026-03-08 21:50:27
+60,6011,Pitcairn Islands,Mobile,Firefox,1,Success,Disabled,2026-01-28 09:27:46
+61,6498,Macao,Desktop,Safari,1,Failed,Enabled,2026-01-02 12:53:53
+62,4658,Italy,Tablet,Edge,3,Failed,Disabled,2026-03-31 09:45:38
+63,3735,Bosnia and Herzegovina,Desktop,Safari,2,Failed,Disabled,2026-04-19 20:53:31
+64,1016,Colombia,Laptop,Edge,1,Failed,Disabled,2026-05-25 01:10:44
+65,4419,Turks and Caicos Islands,Mobile,Chrome,0,Failed,Enabled,2026-01-02 14:26:01
+66,3125,Jamaica,Tablet,Edge,3,Success,Disabled,2026-03-07 18:03:10
+67,9829,Niger,Mobile,Safari,1,Failed,Disabled,2026-03-04 04:26:41
+68,5201,Uzbekistan,Desktop,Edge,4,Failed,Disabled,2026-05-15 13:29:50
+69,1416,Papua New Guinea,Laptop,Chrome,2,Failed,Enabled,2026-02-27 17:44:26
+70,4246,Kyrgyz Republic,Desktop,Chrome,0,Success,Disabled,2026-05-15 12:08:17
+71,8638,Comoros,Desktop,Chrome,1,Failed,Enabled,2026-03-17 15:39:19
+72,5700,Azerbaijan,Mobile,Edge,1,Failed,Disabled,2026-01-21 10:21:44
+73,1343,Greece,Tablet,Edge,4,Failed,Disabled,2026-02-21 18:03:26
+74,5117,Solomon Islands,Laptop,Firefox,0,Failed,Enabled,2026-04-02 01:02:30
+75,7496,Sudan,Laptop,Safari,1,Success,Disabled,2026-02-12 10:34:54
+76,9126,Norway,Laptop,Edge,0,Failed,Disabled,2026-03-18 13:47:04
+77,9257,Northern Mariana Islands,Laptop,Firefox,0,Success,Disabled,2026-05-07 06:02:09
+78,6220,South Georgia and the South Sandwich Islands,Mobile,Safari,1,Success,Enabled,2026-02-24 14:58:47
+79,9138,Sri Lanka,Laptop,Firefox,3,Success,Disabled,2026-04-06 22:16:36
+80,6132,Honduras,Mobile,Chrome,1,Success,Enabled,2026-01-20 20:11:30
+81,5446,Singapore,Mobile,Edge,5,Failed,Disabled,2026-01-08 16:56:42
+82,8564,Latvia,Laptop,Safari,3,Success,Disabled,2026-04-22 01:57:14
+83,1239,Peru,Desktop,Safari,0,Failed,Enabled,2026-02-05 06:13:10
+84,5661,Poland,Tablet,Edge,2,Success,Enabled,2026-01-02 16:23:52
+85,4799,Moldova,Tablet,Safari,3,Failed,Disabled,2026-03-20 23:10:06
+86,1919,Guadeloupe,Mobile,Safari,4,Success,Enabled,2026-02-12 01:40:59
+87,6059,Mexico,Tablet,Edge,2,Failed,Disabled,2026-05-03 05:12:33
+88,1851,Portugal,Tablet,Chrome,4,Failed,Disabled,2026-05-07 13:10:41
+89,9877,Cape Verde,Laptop,Chrome,2,Failed,Disabled,2026-02-28 08:52:43
+90,6356,Chad,Mobile,Safari,2,Failed,Enabled,2026-02-17 06:30:43
+91,6936,Niue,Tablet,Chrome,4,Failed,Disabled,2026-05-22 23:46:34
+92,6186,Egypt,Desktop,Edge,3,Failed,Disabled,2026-03-18 10:00:13
+93,5706,Uzbekistan,Laptop,Safari,0,Failed,Disabled,2026-03-08 00:28:47
+94,9449,Bahrain,Mobile,Firefox,3,Success,Enabled,2026-01-20 08:57:15
+95,5700,Haiti,Laptop,Edge,3,Success,Enabled,2026-02-04 11:54:17
+96,1465,Kazakhstan,Laptop,Edge,2,Success,Enabled,2026-01-05 04:24:18
+97,8975,Malta,Tablet,Chrome,3,Success,Disabled,2026-03-23 15:25:08
+98,4745,Niger,Tablet,Edge,2,Failed,Enabled,2026-03-30 08:59:57
+99,9363,Estonia,Desktop,Edge,5,Success,Disabled,2026-03-22 10:56:25
+100,8443,Jordan,Mobile,Safari,4,Success,Disabled,2026-04-15 16:34:38
+101,4211,Indonesia,Mobile,Safari,1,Failed,Enabled,2026-03-22 16:18:54
+102,4525,Guam,Laptop,Firefox,3,Failed,Enabled,2026-01-06 23:52:19
+103,5170,Puerto Rico,Tablet,Edge,5,Failed,Enabled,2026-03-16 03:29:38
+104,7969,Holy See (Vatican City State),Laptop,Firefox,4,Success,Enabled,2026-02-17 07:54:29
+105,6442,Dominican Republic,Desktop,Edge,0,Failed,Enabled,2026-01-14 07:06:58
+106,4225,Jamaica,Laptop,Firefox,0,Failed,Enabled,2026-03-23 08:20:14
+107,6516,Monaco,Laptop,Edge,5,Success,Disabled,2026-05-01 14:40:21
+108,5907,Faroe Islands,Tablet,Chrome,0,Failed,Enabled,2026-02-28 04:47:55
+109,1014,Nigeria,Mobile,Safari,5,Failed,Enabled,2026-03-26 17:54:20
+110,4377,El Salvador,Tablet,Safari,4,Success,Disabled,2026-02-21 12:40:30
+111,2393,Isle of Man,Desktop,Firefox,2,Failed,Enabled,2026-02-12 19:19:22
+112,3483,Ireland,Desktop,Firefox,0,Success,Disabled,2026-04-08 02:51:59
+113,4762,Tanzania,Laptop,Edge,0,Failed,Enabled,2026-02-22 22:15:35
+114,5131,Paraguay,Tablet,Safari,2,Failed,Disabled,2026-05-19 06:08:14
+115,5653,Samoa,Tablet,Safari,3,Failed,Enabled,2026-05-02 22:31:47
+116,2957,Argentina,Laptop,Edge,5,Success,Enabled,2026-02-05 05:33:49
+117,5458,Aruba,Mobile,Edge,5,Success,Enabled,2026-05-19 12:53:58
+118,6121,Cuba,Tablet,Safari,1,Failed,Enabled,2026-02-15 04:59:10
+119,9298,United States Virgin Islands,Mobile,Firefox,3,Failed,Disabled,2026-05-20 10:27:22
+120,5166,Czech Republic,Desktop,Chrome,1,Success,Disabled,2026-05-06 16:46:59
+121,9194,Bangladesh,Desktop,Chrome,4,Success,Disabled,2026-04-07 07:17:11
+122,7824,Nauru,Desktop,Chrome,3,Success,Enabled,2026-01-13 06:27:27
+123,8260,Netherlands,Tablet,Chrome,4,Failed,Disabled,2026-01-20 15:04:18
+124,8342,Northern Mariana Islands,Desktop,Safari,4,Failed,Disabled,2026-05-19 19:16:18
+125,6631,Saint Pierre and Miquelon,Desktop,Edge,4,Success,Enabled,2026-01-06 04:09:57
+126,9727,French Polynesia,Mobile,Safari,3,Failed,Enabled,2026-02-21 12:19:01
+127,4083,Indonesia,Desktop,Firefox,2,Success,Enabled,2026-01-13 12:22:53
+128,8359,Latvia,Tablet,Edge,5,Failed,Enabled,2026-01-14 05:12:19
+129,7071,Northern Mariana Islands,Tablet,Safari,4,Success,Enabled,2026-04-28 13:03:32
+130,8348,Peru,Tablet,Edge,4,Failed,Enabled,2026-01-06 20:02:03
+131,2856,Costa Rica,Desktop,Safari,0,Failed,Enabled,2026-02-06 04:31:27
+132,1714,Mayotte,Desktop,Chrome,0,Success,Disabled,2026-01-26 17:06:13
+133,7915,Morocco,Tablet,Chrome,4,Success,Enabled,2026-04-07 20:09:23
+134,8413,Bosnia and Herzegovina,Mobile,Firefox,4,Success,Enabled,2026-03-19 02:51:27
+135,9354,Yemen,Tablet,Chrome,0,Failed,Enabled,2026-04-07 01:43:26
+136,7980,Zimbabwe,Mobile,Chrome,2,Success,Enabled,2026-03-21 19:50:25
+137,3582,British Virgin Islands,Tablet,Chrome,4,Failed,Enabled,2026-03-24 13:24:47
+138,5703,Namibia,Laptop,Firefox,1,Success,Enabled,2026-03-02 15:04:03
+139,4019,Malaysia,Desktop,Chrome,1,Failed,Enabled,2026-03-17 04:01:19
+140,1095,Sierra Leone,Desktop,Chrome,2,Failed,Disabled,2026-03-05 21:03:52
+141,7563,Italy,Desktop,Chrome,0,Success,Enabled,2026-03-12 23:32:50
+142,5377,Guatemala,Laptop,Edge,5,Failed,Enabled,2026-05-13 18:55:51
+143,1189,Tunisia,Tablet,Safari,2,Success,Enabled,2026-05-23 17:46:33
+144,4915,Somalia,Desktop,Edge,2,Success,Disabled,2026-05-23 01:10:45
+145,9086,Egypt,Desktop,Chrome,0,Success,Disabled,2026-05-17 14:32:14
+146,5907,Rwanda,Desktop,Chrome,0,Success,Disabled,2026-03-09 22:20:23
+147,3558,Bhutan,Mobile,Firefox,3,Success,Disabled,2026-03-22 21:49:17
+148,8636,Saint Vincent and the Grenadines,Tablet,Edge,2,Failed,Disabled,2026-01-28 03:23:41
+149,7018,Sierra Leone,Tablet,Chrome,4,Success,Enabled,2026-03-22 22:21:45
+150,6358,Syrian Arab Republic,Laptop,Chrome,0,Success,Disabled,2026-04-30 15:19:44
+151,3782,Zambia,Mobile,Firefox,2,Failed,Enabled,2026-01-06 22:20:58
+152,4352,Mauritania,Desktop,Edge,1,Failed,Enabled,2026-04-06 21:01:16
+153,6499,Uruguay,Laptop,Edge,5,Failed,Enabled,2026-02-09 08:49:47
+154,9091,Vanuatu,Laptop,Edge,3,Failed,Disabled,2026-04-17 10:47:07
+155,9784,Haiti,Desktop,Edge,0,Success,Enabled,2026-04-12 12:16:07
+156,6003,Northern Mariana Islands,Laptop,Chrome,2,Success,Disabled,2026-01-05 17:19:58
+157,2278,Belize,Mobile,Firefox,3,Success,Enabled,2026-05-17 05:21:19
+158,5722,Rwanda,Desktop,Safari,3,Success,Enabled,2026-04-24 17:08:16
+159,7666,Saint Martin,Tablet,Firefox,3,Failed,Disabled,2026-01-02 21:53:46
+160,4674,Panama,Desktop,Chrome,3,Failed,Enabled,2026-02-20 04:08:25
+161,9555,Uganda,Mobile,Edge,5,Failed,Disabled,2026-05-17 16:18:38
+162,6443,Mongolia,Mobile,Firefox,0,Failed,Enabled,2026-01-16 15:01:02
+163,6694,Niue,Tablet,Edge,4,Success,Enabled,2026-04-26 09:47:46
+164,7135,Anguilla,Tablet,Chrome,5,Failed,Enabled,2026-01-24 01:51:54
+165,3919,Wallis and Futuna,Tablet,Edge,4,Success,Disabled,2026-03-11 09:27:24
+166,1121,El Salvador,Desktop,Chrome,0,Failed,Enabled,2026-02-28 04:07:09
+167,7763,Comoros,Mobile,Safari,5,Failed,Enabled,2026-01-08 05:40:04
+168,5288,Brazil,Laptop,Chrome,1,Success,Disabled,2026-02-13 02:10:56
+169,6049,Guernsey,Laptop,Safari,0,Failed,Enabled,2026-05-21 17:56:08
+170,6804,Holy See (Vatican City State),Mobile,Chrome,0,Success,Enabled,2026-02-05 16:44:56
+171,4979,Zambia,Tablet,Chrome,2,Failed,Enabled,2026-02-26 05:56:22
+172,3019,Saint Lucia,Desktop,Edge,4,Success,Enabled,2026-01-19 07:53:22
+173,7892,Bosnia and Herzegovina,Desktop,Edge,4,Failed,Disabled,2026-05-04 09:38:04
+174,4901,United States Virgin Islands,Laptop,Safari,2,Failed,Enabled,2026-02-28 02:41:06
+175,2994,Kazakhstan,Laptop,Edge,0,Success,Enabled,2026-01-22 00:04:27
+176,8121,United States of America,Tablet,Firefox,2,Failed,Enabled,2026-01-07 02:18:39
+177,4564,Iraq,Mobile,Firefox,3,Failed,Enabled,2026-01-05 00:15:42
+178,9318,Aruba,Desktop,Safari,5,Success,Disabled,2026-01-30 21:52:08
+179,5807,Armenia,Desktop,Chrome,3,Failed,Enabled,2026-04-07 03:27:35
+180,9753,Finland,Tablet,Edge,2,Success,Enabled,2026-04-25 18:46:33
+181,7938,Saint Vincent and the Grenadines,Mobile,Edge,1,Success,Enabled,2026-03-02 19:34:25
+182,8486,Cape Verde,Laptop,Chrome,5,Failed,Enabled,2026-02-18 13:30:09
+183,3534,Ukraine,Desktop,Safari,4,Success,Enabled,2026-05-07 23:57:28
+184,5643,San Marino,Laptop,Safari,1,Failed,Disabled,2026-05-23 08:36:40
+185,8455,Dominica,Mobile,Chrome,5,Success,Disabled,2026-01-26 14:55:54
+186,3098,Spain,Mobile,Firefox,5,Success,Enabled,2026-05-12 11:04:15
+187,3364,Jersey,Laptop,Safari,5,Failed,Disabled,2026-01-07 11:43:45
+188,1339,Falkland Islands (Malvinas),Desktop,Firefox,1,Success,Enabled,2026-05-01 06:28:45
+189,7405,Lebanon,Tablet,Edge,5,Success,Disabled,2026-04-16 17:44:49
+190,6362,Yemen,Laptop,Firefox,3,Success,Enabled,2026-01-28 05:53:05
+191,5358,Cape Verde,Laptop,Firefox,3,Success,Enabled,2026-03-17 14:49:33
+192,4932,Mongolia,Tablet,Edge,4,Failed,Enabled,2026-04-20 02:27:09
+193,5605,Niue,Laptop,Chrome,5,Failed,Enabled,2026-03-26 19:58:01
+194,6516,Bolivia,Laptop,Safari,4,Success,Disabled,2026-03-03 05:01:51
+195,1648,Cape Verde,Tablet,Chrome,1,Failed,Enabled,2026-05-24 16:07:01
+196,6461,Palau,Laptop,Firefox,0,Failed,Enabled,2026-03-14 10:57:06
+197,7614,Switzerland,Desktop,Edge,2,Failed,Enabled,2026-04-02 18:15:20
+198,2455,Malta,Desktop,Chrome,1,Failed,Disabled,2026-03-09 07:13:42
+199,7474,Finland,Laptop,Edge,5,Success,Enabled,2026-04-12 17:39:55
+200,5623,Iran,Tablet,Safari,4,Success,Enabled,2026-03-31 22:29:15
+201,6246,Guatemala,Mobile,Edge,5,Success,Enabled,2026-02-21 16:13:11
+202,7568,Guadeloupe,Laptop,Firefox,3,Success,Enabled,2026-01-20 20:50:32
+203,7936,Cook Islands,Mobile,Chrome,1,Success,Disabled,2026-02-27 20:05:24
+204,4237,Burkina Faso,Desktop,Safari,0,Failed,Disabled,2026-05-02 13:10:49
+205,2076,Monaco,Laptop,Edge,0,Success,Disabled,2026-04-16 21:10:31
+206,9523,Bosnia and Herzegovina,Desktop,Chrome,5,Failed,Disabled,2026-01-08 09:00:22
+207,8694,Palau,Mobile,Chrome,5,Success,Enabled,2026-01-08 19:10:37
+208,8881,Taiwan,Desktop,Edge,5,Failed,Enabled,2026-04-06 05:50:02
+209,9369,Cambodia,Desktop,Firefox,5,Failed,Disabled,2026-05-13 01:15:13
+210,2471,Lebanon,Laptop,Chrome,0,Success,Enabled,2026-01-28 13:40:31
+211,6220,Zimbabwe,Desktop,Chrome,0,Success,Disabled,2026-05-10 09:11:02
+212,1913,Slovakia (Slovak Republic),Mobile,Edge,1,Failed,Enabled,2026-01-24 13:27:05
+213,8157,Bulgaria,Desktop,Safari,4,Failed,Disabled,2026-05-07 01:04:08
+214,4881,North Macedonia,Mobile,Edge,1,Success,Enabled,2026-04-23 22:06:23
+215,1006,Sierra Leone,Tablet,Safari,0,Success,Disabled,2026-02-03 00:19:00
+216,3147,Israel,Laptop,Safari,0,Failed,Enabled,2026-05-28 09:43:00
+217,9073,Falkland Islands (Malvinas),Laptop,Firefox,5,Failed,Enabled,2026-04-29 08:24:27
+218,7141,Azerbaijan,Desktop,Safari,3,Failed,Enabled,2026-05-27 10:44:11
+219,6743,Peru,Mobile,Safari,2,Failed,Enabled,2026-01-06 13:51:26
+220,9202,Suriname,Desktop,Firefox,1,Success,Disabled,2026-01-17 14:51:37
+221,9450,Singapore,Tablet,Edge,0,Failed,Enabled,2026-01-07 22:12:13
+222,8036,Dominican Republic,Desktop,Edge,1,Success,Disabled,2026-03-25 03:24:46
+223,3820,Congo,Laptop,Chrome,1,Failed,Disabled,2026-01-29 04:28:16
+224,6624,Jersey,Mobile,Safari,1,Success,Disabled,2026-02-27 18:01:40
+225,2932,Angola,Tablet,Safari,3,Failed,Enabled,2026-03-07 02:13:23
+226,5007,Wallis and Futuna,Laptop,Chrome,5,Failed,Enabled,2026-02-20 04:34:48
+227,2246,Gibraltar,Laptop,Safari,2,Failed,Disabled,2026-01-21 10:41:10
+228,6890,Cote d'Ivoire,Laptop,Firefox,5,Failed,Disabled,2026-03-07 15:48:43
+229,7514,Dominica,Laptop,Edge,5,Failed,Enabled,2026-03-04 02:52:32
+230,5598,Bosnia and Herzegovina,Laptop,Chrome,1,Success,Enabled,2026-01-12 07:36:55
+231,3029,North Macedonia,Mobile,Safari,1,Success,Disabled,2026-01-02 19:00:20
+232,4362,Belgium,Tablet,Edge,5,Success,Enabled,2026-02-04 04:18:12
+233,5844,Vanuatu,Mobile,Chrome,0,Failed,Enabled,2026-02-10 15:25:22
+234,3109,Kazakhstan,Mobile,Safari,1,Failed,Enabled,2026-05-11 17:49:11
+235,3482,Mayotte,Laptop,Edge,0,Success,Disabled,2026-04-01 12:27:22
+236,4868,Vanuatu,Tablet,Edge,2,Success,Disabled,2026-05-01 17:05:06
+237,2329,Austria,Tablet,Chrome,1,Failed,Enabled,2026-04-07 20:10:29
+238,8429,Libyan Arab Jamahiriya,Mobile,Firefox,2,Success,Enabled,2026-03-20 14:01:57
+239,4821,Lao People's Democratic Republic,Tablet,Edge,5,Success,Disabled,2026-04-08 12:25:12
+240,6675,Italy,Tablet,Edge,0,Success,Disabled,2026-04-04 18:39:51
+241,5823,Papua New Guinea,Mobile,Chrome,4,Failed,Enabled,2026-03-07 00:03:13
+242,7810,Tuvalu,Tablet,Chrome,2,Success,Disabled,2026-02-23 07:15:58
+243,3010,United States Minor Outlying Islands,Mobile,Chrome,4,Success,Disabled,2026-05-19 13:42:32
+244,6764,Liberia,Mobile,Firefox,5,Failed,Enabled,2026-03-19 22:34:35
+245,3566,El Salvador,Mobile,Chrome,0,Success,Enabled,2026-02-24 02:58:56
+246,3273,Canada,Tablet,Chrome,2,Success,Enabled,2026-05-15 03:55:43
+247,9425,Indonesia,Laptop,Safari,4,Success,Enabled,2026-03-19 01:32:08
+248,6992,Tonga,Desktop,Safari,3,Failed,Disabled,2026-02-08 08:18:11
+249,4947,Uganda,Tablet,Edge,4,Failed,Enabled,2026-05-20 07:57:27
+250,1151,Faroe Islands,Mobile,Chrome,3,Failed,Disabled,2026-02-25 17:21:45
+251,6870,Cambodia,Laptop,Chrome,2,Success,Enabled,2026-04-16 05:00:50
+252,5434,Palau,Desktop,Chrome,2,Success,Disabled,2026-03-22 22:03:49
+253,6081,Barbados,Tablet,Firefox,0,Failed,Enabled,2026-04-23 17:05:28
+254,5241,Niger,Tablet,Edge,1,Success,Enabled,2026-05-19 05:32:09
+255,2641,Liberia,Tablet,Edge,5,Failed,Enabled,2026-04-19 13:59:10
+256,2017,Finland,Desktop,Safari,2,Success,Enabled,2026-03-17 05:21:36
+257,1778,Heard Island and McDonald Islands,Mobile,Edge,5,Failed,Disabled,2026-04-01 09:31:44
+258,3078,Turks and Caicos Islands,Tablet,Safari,0,Success,Disabled,2026-01-25 03:23:01
+259,7329,Iceland,Tablet,Safari,5,Success,Disabled,2026-01-24 05:19:52
+260,2705,Singapore,Tablet,Chrome,4,Success,Enabled,2026-01-01 17:28:29
+261,8528,Costa Rica,Laptop,Edge,0,Success,Disabled,2026-04-21 10:40:20
+262,1669,South Africa,Laptop,Edge,1,Failed,Enabled,2026-01-15 10:42:12
+263,9999,United Kingdom,Tablet,Safari,5,Failed,Enabled,2026-04-30 12:34:49
+264,7034,Puerto Rico,Laptop,Safari,2,Failed,Enabled,2026-05-26 06:51:36
+265,5923,Lesotho,Mobile,Chrome,0,Success,Enabled,2026-02-02 07:54:37
+266,8127,Turks and Caicos Islands,Mobile,Firefox,1,Failed,Disabled,2026-04-20 03:09:07
+267,3396,Maldives,Tablet,Firefox,0,Failed,Enabled,2026-02-09 03:01:23
+268,8522,Saint Helena,Mobile,Firefox,5,Failed,Enabled,2026-03-12 17:19:10
+269,5939,Burundi,Laptop,Edge,2,Failed,Disabled,2026-05-26 22:00:59
+270,7872,Svalbard & Jan Mayen Islands,Mobile,Firefox,5,Success,Disabled,2026-01-21 07:22:17
+271,8607,United States Virgin Islands,Laptop,Firefox,1,Failed,Disabled,2026-02-07 21:54:12
+272,4194,Saint Vincent and the Grenadines,Desktop,Firefox,5,Success,Disabled,2026-03-13 18:21:02
+273,2782,Samoa,Mobile,Firefox,1,Success,Enabled,2026-03-18 01:06:06
+274,8771,Angola,Tablet,Edge,3,Failed,Disabled,2026-03-24 21:51:52
+275,8987,Singapore,Laptop,Safari,2,Success,Disabled,2026-05-04 06:04:38
+276,5285,Turks and Caicos Islands,Mobile,Edge,2,Failed,Disabled,2026-01-04 14:51:36
+277,5892,Christmas Island,Mobile,Chrome,5,Success,Disabled,2026-04-06 10:06:03
+278,5632,Falkland Islands (Malvinas),Laptop,Edge,0,Failed,Disabled,2026-03-04 17:49:37
+279,6039,Iran,Desktop,Chrome,2,Failed,Enabled,2026-03-19 19:23:25
+280,1937,Mali,Mobile,Safari,5,Failed,Enabled,2026-02-22 14:43:08
+281,2369,Taiwan,Laptop,Safari,3,Failed,Enabled,2026-02-16 07:57:49
+282,3287,Russian Federation,Mobile,Edge,2,Success,Disabled,2026-05-11 18:44:49
+283,5870,Sweden,Desktop,Chrome,0,Failed,Enabled,2026-02-07 06:04:04
+284,3333,Saint Lucia,Mobile,Safari,2,Failed,Disabled,2026-05-17 23:01:45
+285,2798,Bhutan,Mobile,Chrome,0,Failed,Enabled,2026-03-15 19:49:08
+286,6685,Germany,Laptop,Chrome,1,Failed,Disabled,2026-05-26 03:45:14
+287,4075,Belgium,Desktop,Safari,3,Success,Enabled,2026-04-01 03:02:24
+288,9590,French Southern Territories,Desktop,Chrome,4,Success,Disabled,2026-02-20 09:06:52
+289,7181,Netherlands Antilles,Laptop,Firefox,4,Failed,Disabled,2026-01-17 20:46:33
+290,7496,Sri Lanka,Tablet,Safari,0,Failed,Disabled,2026-01-11 03:37:25
+291,7102,United Kingdom,Tablet,Chrome,0,Failed,Enabled,2026-03-02 13:22:48
+292,2018,Korea,Desktop,Chrome,3,Failed,Enabled,2026-01-23 02:51:29
+293,4245,Western Sahara,Laptop,Firefox,1,Failed,Enabled,2026-04-17 18:43:08
+294,6208,Albania,Tablet,Firefox,2,Failed,Enabled,2026-01-08 04:24:45
+295,4672,Nepal,Laptop,Edge,5,Success,Enabled,2026-05-07 16:41:39
+296,9070,Netherlands Antilles,Desktop,Safari,1,Failed,Enabled,2026-04-14 14:17:10
+297,3854,Ethiopia,Laptop,Edge,5,Success,Disabled,2026-05-23 19:50:48
+298,9296,Vanuatu,Laptop,Edge,3,Success,Enabled,2026-04-04 12:15:24
+299,4108,American Samoa,Laptop,Firefox,4,Failed,Disabled,2026-03-05 03:13:48
+300,8815,Anguilla,Tablet,Firefox,4,Success,Enabled,2026-05-25 06:07:37
+301,7157,Czech Republic,Tablet,Firefox,0,Success,Disabled,2026-05-02 03:08:44
+302,4447,El Salvador,Laptop,Firefox,0,Failed,Disabled,2026-03-30 00:56:13
+303,9858,Malawi,Mobile,Safari,4,Failed,Enabled,2026-01-18 04:04:21
+304,8851,Cocos (Keeling) Islands,Tablet,Edge,5,Failed,Disabled,2026-02-15 06:14:10
+305,8069,Bermuda,Laptop,Safari,3,Failed,Enabled,2026-02-23 12:45:27
+306,8225,Malta,Mobile,Edge,3,Success,Enabled,2026-01-24 01:12:45
+307,3649,Taiwan,Tablet,Edge,3,Success,Enabled,2026-03-15 00:34:01
+308,5125,Sudan,Desktop,Chrome,3,Failed,Enabled,2026-02-11 18:57:47
+309,1308,Germany,Mobile,Firefox,0,Success,Disabled,2026-03-14 18:43:05
+310,2654,North Macedonia,Desktop,Edge,0,Failed,Enabled,2026-04-26 20:23:18
+311,3204,British Virgin Islands,Mobile,Firefox,0,Failed,Enabled,2026-03-01 02:57:58
+312,4803,Slovenia,Desktop,Firefox,3,Success,Disabled,2026-02-18 18:58:55
+313,7049,Bahrain,Laptop,Edge,5,Failed,Enabled,2026-04-29 23:50:16
+314,2934,Aruba,Mobile,Safari,5,Success,Enabled,2026-05-03 15:47:47
+315,5781,Bangladesh,Laptop,Firefox,2,Success,Disabled,2026-05-10 02:51:03
+316,8428,Lesotho,Desktop,Safari,4,Success,Enabled,2026-02-24 15:02:40
+317,3182,Lithuania,Laptop,Firefox,2,Failed,Disabled,2026-05-14 15:43:22
+318,6284,Guatemala,Laptop,Chrome,3,Success,Disabled,2026-04-05 09:35:49
+319,4150,Dominican Republic,Tablet,Safari,5,Success,Disabled,2026-04-20 18:24:45
+320,7343,Bhutan,Tablet,Safari,5,Success,Enabled,2026-01-04 16:47:40
+321,7581,Venezuela,Laptop,Edge,4,Failed,Disabled,2026-01-12 02:23:09
+322,3248,France,Desktop,Firefox,0,Success,Disabled,2026-02-20 05:13:33
+323,3408,Jamaica,Tablet,Edge,5,Failed,Disabled,2026-04-06 14:40:17
+324,2564,Namibia,Tablet,Chrome,2,Failed,Disabled,2026-04-24 09:56:11
+325,8415,Turkmenistan,Mobile,Firefox,3,Success,Disabled,2026-03-04 19:49:01
+326,6721,Puerto Rico,Mobile,Edge,3,Success,Disabled,2026-01-19 07:14:06
+327,2215,Marshall Islands,Laptop,Edge,5,Failed,Enabled,2026-03-26 02:17:10
+328,5501,Zambia,Desktop,Chrome,1,Success,Enabled,2026-04-19 00:13:43
+329,7225,Saint Pierre and Miquelon,Laptop,Firefox,4,Success,Disabled,2026-03-23 15:33:32
+330,1732,Dominican Republic,Laptop,Edge,4,Success,Enabled,2026-04-03 06:04:54
+331,4771,Finland,Desktop,Edge,4,Failed,Enabled,2026-05-02 10:46:54
+332,5394,Australia,Tablet,Edge,2,Success,Enabled,2026-02-11 05:05:04
+333,3244,Myanmar,Tablet,Firefox,4,Failed,Disabled,2026-01-18 10:35:46
+334,3790,Bahrain,Tablet,Firefox,0,Failed,Disabled,2026-03-15 17:42:57
+335,3340,Mali,Desktop,Safari,4,Success,Disabled,2026-05-03 17:59:47
+336,6344,Namibia,Tablet,Safari,4,Failed,Enabled,2026-01-18 03:30:49
+337,8667,Indonesia,Desktop,Chrome,4,Failed,Enabled,2026-05-07 21:39:30
+338,4855,Albania,Laptop,Edge,3,Failed,Enabled,2026-03-18 18:08:34
+339,3198,Mayotte,Desktop,Chrome,5,Failed,Enabled,2026-04-12 14:50:45
+340,3748,Solomon Islands,Mobile,Safari,4,Success,Enabled,2026-04-18 04:35:56
+341,8553,Tokelau,Tablet,Chrome,0,Failed,Disabled,2026-05-22 02:07:01
+342,3924,Pakistan,Laptop,Firefox,3,Failed,Disabled,2026-05-12 09:13:02
+343,2338,Namibia,Tablet,Firefox,5,Success,Disabled,2026-03-26 01:13:47
+344,6942,Chad,Desktop,Chrome,0,Failed,Disabled,2026-01-26 14:05:18
+345,1176,Norway,Tablet,Safari,0,Failed,Enabled,2026-04-14 20:12:36
+346,3875,Tunisia,Mobile,Firefox,4,Failed,Disabled,2026-03-29 07:46:08
+347,7282,Jersey,Tablet,Firefox,5,Success,Disabled,2026-04-19 22:51:58
+348,5625,Heard Island and McDonald Islands,Desktop,Safari,4,Failed,Disabled,2026-04-10 00:21:50
+349,4478,Mauritania,Tablet,Safari,1,Failed,Disabled,2026-02-16 21:40:06
+350,8316,Marshall Islands,Laptop,Safari,2,Failed,Disabled,2026-04-23 19:01:55
+351,6733,Falkland Islands (Malvinas),Desktop,Edge,1,Failed,Enabled,2026-04-06 03:45:08
+352,5677,Gibraltar,Mobile,Firefox,3,Success,Enabled,2026-01-11 15:35:55
+353,5765,Malta,Laptop,Safari,0,Success,Enabled,2026-02-13 06:47:46
+354,9591,Kazakhstan,Desktop,Edge,4,Failed,Enabled,2026-05-08 01:09:53
+355,1881,Swaziland,Desktop,Edge,2,Success,Enabled,2026-01-03 20:34:55
+356,9489,Papua New Guinea,Tablet,Edge,1,Failed,Enabled,2026-01-09 09:10:30
+357,2021,Syrian Arab Republic,Mobile,Edge,4,Failed,Disabled,2026-04-08 12:00:34
+358,7142,Montserrat,Mobile,Chrome,3,Success,Disabled,2026-02-26 03:58:57
+359,4989,Croatia,Laptop,Firefox,3,Success,Enabled,2026-02-12 19:38:37
+360,7904,Sierra Leone,Desktop,Safari,0,Failed,Enabled,2026-02-12 20:42:21
+361,4950,Taiwan,Laptop,Firefox,1,Success,Disabled,2026-04-11 03:34:36
+362,3895,Jersey,Laptop,Edge,4,Success,Enabled,2026-02-18 23:45:32
+363,8064,Croatia,Mobile,Chrome,1,Success,Disabled,2026-04-20 01:33:54
+364,5732,Croatia,Mobile,Firefox,0,Success,Enabled,2026-04-19 01:52:40
+365,8438,Tanzania,Tablet,Safari,1,Success,Disabled,2026-05-22 01:53:42
+366,9879,Ethiopia,Tablet,Edge,3,Success,Enabled,2026-02-08 14:08:52
+367,3294,Malta,Tablet,Edge,1,Success,Disabled,2026-02-22 03:30:07
+368,4174,Ecuador,Laptop,Safari,3,Success,Disabled,2026-05-12 18:14:35
+369,7493,Samoa,Tablet,Edge,0,Success,Disabled,2026-03-23 15:36:40
+370,2010,Cocos (Keeling) Islands,Desktop,Edge,0,Success,Enabled,2026-01-02 00:22:01
+371,5811,Pitcairn Islands,Laptop,Edge,5,Failed,Enabled,2026-03-09 06:25:48
+372,7074,Thailand,Mobile,Chrome,4,Success,Disabled,2026-03-10 19:44:27
+373,3744,Kenya,Mobile,Chrome,0,Failed,Enabled,2026-01-27 18:12:57
+374,3180,Cote d'Ivoire,Tablet,Firefox,3,Success,Disabled,2026-04-04 07:46:48
+375,7073,Congo,Mobile,Chrome,4,Failed,Enabled,2026-03-18 07:01:59
+376,9387,Poland,Laptop,Edge,1,Success,Disabled,2026-03-05 03:46:02
+377,2908,Uganda,Laptop,Edge,0,Success,Disabled,2026-03-20 07:43:40
+378,7114,Saint Vincent and the Grenadines,Mobile,Safari,1,Success,Disabled,2026-01-03 12:55:38
+379,9580,Estonia,Desktop,Firefox,1,Failed,Disabled,2026-04-29 04:28:17
+380,3278,Comoros,Tablet,Edge,4,Success,Enabled,2026-05-20 17:45:27
+381,6903,Luxembourg,Tablet,Chrome,2,Success,Disabled,2026-03-10 00:45:34
+382,7473,Egypt,Tablet,Edge,3,Failed,Disabled,2026-03-26 23:25:53
+383,2348,Chile,Desktop,Edge,3,Success,Disabled,2026-05-20 09:58:54
+384,4402,Saint Helena,Tablet,Firefox,0,Failed,Disabled,2026-04-10 02:05:26
+385,6944,Haiti,Mobile,Edge,3,Failed,Disabled,2026-03-13 15:18:19
+386,4684,Lithuania,Laptop,Firefox,5,Failed,Disabled,2026-05-22 21:56:57
+387,6397,Afghanistan,Laptop,Chrome,1,Failed,Enabled,2026-01-11 00:15:23
+388,4123,Serbia,Tablet,Edge,5,Success,Disabled,2026-03-22 11:43:23
+389,4766,Lao People's Democratic Republic,Mobile,Edge,2,Success,Disabled,2026-02-03 01:20:51
+390,8294,Vietnam,Desktop,Chrome,0,Failed,Disabled,2026-04-12 09:36:10
+391,7658,Jersey,Laptop,Chrome,4,Success,Enabled,2026-03-27 22:41:00
+392,8534,Japan,Tablet,Edge,1,Failed,Enabled,2026-03-11 00:03:44
+393,1417,Lesotho,Mobile,Safari,1,Failed,Enabled,2026-01-17 15:51:31
+394,5098,Greece,Desktop,Firefox,5,Failed,Disabled,2026-03-15 19:25:20
+395,9292,Wallis and Futuna,Mobile,Firefox,4,Failed,Enabled,2026-03-10 20:30:55
+396,1644,South Georgia and the South Sandwich Islands,Mobile,Firefox,3,Failed,Disabled,2026-05-04 05:36:00
+397,2120,Kiribati,Tablet,Edge,1,Failed,Enabled,2026-02-13 11:21:46
+398,7584,Haiti,Tablet,Chrome,5,Failed,Disabled,2026-04-20 00:06:34
+399,2642,Jamaica,Tablet,Chrome,1,Success,Disabled,2026-01-05 19:13:17
+400,4225,Germany,Laptop,Safari,1,Failed,Enabled,2026-01-15 23:01:38
+401,6646,Georgia,Desktop,Chrome,3,Failed,Enabled,2026-01-11 04:55:54
+402,6303,Monaco,Desktop,Firefox,0,Success,Enabled,2026-01-31 04:46:07
+403,8184,Switzerland,Desktop,Firefox,0,Success,Disabled,2026-03-08 07:17:34
+404,8624,Vietnam,Tablet,Edge,1,Failed,Enabled,2026-04-19 13:38:36
+405,8588,Colombia,Tablet,Firefox,5,Success,Disabled,2026-01-13 06:36:16
+406,2107,Slovakia (Slovak Republic),Tablet,Safari,4,Failed,Disabled,2026-03-21 11:00:38
+407,7546,Burkina Faso,Desktop,Safari,3,Failed,Disabled,2026-01-18 03:23:24
+408,9606,Haiti,Laptop,Edge,2,Failed,Enabled,2026-04-30 09:51:25
+409,6638,Tunisia,Tablet,Edge,2,Success,Enabled,2026-01-25 12:22:28
+410,8641,South Africa,Laptop,Safari,1,Failed,Enabled,2026-05-02 02:42:51
+411,7469,Liberia,Desktop,Chrome,0,Success,Enabled,2026-02-21 05:03:26
+412,9163,Jersey,Laptop,Chrome,5,Success,Disabled,2026-02-18 04:53:20
+413,5282,Djibouti,Mobile,Safari,3,Success,Disabled,2026-03-02 19:52:10
+414,7049,Colombia,Desktop,Safari,4,Failed,Disabled,2026-01-11 03:17:58
+415,8848,Holy See (Vatican City State),Tablet,Chrome,3,Failed,Enabled,2026-03-09 15:34:01
+416,8885,Argentina,Tablet,Firefox,4,Success,Disabled,2026-01-25 03:47:22
+417,7750,Aruba,Mobile,Chrome,1,Failed,Enabled,2026-03-13 03:32:57
+418,7650,Solomon Islands,Mobile,Safari,5,Failed,Disabled,2026-04-13 13:34:24
+419,5213,Niger,Laptop,Edge,3,Failed,Disabled,2026-01-17 09:00:57
+420,9888,Slovakia (Slovak Republic),Mobile,Edge,1,Failed,Enabled,2026-03-25 03:58:57
+421,5868,Cape Verde,Desktop,Edge,5,Failed,Enabled,2026-03-25 08:59:35
+422,3583,Indonesia,Desktop,Edge,2,Failed,Disabled,2026-05-02 15:16:39
+423,9384,Namibia,Desktop,Chrome,5,Success,Enabled,2026-04-08 03:50:08
+424,2170,Saint Helena,Mobile,Edge,0,Success,Enabled,2026-03-04 23:38:56
+425,2491,Mozambique,Mobile,Firefox,2,Failed,Disabled,2026-03-12 01:35:17
+426,3132,Uganda,Mobile,Safari,5,Failed,Disabled,2026-01-16 06:49:04
+427,7611,Uruguay,Laptop,Edge,3,Failed,Disabled,2026-01-07 06:06:29
+428,9848,Montenegro,Laptop,Firefox,5,Success,Enabled,2026-02-14 12:22:20
+429,6405,Saint Lucia,Laptop,Edge,3,Success,Enabled,2026-05-06 10:31:26
+430,7240,Congo,Mobile,Safari,2,Failed,Disabled,2026-05-27 08:37:34
+431,5165,Georgia,Mobile,Chrome,0,Failed,Disabled,2026-04-11 13:08:54
+432,4622,Benin,Mobile,Safari,5,Failed,Disabled,2026-02-20 13:06:31
+433,2541,Congo,Mobile,Firefox,1,Success,Enabled,2026-04-21 18:01:49
+434,6629,Equatorial Guinea,Laptop,Chrome,0,Failed,Disabled,2026-02-27 00:15:41
+435,4068,United States of America,Mobile,Safari,3,Failed,Disabled,2026-01-29 16:01:04
+436,1951,Marshall Islands,Desktop,Firefox,1,Success,Disabled,2026-04-27 15:45:02
+437,7003,Dominica,Mobile,Edge,5,Failed,Enabled,2026-02-15 20:43:40
+438,7223,British Virgin Islands,Mobile,Chrome,2,Success,Disabled,2026-03-26 02:48:17
+439,8116,Burkina Faso,Tablet,Chrome,1,Failed,Disabled,2026-04-20 12:01:50
+440,2288,Madagascar,Tablet,Chrome,3,Failed,Enabled,2026-02-16 06:27:05
+441,8886,Guadeloupe,Laptop,Chrome,3,Failed,Enabled,2026-01-19 16:53:33
+442,4265,Somalia,Tablet,Firefox,4,Success,Disabled,2026-04-08 07:17:26
+443,4285,Nauru,Desktop,Edge,5,Failed,Enabled,2026-02-28 00:16:58
+444,5406,Isle of Man,Laptop,Firefox,3,Failed,Enabled,2026-05-23 07:38:02
+445,9928,India,Tablet,Firefox,5,Failed,Enabled,2026-02-09 08:20:50
+446,3130,Kazakhstan,Laptop,Chrome,4,Success,Enabled,2026-03-15 05:00:49
+447,2477,Christmas Island,Mobile,Firefox,3,Failed,Disabled,2026-02-08 08:59:42
+448,5414,Ukraine,Tablet,Safari,2,Failed,Enabled,2026-04-07 07:38:14
+449,5057,Nepal,Mobile,Safari,1,Failed,Enabled,2026-03-09 17:38:11
+450,5824,Brunei Darussalam,Laptop,Firefox,1,Failed,Disabled,2026-03-20 20:51:39
+451,9186,Palestinian Territory,Tablet,Edge,0,Success,Enabled,2026-03-22 09:47:14
+452,6505,Chad,Desktop,Edge,2,Success,Disabled,2026-03-24 13:10:01
+453,2499,South Africa,Tablet,Firefox,1,Failed,Enabled,2026-03-30 01:47:41
+454,8934,Australia,Mobile,Edge,2,Failed,Disabled,2026-02-21 16:33:11
+455,1468,Tonga,Tablet,Safari,3,Success,Disabled,2026-01-17 19:06:11
+456,7195,Eritrea,Desktop,Firefox,1,Success,Disabled,2026-04-25 04:42:35
+457,3121,Mauritania,Mobile,Safari,3,Success,Disabled,2026-03-11 12:33:52
+458,7356,Mozambique,Mobile,Firefox,2,Success,Disabled,2026-05-07 15:12:01
+459,7588,Niger,Tablet,Edge,4,Success,Disabled,2026-05-26 07:26:04
+460,7958,South Georgia and the South Sandwich Islands,Tablet,Safari,1,Success,Enabled,2026-05-03 19:56:02
+461,2172,Morocco,Mobile,Safari,5,Failed,Enabled,2026-01-03 23:41:37
+462,4028,Armenia,Tablet,Safari,0,Failed,Enabled,2026-03-07 02:19:44
+463,6618,Guinea-Bissau,Laptop,Edge,4,Failed,Enabled,2026-03-31 13:33:23
+464,2282,Slovakia (Slovak Republic),Laptop,Edge,0,Success,Disabled,2026-03-26 12:14:55
+465,4236,Guadeloupe,Mobile,Firefox,0,Failed,Enabled,2026-05-20 07:23:05
+466,8493,Saint Lucia,Desktop,Firefox,1,Success,Enabled,2026-01-05 22:02:04
+467,4465,Cuba,Mobile,Edge,2,Failed,Disabled,2026-03-14 10:07:09
+468,3658,North Macedonia,Desktop,Firefox,4,Failed,Enabled,2026-01-09 00:45:43
+469,7688,Congo,Mobile,Safari,4,Success,Disabled,2026-05-08 20:15:26
+470,2983,Romania,Tablet,Chrome,1,Success,Disabled,2026-05-21 02:25:48
+471,5115,Guatemala,Desktop,Safari,0,Failed,Disabled,2026-04-03 08:15:43
+472,1553,Grenada,Tablet,Safari,5,Failed,Enabled,2026-05-16 06:26:42
+473,6397,Cook Islands,Laptop,Firefox,0,Success,Enabled,2026-03-28 00:29:54
+474,7084,Qatar,Laptop,Chrome,5,Success,Disabled,2026-01-11 12:16:25
+475,4450,Tokelau,Tablet,Firefox,3,Failed,Disabled,2026-04-22 01:18:22
+476,5310,Hungary,Desktop,Chrome,2,Success,Enabled,2026-02-17 00:34:36
+477,8857,Antigua and Barbuda,Mobile,Firefox,1,Success,Disabled,2026-05-15 15:30:46
+478,3455,Nicaragua,Laptop,Safari,2,Failed,Disabled,2026-04-15 04:08:55
+479,4138,Bulgaria,Laptop,Safari,5,Failed,Enabled,2026-01-03 06:41:17
+480,4555,Netherlands Antilles,Mobile,Safari,3,Success,Enabled,2026-01-07 08:15:19
+481,1147,Guyana,Tablet,Firefox,4,Success,Enabled,2026-01-06 04:08:54
+482,6975,Oman,Tablet,Safari,3,Success,Enabled,2026-02-25 15:44:53
+483,8595,Saint Pierre and Miquelon,Laptop,Edge,1,Success,Disabled,2026-03-10 08:17:50
+484,5871,Zambia,Mobile,Chrome,1,Failed,Enabled,2026-01-19 21:59:14
+485,2391,Chile,Tablet,Edge,3,Success,Disabled,2026-05-10 12:21:48
+486,6710,Bosnia and Herzegovina,Mobile,Safari,2,Success,Disabled,2026-04-01 01:19:38
+487,3991,Montenegro,Mobile,Safari,1,Failed,Enabled,2026-01-13 01:55:32
+488,1604,Bulgaria,Laptop,Edge,2,Success,Enabled,2026-05-20 00:05:09
+489,3226,China,Laptop,Chrome,1,Success,Enabled,2026-03-13 17:02:38
+490,2816,Finland,Laptop,Safari,5,Failed,Disabled,2026-02-14 02:06:14
+491,5632,Cambodia,Tablet,Chrome,0,Success,Enabled,2026-02-02 00:00:34
+492,6583,Iceland,Laptop,Safari,0,Success,Enabled,2026-02-21 22:24:11
+493,9577,Philippines,Mobile,Edge,2,Failed,Disabled,2026-03-13 01:53:09
+494,3325,Serbia,Tablet,Safari,5,Failed,Enabled,2026-04-16 12:04:09
+495,7160,Paraguay,Mobile,Safari,2,Success,Disabled,2026-04-06 07:36:26
+496,2805,Japan,Tablet,Edge,5,Failed,Disabled,2026-01-10 12:14:03
+497,2954,Vanuatu,Tablet,Edge,1,Success,Disabled,2026-05-05 21:48:44
+498,5052,Peru,Laptop,Chrome,5,Success,Enabled,2026-01-02 01:23:36
+499,6670,Kyrgyz Republic,Desktop,Safari,1,Failed,Enabled,2026-03-09 03:46:30
+500,2424,Canada,Tablet,Safari,3,Failed,Enabled,2026-01-01 10:02:05
+501,9113,Senegal,Desktop,Safari,1,Failed,Disabled,2026-04-03 08:54:50
+502,1877,Namibia,Laptop,Firefox,0,Failed,Enabled,2026-02-11 06:47:06
+503,2782,Korea,Desktop,Safari,5,Failed,Enabled,2026-01-24 18:59:23
+504,5580,United Arab Emirates,Mobile,Safari,4,Failed,Enabled,2026-04-24 03:50:52
+505,3778,Afghanistan,Laptop,Safari,3,Failed,Disabled,2026-03-06 06:01:07
+506,4613,Brunei Darussalam,Tablet,Firefox,5,Failed,Disabled,2026-02-10 03:41:24
+507,2757,Latvia,Mobile,Safari,0,Success,Enabled,2026-01-28 13:54:10
+508,3489,French Southern Territories,Tablet,Edge,4,Success,Enabled,2026-02-28 14:04:01
+509,4277,Seychelles,Desktop,Firefox,0,Failed,Enabled,2026-03-22 04:10:00
+510,6110,Turks and Caicos Islands,Desktop,Safari,2,Success,Disabled,2026-04-10 08:06:15
+511,5404,Gibraltar,Mobile,Chrome,2,Failed,Enabled,2026-04-18 13:06:08
+512,1574,Liberia,Desktop,Firefox,0,Failed,Disabled,2026-02-24 03:35:07
+513,7764,Jersey,Laptop,Chrome,2,Success,Enabled,2026-03-31 22:33:50
+514,6710,Antigua and Barbuda,Tablet,Chrome,5,Success,Disabled,2026-04-16 08:25:26
+515,8667,Cameroon,Laptop,Safari,2,Success,Disabled,2026-05-08 01:40:32
+516,8471,Saint Pierre and Miquelon,Mobile,Firefox,3,Failed,Disabled,2026-03-12 18:52:21
+517,8414,Iraq,Laptop,Safari,4,Success,Disabled,2026-05-25 22:48:41
+518,6624,China,Tablet,Safari,4,Failed,Disabled,2026-04-01 17:14:49
+519,6827,Maldives,Mobile,Chrome,4,Failed,Enabled,2026-04-15 01:54:34
+520,8358,Morocco,Laptop,Chrome,2,Success,Enabled,2026-02-09 02:27:38
+521,8596,Cameroon,Tablet,Chrome,0,Failed,Disabled,2026-01-18 02:51:08
+522,1849,Qatar,Desktop,Edge,5,Failed,Disabled,2026-05-17 14:32:26
+523,6486,France,Tablet,Safari,3,Failed,Enabled,2026-03-14 20:38:08
+524,5370,Guam,Mobile,Chrome,1,Failed,Disabled,2026-05-18 17:46:15
+525,5823,Liechtenstein,Desktop,Chrome,3,Failed,Disabled,2026-04-09 18:32:04
+526,9208,Brunei Darussalam,Desktop,Edge,2,Failed,Enabled,2026-05-25 12:03:48
+527,1126,Antigua and Barbuda,Laptop,Safari,3,Success,Enabled,2026-01-21 05:12:45
+528,1117,Andorra,Mobile,Chrome,3,Failed,Disabled,2026-03-21 04:07:13
+529,1549,Poland,Mobile,Firefox,4,Failed,Disabled,2026-05-24 02:27:20
+530,3028,Guinea-Bissau,Laptop,Chrome,1,Failed,Enabled,2026-03-14 09:48:30
+531,4912,Jamaica,Laptop,Chrome,2,Failed,Disabled,2026-02-09 00:21:01
+532,7674,Guatemala,Laptop,Chrome,3,Success,Disabled,2026-03-29 23:13:16
+533,6037,Palau,Mobile,Firefox,3,Failed,Enabled,2026-03-04 11:28:39
+534,5133,Oman,Mobile,Edge,3,Failed,Disabled,2026-03-06 18:33:24
+535,6621,Albania,Laptop,Chrome,5,Failed,Disabled,2026-02-25 11:40:26
+536,4428,Brunei Darussalam,Desktop,Firefox,5,Success,Enabled,2026-01-15 02:53:22
+537,8089,Czech Republic,Tablet,Edge,4,Failed,Disabled,2026-05-05 03:12:32
+538,1129,Bahrain,Mobile,Safari,4,Success,Enabled,2026-02-27 02:41:40
+539,3592,Ecuador,Laptop,Firefox,5,Failed,Disabled,2026-04-19 07:41:36
+540,3843,United States of America,Laptop,Firefox,4,Success,Disabled,2026-05-18 02:39:03
+541,6024,Qatar,Desktop,Edge,4,Success,Enabled,2026-05-17 05:13:28
+542,3088,Germany,Mobile,Safari,3,Success,Disabled,2026-05-09 21:58:20
+543,9579,Honduras,Laptop,Edge,5,Failed,Enabled,2026-02-12 15:06:04
+544,8855,Guinea-Bissau,Desktop,Chrome,3,Success,Disabled,2026-01-04 01:28:26
+545,9356,Maldives,Laptop,Firefox,4,Success,Disabled,2026-03-12 23:42:42
+546,8166,Sierra Leone,Laptop,Firefox,4,Failed,Enabled,2026-01-30 23:26:26
+547,3423,Tajikistan,Tablet,Edge,4,Success,Disabled,2026-03-26 01:57:19
+548,8894,Timor-Leste,Tablet,Safari,2,Success,Enabled,2026-03-12 04:00:35
+549,4111,Benin,Mobile,Firefox,5,Success,Enabled,2026-02-05 01:37:54
+550,7529,Ireland,Laptop,Chrome,5,Success,Disabled,2026-04-06 23:07:11
+551,8722,Turks and Caicos Islands,Mobile,Firefox,4,Success,Enabled,2026-05-17 06:20:46
+552,5331,Vietnam,Laptop,Safari,1,Failed,Enabled,2026-05-22 05:58:30
+553,5888,Togo,Mobile,Safari,2,Failed,Disabled,2026-03-07 02:58:10
+554,2606,Tanzania,Tablet,Chrome,4,Failed,Disabled,2026-05-22 07:22:11
+555,1569,Greece,Laptop,Edge,1,Success,Enabled,2026-03-16 21:26:56
+556,8512,Sao Tome and Principe,Tablet,Edge,3,Success,Enabled,2026-02-25 00:15:33
+557,1520,Cuba,Tablet,Firefox,3,Success,Disabled,2026-04-07 11:16:16
+558,9150,Malaysia,Mobile,Safari,2,Failed,Enabled,2026-02-02 21:55:54
+559,9729,Ecuador,Mobile,Firefox,5,Success,Disabled,2026-03-02 15:44:46
+560,7954,Palau,Laptop,Chrome,2,Success,Enabled,2026-01-20 20:52:22
+561,4881,Trinidad and Tobago,Laptop,Safari,3,Failed,Disabled,2026-05-15 00:29:26
+562,2298,Iraq,Tablet,Chrome,0,Success,Disabled,2026-05-06 01:42:13
+563,1000,Uruguay,Desktop,Edge,5,Failed,Enabled,2026-01-03 06:50:31
+564,7542,Belarus,Tablet,Chrome,3,Failed,Enabled,2026-03-08 13:33:29
+565,8810,United Arab Emirates,Tablet,Chrome,1,Failed,Enabled,2026-03-31 09:10:59
+566,2457,San Marino,Tablet,Firefox,2,Success,Disabled,2026-03-14 12:20:05
+567,5630,Netherlands,Desktop,Safari,5,Failed,Disabled,2026-01-03 04:19:56
+568,1543,New Caledonia,Tablet,Chrome,5,Success,Enabled,2026-04-11 21:31:46
+569,9706,Kenya,Laptop,Firefox,1,Success,Disabled,2026-05-23 23:28:19
+570,8428,Kiribati,Laptop,Safari,5,Success,Disabled,2026-04-11 03:40:49
+571,6292,Tuvalu,Laptop,Chrome,2,Failed,Disabled,2026-01-26 14:04:37
+572,8055,Singapore,Mobile,Chrome,5,Failed,Enabled,2026-02-28 07:41:59
+573,6692,Brazil,Desktop,Edge,3,Success,Enabled,2026-01-23 09:23:13
+574,4849,North Macedonia,Laptop,Chrome,5,Success,Disabled,2026-02-20 22:17:52
+575,2969,Congo,Mobile,Safari,5,Failed,Enabled,2026-02-21 19:52:27
+576,5912,Uruguay,Laptop,Firefox,3,Success,Enabled,2026-04-24 17:05:32
+577,3094,Angola,Mobile,Chrome,4,Success,Disabled,2026-05-05 16:39:30
+578,7496,Papua New Guinea,Mobile,Firefox,1,Failed,Enabled,2026-03-14 20:04:14
+579,5016,Tunisia,Laptop,Firefox,0,Success,Disabled,2026-05-24 06:10:28
+580,1739,Italy,Mobile,Firefox,4,Failed,Enabled,2026-04-13 13:30:29
+581,6125,Qatar,Laptop,Safari,1,Success,Enabled,2026-01-02 08:15:00
+582,6592,British Virgin Islands,Laptop,Safari,0,Success,Disabled,2026-02-16 04:56:44
+583,4948,Svalbard & Jan Mayen Islands,Laptop,Edge,3,Failed,Disabled,2026-01-18 07:54:09
+584,1734,Belarus,Laptop,Firefox,0,Failed,Disabled,2026-01-18 13:35:10
+585,1248,Sierra Leone,Tablet,Chrome,0,Success,Enabled,2026-02-09 16:21:14
+586,4879,Guadeloupe,Desktop,Chrome,3,Failed,Disabled,2026-05-22 13:09:09
+587,2152,Myanmar,Mobile,Safari,5,Success,Enabled,2026-02-04 06:56:31
+588,6104,Guam,Tablet,Firefox,2,Success,Enabled,2026-05-08 17:29:11
+589,5010,Cook Islands,Laptop,Safari,0,Success,Disabled,2026-05-03 18:02:44
+590,1075,Zambia,Tablet,Firefox,5,Success,Enabled,2026-01-25 04:30:36
+591,8534,Cook Islands,Mobile,Safari,2,Success,Disabled,2026-05-16 21:18:19
+592,9141,Peru,Laptop,Safari,5,Success,Enabled,2026-03-27 04:05:24
+593,4475,Northern Mariana Islands,Laptop,Firefox,5,Success,Disabled,2026-01-25 14:23:45
+594,5152,Mauritania,Laptop,Safari,4,Success,Disabled,2026-02-26 11:11:08
+595,6330,Guam,Desktop,Firefox,4,Failed,Disabled,2026-01-04 19:46:24
+596,5090,Germany,Desktop,Chrome,5,Success,Enabled,2026-04-19 16:27:53
+597,1424,Slovenia,Tablet,Safari,5,Failed,Disabled,2026-02-25 06:40:51
+598,7717,Mexico,Tablet,Firefox,2,Failed,Enabled,2026-05-25 14:22:34
+599,1222,Portugal,Mobile,Firefox,0,Success,Disabled,2026-05-27 01:15:12
+600,1182,Nicaragua,Desktop,Safari,5,Failed,Disabled,2026-02-17 19:40:22
+601,6901,Afghanistan,Laptop,Chrome,5,Success,Enabled,2026-03-02 22:42:16
+602,8983,Malaysia,Desktop,Chrome,2,Success,Disabled,2026-02-08 13:37:06
+603,4331,American Samoa,Desktop,Chrome,0,Failed,Disabled,2026-04-17 15:29:11
+604,1202,Venezuela,Mobile,Edge,1,Success,Enabled,2026-01-11 18:35:05
+605,6685,Venezuela,Mobile,Edge,4,Failed,Disabled,2026-03-30 00:42:09
+606,7849,Uzbekistan,Laptop,Chrome,0,Failed,Enabled,2026-05-18 05:48:57
+607,5017,Finland,Mobile,Edge,3,Success,Enabled,2026-04-21 03:39:30
+608,7359,Guatemala,Mobile,Chrome,4,Failed,Enabled,2026-04-30 01:54:46
+609,7022,Djibouti,Desktop,Firefox,5,Success,Disabled,2026-03-31 14:00:52
+610,1633,Georgia,Laptop,Chrome,4,Failed,Enabled,2026-03-21 01:48:23
+611,4079,Moldova,Laptop,Chrome,0,Success,Enabled,2026-02-09 07:49:50
+612,6017,Slovakia (Slovak Republic),Desktop,Firefox,4,Success,Enabled,2026-04-15 17:07:20
+613,9153,Saint Lucia,Laptop,Chrome,1,Failed,Enabled,2026-02-06 17:01:36
+614,9749,Egypt,Laptop,Firefox,4,Failed,Enabled,2026-01-06 00:06:44
+615,4416,Moldova,Desktop,Chrome,4,Success,Disabled,2026-02-04 23:46:35
+616,2087,Indonesia,Mobile,Chrome,3,Success,Enabled,2026-05-13 21:53:21
+617,6446,South Georgia and the South Sandwich Islands,Desktop,Firefox,2,Success,Enabled,2026-01-29 16:19:14
+618,9981,Guinea,Desktop,Chrome,5,Success,Disabled,2026-05-15 15:14:09
+619,3320,Gambia,Tablet,Chrome,1,Failed,Enabled,2026-02-07 02:27:54
+620,7971,Brunei Darussalam,Laptop,Firefox,4,Success,Disabled,2026-02-22 19:50:22
+621,3694,Egypt,Mobile,Chrome,3,Failed,Enabled,2026-02-17 00:38:40
+622,2753,Wallis and Futuna,Tablet,Chrome,2,Success,Disabled,2026-03-02 13:06:16
+623,5399,Niger,Laptop,Edge,0,Success,Disabled,2026-02-10 19:54:44
+624,1700,Egypt,Desktop,Chrome,4,Success,Disabled,2026-03-20 23:47:59
+625,7619,Bahrain,Tablet,Edge,3,Failed,Enabled,2026-01-29 00:00:40
+626,7510,Antarctica (the territory South of 60 deg S),Desktop,Firefox,1,Success,Disabled,2026-03-26 02:50:46
+627,6716,Netherlands,Tablet,Firefox,5,Failed,Enabled,2026-02-11 02:25:41
+628,2879,Tuvalu,Laptop,Firefox,2,Failed,Disabled,2026-03-30 05:50:07
+629,1170,Liechtenstein,Desktop,Safari,1,Success,Disabled,2026-05-28 06:26:09
+630,1804,Paraguay,Laptop,Edge,2,Failed,Enabled,2026-04-07 12:46:48
+631,9076,Mexico,Tablet,Safari,3,Success,Disabled,2026-01-10 01:02:24
+632,3485,Christmas Island,Mobile,Edge,2,Failed,Disabled,2026-04-25 02:51:22
+633,5281,Jordan,Tablet,Edge,3,Success,Disabled,2026-05-08 05:15:08
+634,9335,North Macedonia,Laptop,Chrome,3,Failed,Disabled,2026-03-22 02:10:40
+635,4289,Italy,Tablet,Firefox,4,Success,Enabled,2026-01-27 01:53:33
+636,4931,Belarus,Mobile,Safari,3,Success,Disabled,2026-03-12 14:37:19
+637,1589,Belize,Desktop,Edge,0,Success,Enabled,2026-02-04 20:34:47
+638,2534,Lebanon,Tablet,Edge,5,Failed,Disabled,2026-03-29 06:17:01
+639,1412,Guyana,Desktop,Firefox,1,Failed,Enabled,2026-01-24 01:37:39
+640,3150,Jersey,Desktop,Firefox,1,Failed,Disabled,2026-01-08 14:39:52
+641,5597,Uzbekistan,Laptop,Edge,5,Success,Disabled,2026-05-11 21:33:02
+642,6215,Sao Tome and Principe,Tablet,Firefox,2,Success,Disabled,2026-04-30 14:34:10
+643,1189,Slovenia,Mobile,Firefox,3,Success,Enabled,2026-02-15 01:31:19
+644,9455,Philippines,Tablet,Safari,0,Success,Enabled,2026-01-04 04:26:55
+645,9430,Norfolk Island,Mobile,Safari,4,Success,Disabled,2026-02-15 01:42:51
+646,5543,Iraq,Desktop,Firefox,5,Failed,Enabled,2026-02-05 16:29:51
+647,2577,Norway,Mobile,Chrome,2,Success,Disabled,2026-05-28 03:14:12
+648,3802,Vanuatu,Tablet,Safari,3,Failed,Enabled,2026-03-31 07:13:08
+649,7358,Rwanda,Laptop,Safari,3,Success,Disabled,2026-04-17 09:35:25
+650,6962,France,Mobile,Firefox,3,Success,Disabled,2026-01-29 21:00:02
+651,6899,Grenada,Mobile,Chrome,3,Success,Disabled,2026-05-03 10:31:27
+652,6662,Svalbard & Jan Mayen Islands,Tablet,Edge,0,Failed,Enabled,2026-01-03 00:44:20
+653,3868,Slovenia,Laptop,Safari,2,Failed,Enabled,2026-01-13 05:24:02
+654,9276,Congo,Laptop,Chrome,0,Failed,Enabled,2026-01-04 04:47:02
+655,1945,Sri Lanka,Laptop,Chrome,1,Failed,Enabled,2026-03-23 17:20:50
+656,1865,Philippines,Laptop,Firefox,4,Failed,Disabled,2026-05-25 10:02:46
+657,1132,Armenia,Mobile,Safari,0,Success,Disabled,2026-03-03 23:04:51
+658,5470,American Samoa,Mobile,Chrome,0,Failed,Enabled,2026-03-29 19:31:53
+659,6903,British Virgin Islands,Desktop,Chrome,4,Success,Enabled,2026-03-08 17:45:24
+660,1636,Austria,Laptop,Safari,4,Failed,Enabled,2026-01-30 01:55:05
+661,2132,Bosnia and Herzegovina,Laptop,Chrome,3,Failed,Enabled,2026-04-01 12:03:34
+662,4785,Sao Tome and Principe,Laptop,Firefox,4,Success,Enabled,2026-05-19 16:44:28
+663,7470,Oman,Laptop,Edge,5,Success,Disabled,2026-02-02 22:22:11
+664,5204,Cape Verde,Mobile,Firefox,2,Success,Enabled,2026-01-30 10:11:31
+665,9524,Slovenia,Desktop,Firefox,1,Failed,Disabled,2026-04-01 13:56:11
+666,1284,Andorra,Desktop,Edge,0,Success,Disabled,2026-01-05 07:08:58
+667,6349,Gibraltar,Laptop,Edge,2,Success,Enabled,2026-01-28 17:22:27
+668,2009,United Kingdom,Desktop,Edge,0,Failed,Enabled,2026-02-04 12:16:51
+669,4869,Albania,Laptop,Firefox,4,Failed,Enabled,2026-02-21 15:34:53
+670,4276,Costa Rica,Laptop,Firefox,5,Failed,Enabled,2026-03-15 18:26:17
+671,5227,Nauru,Desktop,Safari,3,Failed,Enabled,2026-01-05 02:42:08
+672,5918,Cameroon,Mobile,Firefox,1,Failed,Enabled,2026-03-10 22:38:31
+673,7328,Togo,Laptop,Firefox,3,Failed,Enabled,2026-04-26 03:50:09
+674,9465,Malta,Desktop,Firefox,2,Success,Disabled,2026-04-18 10:09:49
+675,8158,Estonia,Laptop,Safari,1,Failed,Enabled,2026-05-11 14:59:28
+676,6026,Portugal,Laptop,Safari,2,Success,Enabled,2026-04-21 05:53:00
+677,5678,Germany,Mobile,Firefox,1,Failed,Disabled,2026-04-13 06:11:54
+678,8143,Singapore,Laptop,Safari,5,Failed,Disabled,2026-02-04 10:04:17
+679,7580,United States of America,Tablet,Edge,0,Failed,Enabled,2026-01-08 21:44:40
+680,6182,Equatorial Guinea,Laptop,Safari,5,Success,Enabled,2026-03-11 11:22:27
+681,2205,Iceland,Laptop,Firefox,0,Failed,Disabled,2026-05-08 18:45:37
+682,7053,Korea,Laptop,Safari,4,Failed,Enabled,2026-01-18 06:41:21
+683,2638,Germany,Desktop,Edge,3,Failed,Enabled,2026-01-06 00:47:28
+684,4111,Bahamas,Desktop,Safari,2,Success,Enabled,2026-01-24 17:48:19
+685,7684,United Arab Emirates,Tablet,Edge,5,Success,Disabled,2026-03-02 03:19:32
+686,2972,Faroe Islands,Laptop,Safari,2,Success,Disabled,2026-05-08 22:00:21
+687,1987,Sri Lanka,Desktop,Chrome,2,Success,Disabled,2026-03-18 19:39:21
+688,8953,French Guiana,Mobile,Chrome,0,Success,Disabled,2026-05-24 06:20:11
+689,4596,Sierra Leone,Mobile,Safari,4,Success,Disabled,2026-02-12 22:28:28
+690,3679,Venezuela,Tablet,Chrome,0,Failed,Disabled,2026-04-23 10:34:33
+691,7255,Paraguay,Mobile,Firefox,3,Success,Disabled,2026-02-28 01:09:06
+692,3756,Syrian Arab Republic,Laptop,Edge,0,Success,Disabled,2026-01-16 19:06:04
+693,4616,Kiribati,Desktop,Chrome,5,Success,Disabled,2026-01-25 07:59:21
+694,7861,Seychelles,Tablet,Edge,0,Failed,Enabled,2026-02-15 03:59:01
+695,7916,Seychelles,Desktop,Safari,3,Failed,Disabled,2026-03-09 09:12:14
+696,4536,Poland,Laptop,Chrome,3,Failed,Disabled,2026-05-01 14:13:47
+697,6404,Saint Kitts and Nevis,Desktop,Safari,4,Success,Enabled,2026-02-27 09:31:20
+698,5590,Svalbard & Jan Mayen Islands,Laptop,Safari,5,Success,Disabled,2026-02-01 03:47:28
+699,2777,Kuwait,Desktop,Edge,0,Failed,Enabled,2026-02-09 03:19:47
+700,5677,Lesotho,Mobile,Chrome,4,Failed,Enabled,2026-03-04 17:48:39
+701,5201,French Polynesia,Mobile,Edge,2,Success,Enabled,2026-03-04 12:03:27
+702,6837,Argentina,Laptop,Chrome,0,Failed,Enabled,2026-02-02 10:27:40
+703,8740,Western Sahara,Laptop,Edge,4,Failed,Enabled,2026-05-11 11:58:44
+704,4513,Iceland,Tablet,Firefox,5,Failed,Disabled,2026-03-21 16:31:31
+705,2043,Cape Verde,Tablet,Firefox,4,Failed,Enabled,2026-02-05 04:59:08
+706,7393,French Southern Territories,Desktop,Firefox,3,Success,Enabled,2026-01-11 23:41:40
+707,2326,Australia,Laptop,Chrome,5,Success,Enabled,2026-03-22 15:44:16
+708,6438,Barbados,Tablet,Chrome,1,Failed,Enabled,2026-04-24 11:50:48
+709,2604,Saint Pierre and Miquelon,Laptop,Edge,1,Success,Disabled,2026-02-28 00:48:29
+710,7660,Lao People's Democratic Republic,Laptop,Edge,1,Failed,Disabled,2026-01-08 07:43:05
+711,5052,Palestinian Territory,Mobile,Chrome,0,Failed,Enabled,2026-02-16 06:32:16
+712,3639,Saint Kitts and Nevis,Mobile,Chrome,2,Failed,Disabled,2026-01-21 19:36:41
+713,1384,Niger,Desktop,Firefox,0,Success,Enabled,2026-02-14 21:10:41
+714,1319,Niger,Mobile,Edge,1,Failed,Enabled,2026-01-11 17:27:15
+715,8836,South Georgia and the South Sandwich Islands,Laptop,Edge,4,Success,Enabled,2026-02-06 05:53:40
+716,9180,Saint Helena,Desktop,Chrome,4,Success,Disabled,2026-03-21 03:00:00
+717,4376,Austria,Laptop,Safari,0,Success,Disabled,2026-03-25 05:30:14
+718,7001,Eritrea,Desktop,Firefox,2,Success,Disabled,2026-04-22 00:38:40
+719,8061,Cameroon,Mobile,Edge,5,Failed,Disabled,2026-04-22 08:23:43
+720,1719,Finland,Tablet,Firefox,1,Success,Enabled,2026-01-01 13:53:30
+721,9825,Grenada,Tablet,Firefox,2,Success,Disabled,2026-05-26 09:49:11
+722,3968,Netherlands,Laptop,Chrome,0,Failed,Disabled,2026-03-29 17:55:36
+723,9926,Netherlands,Desktop,Chrome,4,Success,Enabled,2026-01-28 04:22:33
+724,8877,Equatorial Guinea,Mobile,Safari,4,Failed,Disabled,2026-04-14 08:25:41
+725,6657,Palestinian Territory,Desktop,Firefox,1,Success,Enabled,2026-04-30 05:58:08
+726,6172,Rwanda,Laptop,Firefox,2,Success,Enabled,2026-04-21 09:32:38
+727,8401,Guam,Mobile,Edge,1,Failed,Enabled,2026-02-10 23:29:41
+728,2743,Cambodia,Mobile,Safari,5,Success,Enabled,2026-03-11 12:16:06
+729,1617,Niger,Laptop,Edge,2,Success,Disabled,2026-03-01 20:48:30
+730,2215,Cote d'Ivoire,Mobile,Chrome,5,Failed,Enabled,2026-04-08 19:24:46
+731,9522,Tanzania,Laptop,Firefox,3,Success,Enabled,2026-05-12 05:55:01
+732,8324,Congo,Laptop,Chrome,3,Success,Enabled,2026-01-08 12:08:50
+733,3617,Cyprus,Laptop,Safari,0,Success,Enabled,2026-01-21 08:50:45
+734,2624,Mozambique,Tablet,Chrome,5,Success,Disabled,2026-03-21 08:50:20
+735,6524,Ethiopia,Tablet,Safari,3,Failed,Enabled,2026-05-24 00:50:03
+736,8616,Antigua and Barbuda,Laptop,Firefox,3,Success,Disabled,2026-04-24 17:47:14
+737,5302,Lesotho,Mobile,Edge,3,Success,Disabled,2026-02-18 20:17:56
+738,7098,Costa Rica,Tablet,Firefox,4,Success,Disabled,2026-02-12 17:21:02
+739,8513,Guinea-Bissau,Tablet,Safari,5,Failed,Disabled,2026-02-12 09:32:06
+740,7356,Mongolia,Tablet,Firefox,5,Success,Disabled,2026-03-24 00:12:39
+741,8104,Jamaica,Tablet,Safari,3,Failed,Disabled,2026-02-13 09:08:08
+742,6553,Bosnia and Herzegovina,Mobile,Chrome,3,Success,Disabled,2026-04-14 03:24:39
+743,7470,Trinidad and Tobago,Laptop,Edge,5,Failed,Disabled,2026-05-22 13:22:47
+744,9612,Mauritius,Desktop,Chrome,5,Failed,Disabled,2026-04-28 17:18:13
+745,8693,Central African Republic,Laptop,Edge,0,Success,Disabled,2026-03-07 01:41:00
+746,5247,Ghana,Laptop,Safari,2,Failed,Enabled,2026-03-26 01:01:06
+747,5621,Namibia,Laptop,Edge,5,Success,Disabled,2026-04-05 21:51:41
+748,9906,El Salvador,Desktop,Safari,1,Success,Disabled,2026-02-06 21:39:08
+749,5347,Sri Lanka,Mobile,Edge,5,Failed,Disabled,2026-04-21 10:32:23
+750,6251,Luxembourg,Tablet,Firefox,5,Failed,Disabled,2026-01-08 23:01:11
+751,5418,Svalbard & Jan Mayen Islands,Desktop,Chrome,2,Success,Enabled,2026-05-24 20:55:44
+752,5583,Egypt,Desktop,Edge,4,Success,Enabled,2026-01-27 06:09:57
+753,6061,Iceland,Tablet,Edge,4,Success,Disabled,2026-01-29 14:37:38
+754,6818,Mozambique,Mobile,Chrome,0,Success,Disabled,2026-05-17 03:56:15
+755,8942,Micronesia,Tablet,Safari,4,Failed,Disabled,2026-04-26 10:52:28
+756,2059,Isle of Man,Tablet,Firefox,5,Failed,Enabled,2026-04-10 01:05:07
+757,3822,Myanmar,Laptop,Firefox,1,Success,Disabled,2026-04-19 07:23:07
+758,6274,Antarctica (the territory South of 60 deg S),Tablet,Edge,3,Failed,Enabled,2026-04-20 18:16:46
+759,9423,Nepal,Desktop,Chrome,1,Success,Enabled,2026-01-07 19:33:03
+760,4185,Belgium,Desktop,Firefox,0,Success,Enabled,2026-05-17 06:50:19
+761,1272,Kiribati,Tablet,Firefox,2,Success,Disabled,2026-02-03 09:23:11
+762,8129,United States of America,Desktop,Edge,5,Success,Disabled,2026-03-08 10:34:05
+763,3037,Norfolk Island,Laptop,Firefox,0,Failed,Disabled,2026-01-24 07:09:02
+764,7990,Norway,Mobile,Firefox,1,Failed,Disabled,2026-02-22 13:44:28
+765,8977,Marshall Islands,Mobile,Edge,4,Failed,Disabled,2026-03-18 09:07:03
+766,4951,United States of America,Laptop,Edge,4,Success,Enabled,2026-04-22 06:20:13
+767,6309,Bangladesh,Tablet,Safari,2,Success,Disabled,2026-04-07 09:48:09
+768,3473,Slovakia (Slovak Republic),Laptop,Firefox,5,Failed,Disabled,2026-05-07 12:05:55
+769,6275,French Polynesia,Tablet,Firefox,2,Success,Disabled,2026-05-26 12:54:29
+770,4451,Cambodia,Tablet,Edge,4,Failed,Disabled,2026-03-31 17:30:58
+771,3304,Sri Lanka,Tablet,Firefox,1,Failed,Disabled,2026-02-24 18:13:37
+772,1359,Kazakhstan,Tablet,Safari,0,Success,Disabled,2026-04-10 11:10:29
+773,8476,Ghana,Laptop,Edge,2,Success,Enabled,2026-02-20 04:34:56
+774,8408,Guinea,Desktop,Edge,3,Failed,Enabled,2026-02-20 00:05:22
+775,2234,Lithuania,Mobile,Edge,1,Failed,Disabled,2026-04-29 03:46:15
+776,4076,Cape Verde,Mobile,Safari,1,Failed,Disabled,2026-03-21 07:05:46
+777,3283,Togo,Laptop,Chrome,4,Failed,Enabled,2026-01-05 17:07:20
+778,3177,Bangladesh,Tablet,Firefox,0,Failed,Enabled,2026-05-16 19:28:57
+779,8625,Brazil,Laptop,Safari,4,Failed,Disabled,2026-02-18 18:13:23
+780,2678,Italy,Mobile,Safari,1,Failed,Enabled,2026-04-07 02:16:09
+781,4130,El Salvador,Laptop,Edge,4,Failed,Disabled,2026-05-17 21:16:40
+782,7444,Thailand,Tablet,Safari,0,Success,Disabled,2026-04-27 10:31:10
+783,2804,Iraq,Tablet,Chrome,5,Failed,Disabled,2026-02-04 01:47:28
+784,9087,Vanuatu,Laptop,Chrome,3,Failed,Enabled,2026-02-02 00:06:01
+785,9189,Jordan,Desktop,Edge,5,Success,Disabled,2026-05-12 18:53:26
+786,9159,Gibraltar,Tablet,Firefox,1,Failed,Disabled,2026-05-16 02:19:56
+787,3173,Switzerland,Tablet,Safari,1,Success,Disabled,2026-03-11 07:21:38
+788,2915,Kiribati,Mobile,Chrome,5,Success,Enabled,2026-05-25 03:00:56
+789,4741,Albania,Tablet,Chrome,0,Success,Disabled,2026-01-07 23:43:09
+790,9402,Seychelles,Mobile,Safari,5,Success,Enabled,2026-05-22 08:07:03
+791,4138,Anguilla,Laptop,Firefox,2,Success,Enabled,2026-02-22 08:58:18
+792,3125,Turkey,Desktop,Chrome,5,Failed,Disabled,2026-02-18 10:56:05
+793,3774,Zimbabwe,Desktop,Firefox,1,Success,Enabled,2026-05-04 19:00:08
+794,3528,French Southern Territories,Mobile,Safari,3,Failed,Enabled,2026-04-23 18:46:40
+795,4064,Portugal,Tablet,Firefox,1,Failed,Enabled,2026-01-26 22:46:21
+796,6691,Sweden,Mobile,Firefox,4,Failed,Enabled,2026-04-27 09:39:43
+797,7194,Bulgaria,Tablet,Safari,4,Failed,Disabled,2026-02-07 02:56:36
+798,2001,Lao People's Democratic Republic,Mobile,Chrome,5,Success,Disabled,2026-05-22 03:56:06
+799,1367,Czech Republic,Mobile,Firefox,3,Success,Disabled,2026-05-24 10:16:17
+800,1305,Iran,Mobile,Firefox,5,Success,Disabled,2026-02-15 09:27:43
+801,1572,Tanzania,Tablet,Edge,4,Failed,Enabled,2026-05-18 18:10:37
+802,3568,Turks and Caicos Islands,Laptop,Chrome,5,Failed,Disabled,2026-02-28 01:44:14
+803,1373,Saint Helena,Laptop,Chrome,2,Success,Disabled,2026-04-09 20:19:51
+804,5238,United Kingdom,Tablet,Edge,4,Failed,Disabled,2026-05-06 05:52:46
+805,1565,Ethiopia,Laptop,Edge,1,Failed,Disabled,2026-04-23 03:41:00
+806,4809,Hungary,Mobile,Chrome,2,Failed,Disabled,2026-02-26 13:21:26
+807,1023,Ghana,Tablet,Firefox,4,Failed,Disabled,2026-03-02 06:53:15
+808,3593,Iran,Tablet,Chrome,5,Success,Enabled,2026-04-25 15:27:19
+809,5918,Austria,Mobile,Firefox,5,Success,Disabled,2026-03-02 06:24:42
+810,7528,Nicaragua,Mobile,Edge,5,Success,Enabled,2026-02-01 23:12:38
+811,2821,Romania,Laptop,Firefox,3,Failed,Disabled,2026-01-15 00:11:23
+812,5790,Peru,Mobile,Safari,5,Failed,Enabled,2026-04-06 15:32:50
+813,6173,Tanzania,Mobile,Safari,2,Success,Disabled,2026-05-16 12:17:42
+814,7278,Vanuatu,Tablet,Safari,2,Success,Enabled,2026-01-28 01:22:40
+815,3572,Cyprus,Tablet,Chrome,5,Success,Enabled,2026-05-17 16:45:59
+816,6038,Albania,Mobile,Chrome,5,Success,Disabled,2026-01-23 10:53:36
+817,5155,Niue,Mobile,Edge,5,Failed,Enabled,2026-01-19 03:09:21
+818,8939,Costa Rica,Laptop,Chrome,4,Failed,Enabled,2026-04-06 09:20:55
+819,9545,Iraq,Mobile,Edge,1,Success,Disabled,2026-04-03 22:38:02
+820,2626,Malta,Laptop,Safari,3,Failed,Enabled,2026-02-11 15:12:41
+821,4118,Faroe Islands,Laptop,Edge,3,Success,Disabled,2026-04-08 21:56:32
+822,3350,Tokelau,Mobile,Edge,2,Failed,Enabled,2026-03-04 11:34:02
+823,5958,Nauru,Laptop,Firefox,1,Failed,Disabled,2026-01-12 01:33:54
+824,4765,Sudan,Desktop,Safari,1,Failed,Disabled,2026-02-04 06:29:58
+825,6467,Tokelau,Tablet,Chrome,1,Success,Disabled,2026-05-09 05:23:44
+826,2262,Nigeria,Tablet,Safari,0,Success,Enabled,2026-04-11 00:57:04
+827,3436,Chad,Desktop,Chrome,5,Success,Enabled,2026-05-09 16:00:30
+828,9571,Turkey,Desktop,Edge,0,Failed,Disabled,2026-05-27 18:45:53
+829,5104,Dominican Republic,Desktop,Chrome,0,Success,Enabled,2026-04-14 17:08:17
+830,7642,South Georgia and the South Sandwich Islands,Tablet,Firefox,0,Failed,Enabled,2026-02-03 22:20:22
+831,9580,Dominican Republic,Desktop,Safari,3,Failed,Enabled,2026-04-23 02:37:24
+832,7338,Netherlands,Laptop,Edge,0,Failed,Disabled,2026-02-13 15:56:02
+833,1477,Panama,Mobile,Edge,0,Success,Enabled,2026-04-22 21:50:52
+834,9515,Ecuador,Tablet,Edge,0,Success,Disabled,2026-01-31 18:36:57
+835,4826,Afghanistan,Tablet,Chrome,5,Failed,Disabled,2026-03-18 09:57:56
+836,6764,Belgium,Mobile,Chrome,1,Success,Disabled,2026-04-23 19:49:29
+837,1198,Bosnia and Herzegovina,Tablet,Edge,5,Success,Enabled,2026-01-13 23:15:34
+838,4449,Indonesia,Laptop,Firefox,1,Failed,Enabled,2026-01-02 21:15:30
+839,3349,Myanmar,Tablet,Edge,1,Failed,Disabled,2026-01-27 09:51:32
+840,6477,Cameroon,Laptop,Edge,5,Success,Enabled,2026-05-06 05:43:21
+841,9244,Togo,Desktop,Safari,4,Failed,Enabled,2026-03-30 16:04:20
+842,3164,San Marino,Desktop,Chrome,1,Failed,Disabled,2026-04-12 13:53:50
+843,8278,Korea,Mobile,Chrome,2,Failed,Disabled,2026-04-04 20:10:37
+844,4459,Gambia,Desktop,Firefox,1,Failed,Enabled,2026-04-28 21:23:03
+845,8008,Macao,Laptop,Safari,4,Success,Disabled,2026-05-22 12:47:33
+846,7790,Aruba,Desktop,Firefox,0,Failed,Enabled,2026-05-25 19:51:27
+847,5016,Djibouti,Tablet,Edge,5,Failed,Disabled,2026-05-26 20:46:20
+848,6300,Uganda,Tablet,Safari,4,Success,Enabled,2026-01-23 16:36:22
+849,9766,Finland,Laptop,Safari,3,Failed,Enabled,2026-05-22 11:14:45
+850,9263,Tajikistan,Laptop,Firefox,1,Success,Enabled,2026-01-12 12:10:11
+851,7302,Antigua and Barbuda,Laptop,Safari,1,Success,Enabled,2026-03-07 20:43:41
+852,7064,Montenegro,Laptop,Safari,2,Failed,Enabled,2026-05-01 02:43:06
+853,9165,Ecuador,Tablet,Edge,0,Failed,Disabled,2026-02-22 10:13:12
+854,1053,Iceland,Tablet,Edge,4,Success,Disabled,2026-02-02 05:55:54
+855,8356,Sri Lanka,Desktop,Firefox,5,Success,Disabled,2026-04-07 04:26:34
+856,1111,Macao,Desktop,Safari,3,Success,Enabled,2026-03-08 14:09:41
+857,7275,Guinea-Bissau,Laptop,Edge,4,Success,Enabled,2026-03-11 14:03:23
+858,2930,Bangladesh,Laptop,Chrome,0,Failed,Disabled,2026-01-08 13:08:25
+859,2007,Tuvalu,Laptop,Firefox,1,Success,Disabled,2026-03-16 20:54:09
+860,4897,United Arab Emirates,Tablet,Edge,3,Failed,Disabled,2026-01-15 10:20:31
+861,2259,Netherlands,Tablet,Chrome,5,Success,Enabled,2026-03-29 11:40:32
+862,3923,Liechtenstein,Desktop,Edge,4,Success,Disabled,2026-05-25 07:32:20
+863,6915,Ecuador,Desktop,Chrome,1,Failed,Disabled,2026-03-09 16:53:21
+864,1488,India,Mobile,Safari,2,Failed,Enabled,2026-03-31 03:17:10
+865,1851,Namibia,Laptop,Firefox,0,Success,Disabled,2026-01-10 17:21:08
+866,4868,Netherlands Antilles,Desktop,Safari,3,Failed,Enabled,2026-01-06 21:21:29
+867,3379,Timor-Leste,Tablet,Chrome,2,Success,Enabled,2026-01-06 11:47:38
+868,2890,Wallis and Futuna,Desktop,Firefox,4,Failed,Disabled,2026-04-16 20:45:01
+869,5563,Korea,Mobile,Chrome,4,Failed,Disabled,2026-03-08 00:21:33
+870,5495,Afghanistan,Desktop,Edge,3,Success,Enabled,2026-01-09 17:28:00
+871,9478,Isle of Man,Tablet,Safari,2,Failed,Disabled,2026-05-14 16:00:25
+872,4463,Swaziland,Mobile,Edge,3,Success,Disabled,2026-01-13 04:38:58
+873,8561,Hong Kong,Desktop,Chrome,2,Failed,Enabled,2026-03-22 23:03:52
+874,8925,Malawi,Tablet,Firefox,4,Failed,Disabled,2026-01-13 02:15:43
+875,6792,Samoa,Mobile,Chrome,1,Failed,Disabled,2026-02-26 12:12:30
+876,6504,Jordan,Laptop,Firefox,2,Failed,Disabled,2026-02-26 08:25:25
+877,2370,Guam,Tablet,Chrome,4,Failed,Enabled,2026-05-18 16:49:44
+878,8456,Venezuela,Tablet,Safari,3,Failed,Disabled,2026-04-22 03:12:02
+879,8347,Lesotho,Mobile,Chrome,1,Success,Disabled,2026-04-29 02:48:11
+880,1608,Timor-Leste,Tablet,Chrome,1,Failed,Enabled,2026-05-24 20:55:35
+881,7921,Falkland Islands (Malvinas),Laptop,Firefox,5,Success,Enabled,2026-04-04 09:00:48
+882,1905,Macao,Desktop,Chrome,1,Failed,Disabled,2026-04-24 04:49:54
+883,9096,South Georgia and the South Sandwich Islands,Desktop,Firefox,2,Failed,Enabled,2026-04-25 13:53:18
+884,7340,Macao,Desktop,Chrome,3,Success,Disabled,2026-04-20 23:15:34
+885,2563,Malaysia,Laptop,Firefox,0,Failed,Enabled,2026-02-15 18:32:50
+886,5818,Ghana,Desktop,Edge,3,Success,Disabled,2026-01-24 01:24:10
+887,1261,Bouvet Island (Bouvetoya),Tablet,Chrome,0,Failed,Enabled,2026-03-18 00:00:57
+888,1988,Cameroon,Tablet,Firefox,5,Failed,Disabled,2026-02-17 08:21:41
+889,4672,Gibraltar,Mobile,Chrome,0,Success,Disabled,2026-01-07 10:58:16
+890,9026,Georgia,Tablet,Chrome,2,Failed,Disabled,2026-03-03 05:49:13
+891,3277,Burkina Faso,Desktop,Chrome,5,Failed,Disabled,2026-01-09 14:02:25
+892,4641,United States Minor Outlying Islands,Desktop,Safari,0,Failed,Disabled,2026-04-10 22:50:54
+893,2629,Nauru,Tablet,Chrome,1,Failed,Disabled,2026-03-10 22:52:15
+894,8740,Estonia,Laptop,Chrome,4,Failed,Disabled,2026-01-06 12:51:58
+895,6978,Serbia,Laptop,Firefox,4,Failed,Enabled,2026-02-01 12:26:03
+896,8950,Dominica,Laptop,Firefox,4,Success,Enabled,2026-04-03 16:05:31
+897,7819,Colombia,Laptop,Chrome,5,Failed,Disabled,2026-05-13 16:57:29
+898,4371,Georgia,Laptop,Safari,1,Success,Disabled,2026-04-09 03:46:10
+899,8544,Northern Mariana Islands,Mobile,Firefox,2,Success,Enabled,2026-04-06 13:52:52
+900,9353,French Guiana,Tablet,Edge,1,Success,Enabled,2026-04-09 00:46:32
+901,2312,Isle of Man,Laptop,Safari,5,Failed,Enabled,2026-05-27 08:32:55
+902,5877,Burundi,Desktop,Safari,2,Success,Disabled,2026-02-05 13:01:10
+903,5799,Mongolia,Desktop,Chrome,4,Failed,Disabled,2026-02-14 10:15:21
+904,7546,Iceland,Laptop,Chrome,1,Failed,Enabled,2026-03-09 18:05:23
+905,6365,Sudan,Desktop,Firefox,3,Failed,Disabled,2026-02-06 11:16:07
+906,3371,Mongolia,Desktop,Edge,0,Failed,Disabled,2026-01-07 05:11:40
+907,5222,Gibraltar,Tablet,Safari,2,Failed,Enabled,2026-01-07 19:57:43
+908,1571,Turkey,Laptop,Edge,1,Success,Enabled,2026-01-10 20:33:34
+909,8980,Uruguay,Mobile,Safari,2,Failed,Disabled,2026-01-29 19:46:47
+910,6694,Belarus,Desktop,Safari,2,Failed,Enabled,2026-03-23 11:50:52
+911,9050,Ecuador,Tablet,Chrome,3,Failed,Disabled,2026-04-11 08:50:57
+912,6657,Singapore,Laptop,Chrome,4,Failed,Disabled,2026-05-13 01:34:29
+913,9983,Guinea,Laptop,Chrome,5,Success,Disabled,2026-04-04 19:32:23
+914,4901,Uruguay,Tablet,Safari,3,Success,Enabled,2026-05-20 06:23:26
+915,3769,Solomon Islands,Tablet,Chrome,0,Failed,Enabled,2026-01-17 15:47:28
+916,6696,Guinea,Laptop,Chrome,1,Success,Disabled,2026-04-26 09:00:30
+917,3836,Norfolk Island,Laptop,Chrome,1,Failed,Disabled,2026-03-15 23:58:03
+918,2152,Singapore,Laptop,Edge,1,Success,Disabled,2026-02-06 00:15:01
+919,8307,Paraguay,Desktop,Safari,2,Failed,Disabled,2026-05-03 10:48:15
+920,5432,Mozambique,Desktop,Edge,2,Failed,Enabled,2026-01-07 06:57:58
+921,1068,Ecuador,Laptop,Edge,4,Success,Disabled,2026-03-13 13:54:09
+922,6865,Nigeria,Tablet,Edge,2,Success,Disabled,2026-01-27 22:48:13
+923,7047,Marshall Islands,Laptop,Firefox,4,Success,Disabled,2026-04-16 07:24:19
+924,8814,Niger,Laptop,Firefox,3,Success,Enabled,2026-01-29 03:45:25
+925,9341,Georgia,Tablet,Chrome,3,Success,Disabled,2026-05-01 01:21:50
+926,1066,Mali,Desktop,Edge,5,Failed,Disabled,2026-01-11 03:36:10
+927,1914,Ukraine,Desktop,Firefox,4,Success,Enabled,2026-05-18 22:27:44
+928,4990,Guyana,Mobile,Edge,1,Failed,Disabled,2026-02-20 06:04:23
+929,5550,Comoros,Laptop,Firefox,3,Failed,Disabled,2026-05-01 08:49:44
+930,7370,Afghanistan,Tablet,Firefox,2,Success,Disabled,2026-04-05 12:09:14
+931,9762,Cote d'Ivoire,Desktop,Chrome,3,Failed,Enabled,2026-04-07 14:19:35
+932,2426,Ireland,Desktop,Safari,2,Failed,Enabled,2026-04-28 10:53:30
+933,8996,Montserrat,Tablet,Edge,2,Success,Enabled,2026-02-08 03:59:04
+934,6371,Moldova,Desktop,Edge,5,Success,Disabled,2026-04-12 14:52:38
+935,4434,Morocco,Laptop,Edge,2,Success,Disabled,2026-01-09 01:32:35
+936,1530,Saint Martin,Laptop,Firefox,5,Success,Disabled,2026-01-10 15:14:27
+937,2905,Hong Kong,Desktop,Edge,0,Success,Enabled,2026-03-29 01:27:13
+938,6113,French Southern Territories,Desktop,Safari,1,Failed,Disabled,2026-03-04 18:22:09
+939,9364,Tuvalu,Laptop,Firefox,3,Success,Disabled,2026-01-17 07:01:29
+940,3903,Madagascar,Laptop,Firefox,4,Success,Disabled,2026-01-13 20:31:45
+941,7083,Wallis and Futuna,Desktop,Safari,4,Failed,Enabled,2026-01-09 19:35:34
+942,4926,Turkmenistan,Tablet,Firefox,0,Success,Disabled,2026-02-20 21:23:33
+943,9564,Chad,Desktop,Firefox,4,Failed,Disabled,2026-05-06 20:04:03
+944,1146,Malta,Mobile,Firefox,3,Success,Enabled,2026-03-26 01:47:54
+945,9945,Russian Federation,Mobile,Firefox,2,Failed,Enabled,2026-01-19 21:42:33
+946,6149,Tanzania,Desktop,Chrome,2,Success,Enabled,2026-02-19 13:41:07
+947,7643,Kuwait,Laptop,Edge,4,Failed,Disabled,2026-02-10 15:59:41
+948,9606,Mali,Tablet,Firefox,2,Success,Disabled,2026-05-01 00:40:14
+949,2843,Poland,Desktop,Firefox,0,Failed,Enabled,2026-04-22 07:04:50
+950,4465,Indonesia,Laptop,Safari,0,Success,Disabled,2026-05-05 05:52:51
+951,1664,Hungary,Laptop,Edge,0,Success,Enabled,2026-02-21 06:21:44
+952,2228,Zimbabwe,Mobile,Firefox,5,Success,Disabled,2026-02-11 10:00:33
+953,3996,Djibouti,Mobile,Edge,0,Failed,Disabled,2026-02-28 21:02:42
+954,5656,Myanmar,Desktop,Chrome,1,Failed,Enabled,2026-02-01 16:41:46
+955,8578,Gibraltar,Laptop,Firefox,4,Success,Disabled,2026-04-14 10:43:45
+956,2859,Gabon,Mobile,Edge,5,Failed,Enabled,2026-02-20 13:43:01
+957,9771,Bulgaria,Tablet,Edge,5,Success,Enabled,2026-01-28 14:41:37
+958,9620,Yemen,Mobile,Safari,3,Success,Enabled,2026-02-06 18:38:25
+959,8253,Kuwait,Laptop,Edge,3,Failed,Enabled,2026-03-03 23:28:32
+960,7127,Samoa,Tablet,Safari,1,Failed,Enabled,2026-04-18 14:37:38
+961,8691,Swaziland,Laptop,Edge,0,Success,Disabled,2026-02-28 07:25:04
+962,6818,Malaysia,Desktop,Chrome,4,Success,Disabled,2026-01-01 22:07:05
+963,8545,Heard Island and McDonald Islands,Tablet,Chrome,1,Success,Disabled,2026-04-12 13:00:03
+964,4369,Kyrgyz Republic,Tablet,Edge,3,Success,Enabled,2026-03-20 13:10:01
+965,7535,Czech Republic,Mobile,Edge,4,Success,Enabled,2026-02-16 04:30:45
+966,4113,Kyrgyz Republic,Mobile,Safari,4,Failed,Enabled,2026-05-20 09:55:36
+967,2770,Kiribati,Mobile,Edge,3,Success,Disabled,2026-01-31 23:02:16
+968,4851,Pakistan,Tablet,Chrome,1,Success,Disabled,2026-04-12 04:52:06
+969,2636,Dominica,Tablet,Edge,3,Success,Enabled,2026-04-24 21:01:11
+970,8851,Marshall Islands,Desktop,Firefox,1,Success,Disabled,2026-02-17 07:04:11
+971,1871,Paraguay,Mobile,Safari,0,Success,Disabled,2026-03-22 08:54:37
+972,6929,United Arab Emirates,Desktop,Chrome,0,Success,Disabled,2026-05-02 18:27:49
+973,9232,Kenya,Desktop,Firefox,5,Failed,Enabled,2026-02-01 22:35:08
+974,9864,Mali,Mobile,Chrome,5,Success,Enabled,2026-03-15 11:47:14
+975,2659,Djibouti,Tablet,Firefox,1,Success,Enabled,2026-02-07 05:26:26
+976,7970,Tuvalu,Desktop,Edge,4,Failed,Enabled,2026-01-10 18:31:58
+977,5357,Madagascar,Laptop,Firefox,3,Success,Enabled,2026-03-06 12:55:58
+978,1692,Madagascar,Desktop,Firefox,1,Failed,Enabled,2026-04-09 18:17:34
+979,8209,Seychelles,Tablet,Edge,5,Failed,Disabled,2026-02-11 04:38:15
+980,6962,Bolivia,Tablet,Chrome,2,Failed,Enabled,2026-04-10 13:20:46
+981,3914,Mexico,Desktop,Edge,2,Failed,Disabled,2026-02-27 12:32:37
+982,3085,Greenland,Tablet,Firefox,1,Success,Enabled,2026-05-20 15:07:29
+983,7349,Benin,Mobile,Edge,4,Failed,Disabled,2026-05-17 13:46:47
+984,4236,Burundi,Laptop,Safari,3,Failed,Disabled,2026-05-22 21:26:53
+985,5712,Panama,Tablet,Edge,5,Success,Enabled,2026-04-25 03:35:06
+986,1944,British Indian Ocean Territory (Chagos Archipelago),Desktop,Firefox,4,Failed,Enabled,2026-04-27 04:59:40
+987,4675,Martinique,Mobile,Chrome,5,Success,Enabled,2026-01-01 02:45:07
+988,5868,Nauru,Desktop,Firefox,1,Failed,Disabled,2026-02-24 15:40:09
+989,3119,Australia,Laptop,Edge,4,Success,Disabled,2026-02-04 08:24:03
+990,4606,Costa Rica,Mobile,Edge,0,Failed,Disabled,2026-05-09 11:33:20
+991,6525,Somalia,Desktop,Firefox,0,Failed,Enabled,2026-05-24 18:52:14
+992,3709,Marshall Islands,Mobile,Chrome,1,Success,Enabled,2026-05-24 00:02:30
+993,4811,Norway,Desktop,Chrome,0,Failed,Enabled,2026-03-05 21:29:39
+994,4097,Brazil,Tablet,Edge,0,Success,Enabled,2026-01-24 09:32:29
+995,8743,Kuwait,Tablet,Firefox,1,Failed,Enabled,2026-01-10 03:41:11
+996,8885,Central African Republic,Laptop,Edge,2,Failed,Disabled,2026-01-27 13:07:36
+997,1630,New Caledonia,Mobile,Edge,2,Failed,Disabled,2026-01-25 23:12:46
+998,8322,Bosnia and Herzegovina,Mobile,Chrome,3,Success,Disabled,2026-04-07 15:40:06
+999,2714,Guam,Mobile,Safari,3,Success,Enabled,2026-01-29 18:17:08
+1000,2679,Serbia,Desktop,Chrome,2,Failed,Disabled,2026-03-16 18:41:35

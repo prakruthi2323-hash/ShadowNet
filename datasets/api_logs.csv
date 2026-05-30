@@ -1,0 +1,1001 @@
+api_event_id,user_id,api_endpoint,request_type,status_code,response_time_ms,threat_type,timestamp
+1,2153,categories/explore/wp-content,DELETE,403,4155,API Abuse,2026-05-27 00:18:34
+2,9121,wp-content/blog/main,POST,500,680,API Abuse,2026-04-24 07:48:16
+3,1472,wp-content/posts,DELETE,500,906,Normal,2026-04-27 00:26:14
+4,5743,blog/search/list,DELETE,403,523,Normal,2026-05-18 04:25:41
+5,9731,app,POST,400,3770,Rate Limit Attack,2026-01-28 01:35:01
+6,3105,explore/wp-content,POST,500,4538,Rate Limit Attack,2026-03-01 23:47:56
+7,2151,explore/search,GET,404,851,Rate Limit Attack,2026-02-02 10:26:31
+8,3540,category,PUT,403,778,Token Theft,2026-01-29 00:36:03
+9,9756,wp-content/posts/category,GET,201,4561,Rate Limit Attack,2026-01-09 03:16:51
+10,5109,category/explore/search,GET,404,2666,API Abuse,2026-03-18 11:33:35
+11,1048,categories/category,PUT,404,3782,API Abuse,2026-02-24 01:25:06
+12,8456,list,POST,201,3207,API Abuse,2026-02-23 03:14:40
+13,7825,wp-content/blog/category,DELETE,500,3370,Rate Limit Attack,2026-03-26 20:05:40
+14,9325,blog,POST,404,3213,API Abuse,2026-02-02 10:14:49
+15,6198,blog/explore,POST,400,3341,Rate Limit Attack,2026-04-05 18:35:39
+16,5947,tags/blog,DELETE,500,2015,Token Theft,2026-01-17 19:22:23
+17,6044,tag/explore/explore,DELETE,201,2459,Rate Limit Attack,2026-05-24 17:11:45
+18,6888,blog,PUT,400,1019,Normal,2026-01-28 09:19:34
+19,8002,category,POST,400,363,Normal,2026-05-11 22:20:12
+20,6568,categories/explore/explore,PUT,500,2191,Token Theft,2026-01-06 01:09:44
+21,5170,main/posts/tags,DELETE,200,3413,Normal,2026-04-12 08:18:42
+22,9577,search/tags,DELETE,400,4981,API Abuse,2026-01-21 04:51:22
+23,7266,list/category/tag,POST,401,1872,Normal,2026-05-03 05:21:40
+24,7097,search/main/tag,GET,403,4818,Rate Limit Attack,2026-01-27 06:05:46
+25,1985,search,POST,401,1387,Token Theft,2026-04-25 22:45:39
+26,9320,main,POST,200,2997,Token Theft,2026-03-02 22:57:51
+27,9169,posts,DELETE,500,1884,Token Theft,2026-02-20 18:54:23
+28,2727,app/categories/posts,PUT,201,4845,Token Theft,2026-01-13 13:13:08
+29,3696,search,DELETE,500,4917,Rate Limit Attack,2026-02-07 01:16:09
+30,7614,app/main,POST,403,2432,API Abuse,2026-04-16 11:21:55
+31,4796,blog,POST,200,4577,Token Theft,2026-03-06 09:13:02
+32,6017,tag/posts,GET,401,221,API Abuse,2026-04-07 18:47:11
+33,7249,explore,DELETE,500,684,Token Theft,2026-03-04 09:04:37
+34,3450,tag/posts/category,POST,401,4045,Token Theft,2026-01-24 11:10:02
+35,6048,search,POST,200,1476,API Abuse,2026-03-23 07:05:17
+36,6218,category,DELETE,404,591,Normal,2026-03-04 14:24:36
+37,1201,list,DELETE,403,2808,Rate Limit Attack,2026-02-08 22:46:14
+38,8552,tag,PUT,404,544,Normal,2026-02-19 08:35:26
+39,6879,search/main,PUT,401,1846,Rate Limit Attack,2026-04-10 14:35:54
+40,1748,wp-content/categories/search,DELETE,200,2231,Token Theft,2026-04-15 23:32:38
+41,8121,main/app,PUT,401,1056,Rate Limit Attack,2026-05-01 09:25:02
+42,1099,posts/tag,POST,404,1679,Rate Limit Attack,2026-03-06 05:36:57
+43,7695,blog,DELETE,201,2978,Rate Limit Attack,2026-05-28 11:35:26
+44,8748,main/explore/tags,PUT,500,4699,Rate Limit Attack,2026-02-01 03:16:22
+45,5222,category,PUT,403,3970,API Abuse,2026-04-05 18:46:24
+46,8036,posts/search,DELETE,401,2478,Token Theft,2026-05-28 14:12:12
+47,1129,wp-content,DELETE,500,3605,Rate Limit Attack,2026-05-23 13:27:41
+48,7016,main/posts/blog,GET,403,1959,API Abuse,2026-05-20 12:03:08
+49,5997,categories/category,DELETE,400,3116,Normal,2026-01-07 07:37:56
+50,2659,explore,GET,201,944,Normal,2026-01-02 01:22:04
+51,1837,tag/tags/tags,DELETE,200,929,Rate Limit Attack,2026-01-23 14:49:24
+52,6721,posts,DELETE,404,554,Normal,2026-02-22 01:58:21
+53,6869,tags,POST,401,3754,Token Theft,2026-01-04 22:03:07
+54,4434,blog/wp-content,PUT,404,4896,Normal,2026-01-19 04:56:43
+55,8308,tag,POST,201,3046,Token Theft,2026-01-29 15:31:17
+56,1189,list/blog/category,PUT,500,2321,Normal,2026-01-04 20:32:55
+57,8488,category/posts,PUT,201,4510,API Abuse,2026-04-27 08:26:05
+58,9221,tag/list,PUT,400,4325,Token Theft,2026-05-19 09:17:54
+59,1008,tags/wp-content,POST,403,850,API Abuse,2026-04-21 12:44:19
+60,4011,app/main/explore,POST,200,1973,Normal,2026-05-26 07:20:53
+61,6917,categories/search/category,PUT,200,3670,Token Theft,2026-01-06 11:11:09
+62,8675,category/tag,GET,200,3226,Token Theft,2026-04-04 10:50:31
+63,8061,posts/posts/explore,GET,200,3526,Normal,2026-05-04 01:47:06
+64,3791,app,POST,200,364,API Abuse,2026-03-23 21:29:09
+65,3179,search,DELETE,403,4755,Token Theft,2026-03-09 06:55:29
+66,8703,wp-content/category/app,PUT,500,2485,Token Theft,2026-05-19 11:02:39
+67,8201,tags/category,GET,400,4367,API Abuse,2026-05-24 21:00:31
+68,1104,app/category/categories,GET,404,65,Token Theft,2026-01-03 01:09:26
+69,3839,tag,PUT,201,638,Normal,2026-03-02 01:35:58
+70,6107,categories,GET,404,1806,Token Theft,2026-04-14 16:26:20
+71,2047,tag/tags,POST,400,923,API Abuse,2026-04-01 05:53:18
+72,9371,tags,GET,404,2776,Rate Limit Attack,2026-04-03 19:58:24
+73,7214,main,PUT,201,2121,Rate Limit Attack,2026-05-26 18:24:32
+74,1130,list/main/explore,DELETE,400,626,Token Theft,2026-04-17 05:12:05
+75,5651,categories,GET,401,4347,API Abuse,2026-03-25 02:13:45
+76,7620,app/posts,POST,201,2705,Normal,2026-04-08 19:01:51
+77,1026,wp-content/posts/category,DELETE,400,3008,Rate Limit Attack,2026-04-29 15:36:13
+78,4850,wp-content/search,PUT,403,4998,Rate Limit Attack,2026-01-12 19:09:04
+79,9646,explore/category/wp-content,POST,201,1049,Rate Limit Attack,2026-01-06 01:18:05
+80,9105,categories/explore,PUT,500,2212,Rate Limit Attack,2026-05-19 08:43:06
+81,4176,list/wp-content,GET,200,1145,Token Theft,2026-05-09 17:21:11
+82,5071,main/explore/search,DELETE,500,2496,Rate Limit Attack,2026-01-09 10:27:03
+83,5211,wp-content/posts,PUT,401,60,Rate Limit Attack,2026-04-13 15:45:16
+84,5566,posts/tag/tag,PUT,400,2708,Token Theft,2026-05-23 02:30:01
+85,2002,tags/explore/wp-content,GET,403,2729,API Abuse,2026-03-24 07:12:36
+86,2311,main/wp-content,POST,200,1655,Rate Limit Attack,2026-03-20 00:28:02
+87,3705,app/wp-content,DELETE,201,4397,Normal,2026-01-11 05:36:15
+88,7217,wp-content/tags,DELETE,500,4933,Normal,2026-01-27 19:26:38
+89,5572,explore/main,PUT,403,39,Token Theft,2026-01-08 22:10:29
+90,1133,list/main/tag,PUT,200,232,Rate Limit Attack,2026-01-20 03:19:12
+91,9717,tag/posts/list,POST,401,3659,Token Theft,2026-01-18 23:22:04
+92,7831,wp-content,PUT,500,4079,Rate Limit Attack,2026-01-09 11:21:53
+93,9872,tags,POST,400,1867,API Abuse,2026-05-10 22:55:06
+94,5990,posts,POST,403,4874,Rate Limit Attack,2026-01-24 08:36:54
+95,8206,category,POST,403,500,Token Theft,2026-03-12 02:30:49
+96,2741,blog/posts,PUT,403,4603,API Abuse,2026-05-07 03:13:14
+97,5414,categories/category/app,DELETE,400,4244,Rate Limit Attack,2026-04-06 14:22:33
+98,7169,app/search,DELETE,201,1788,Token Theft,2026-04-06 09:00:30
+99,2532,posts/tags,PUT,201,3643,Rate Limit Attack,2026-05-02 07:24:56
+100,1723,category,DELETE,403,2933,Normal,2026-04-14 05:47:07
+101,2048,wp-content/tag,GET,200,4515,Token Theft,2026-05-05 21:04:57
+102,3423,tags/explore/list,DELETE,403,2737,Normal,2026-05-02 09:22:09
+103,3466,tag/posts,GET,500,3465,Token Theft,2026-05-02 20:32:06
+104,3438,category/wp-content/app,PUT,401,1526,Normal,2026-01-25 13:11:46
+105,7187,categories/posts,POST,400,3965,Normal,2026-04-06 09:08:26
+106,6577,blog,DELETE,404,1219,Token Theft,2026-05-06 10:43:22
+107,1550,explore/app/blog,POST,201,75,Rate Limit Attack,2026-04-07 23:35:14
+108,5253,tag/tag/main,DELETE,404,4782,API Abuse,2026-03-03 04:15:01
+109,2893,wp-content/tag,DELETE,401,3229,API Abuse,2026-05-13 06:31:34
+110,3058,explore/tag/posts,PUT,201,2086,Token Theft,2026-02-05 16:31:18
+111,1983,wp-content,GET,500,637,Rate Limit Attack,2026-03-07 03:30:26
+112,6490,tags,PUT,201,3442,Normal,2026-02-02 07:27:01
+113,7100,main/categories/category,GET,403,4226,Normal,2026-02-05 00:50:16
+114,3441,blog/wp-content/categories,PUT,403,3059,Normal,2026-02-01 20:46:37
+115,8484,tags/posts,GET,400,241,Rate Limit Attack,2026-03-31 16:28:16
+116,4662,posts/search/explore,DELETE,403,4583,API Abuse,2026-04-15 20:22:22
+117,7951,tags/search,DELETE,200,778,Token Theft,2026-05-01 15:22:58
+118,9132,category,POST,400,721,Normal,2026-01-17 00:51:38
+119,6470,wp-content/tags,GET,200,1579,Token Theft,2026-03-30 03:22:37
+120,9103,search,DELETE,404,817,API Abuse,2026-01-17 13:56:46
+121,6288,posts,POST,403,4616,Token Theft,2026-04-06 09:27:21
+122,3413,tags/categories/app,DELETE,401,3942,Token Theft,2026-04-08 12:39:06
+123,8720,posts,DELETE,401,4818,Token Theft,2026-02-22 19:49:43
+124,6086,search/tag/app,DELETE,403,3580,Token Theft,2026-04-26 10:26:31
+125,7765,app/categories/categories,GET,500,4849,API Abuse,2026-01-21 04:26:12
+126,4413,search,GET,500,4817,Normal,2026-01-17 17:16:44
+127,8456,main,PUT,500,2014,API Abuse,2026-02-20 03:27:16
+128,8122,categories/blog,DELETE,201,605,Token Theft,2026-03-22 07:42:47
+129,1758,posts/blog,POST,404,962,API Abuse,2026-02-10 22:51:01
+130,9506,app/tags/blog,DELETE,500,202,Token Theft,2026-05-26 09:58:03
+131,5404,wp-content/wp-content/search,PUT,400,2403,Normal,2026-03-01 01:21:49
+132,9615,posts,DELETE,400,4548,API Abuse,2026-03-08 13:54:57
+133,3197,tags/blog,GET,400,552,Rate Limit Attack,2026-01-31 22:03:39
+134,4877,explore/app/main,PUT,401,1306,Token Theft,2026-03-21 13:16:47
+135,3943,posts/blog,POST,403,4400,Normal,2026-02-17 22:56:50
+136,9809,search,DELETE,201,4114,Token Theft,2026-02-21 03:07:40
+137,3265,tags/app,POST,200,24,Rate Limit Attack,2026-04-18 14:01:20
+138,4340,blog,DELETE,400,2003,API Abuse,2026-01-12 21:10:57
+139,3808,main/main,DELETE,403,4840,Token Theft,2026-01-13 06:24:26
+140,5549,tags/app,GET,200,1048,API Abuse,2026-05-05 17:05:44
+141,1196,app,DELETE,403,4994,Rate Limit Attack,2026-01-28 00:21:43
+142,7802,category/wp-content/tags,POST,401,1351,Normal,2026-02-09 02:15:16
+143,6007,search,POST,500,3181,Rate Limit Attack,2026-05-25 04:28:15
+144,7003,tag/main,GET,201,76,Rate Limit Attack,2026-05-13 15:55:40
+145,3931,tag,POST,201,1112,API Abuse,2026-03-04 05:24:18
+146,9675,tags,DELETE,200,3527,Token Theft,2026-03-04 09:55:24
+147,6941,wp-content,GET,400,114,Rate Limit Attack,2026-05-05 10:04:26
+148,7473,wp-content,GET,400,726,Normal,2026-05-14 01:22:22
+149,3787,search,PUT,200,3276,Normal,2026-03-07 19:28:55
+150,7835,explore,DELETE,404,2855,Token Theft,2026-03-12 15:43:47
+151,1684,search/main/wp-content,DELETE,200,357,API Abuse,2026-01-22 14:47:23
+152,9581,posts/explore/posts,PUT,401,4351,Normal,2026-03-04 04:47:19
+153,6327,app,POST,403,289,Token Theft,2026-05-26 16:32:25
+154,8955,tag,GET,403,1404,Token Theft,2026-05-21 22:38:37
+155,2066,tag/tag,GET,201,2247,Token Theft,2026-02-01 16:13:58
+156,7894,category,POST,201,1001,Token Theft,2026-02-03 18:51:33
+157,1587,wp-content,GET,401,1604,Token Theft,2026-04-13 07:56:11
+158,5445,tags/categories/tag,POST,404,3986,Normal,2026-04-27 23:21:28
+159,8955,categories,POST,403,4791,Token Theft,2026-03-29 20:39:56
+160,9677,tags/explore/posts,PUT,404,2353,API Abuse,2026-01-27 04:06:30
+161,4285,blog/tag/search,GET,400,414,Rate Limit Attack,2026-03-12 15:54:29
+162,1677,posts,PUT,201,2451,API Abuse,2026-01-18 03:08:47
+163,6018,categories/tags/tag,GET,400,585,Rate Limit Attack,2026-04-15 20:56:31
+164,5267,main/blog,POST,201,972,Token Theft,2026-01-03 08:46:52
+165,4818,explore/posts/blog,DELETE,403,328,Token Theft,2026-04-06 21:51:23
+166,4521,tag/posts,POST,404,3102,Token Theft,2026-01-10 15:29:29
+167,5548,explore/search,DELETE,403,2855,Rate Limit Attack,2026-03-19 15:37:54
+168,1283,search,PUT,404,2903,Token Theft,2026-01-21 08:11:49
+169,6574,blog,DELETE,201,2259,Rate Limit Attack,2026-03-20 09:01:17
+170,9022,categories/main,POST,403,2323,Rate Limit Attack,2026-01-20 11:51:10
+171,9238,posts/tag,POST,500,1082,Normal,2026-03-06 19:17:41
+172,5657,tags,POST,403,1426,API Abuse,2026-04-23 10:04:04
+173,1128,categories/list,GET,201,1901,Normal,2026-04-06 15:29:10
+174,7640,category/explore,GET,401,2539,Token Theft,2026-04-06 07:59:06
+175,3667,tag/explore/category,DELETE,404,3082,API Abuse,2026-01-23 08:30:06
+176,9534,tag,GET,500,1328,Token Theft,2026-05-21 05:07:20
+177,4345,posts/tag,GET,404,3520,Normal,2026-03-21 15:08:08
+178,4432,tag/search,POST,404,4402,API Abuse,2026-01-30 23:23:18
+179,2119,explore/category,PUT,403,4598,Normal,2026-01-23 14:47:55
+180,3149,categories/main/explore,DELETE,404,313,Rate Limit Attack,2026-01-18 16:07:05
+181,7414,explore/wp-content/category,PUT,500,3854,Normal,2026-04-05 01:56:47
+182,3717,explore/category,POST,404,3807,Rate Limit Attack,2026-01-31 03:34:16
+183,7870,list/blog/app,PUT,200,1492,API Abuse,2026-01-10 17:06:13
+184,8102,app/main,POST,401,4052,Token Theft,2026-01-06 18:16:19
+185,5622,app/tag,POST,401,1139,Rate Limit Attack,2026-04-15 08:52:00
+186,8322,search/app,GET,404,4208,Token Theft,2026-01-09 05:40:11
+187,6386,blog/tags/tags,POST,500,4335,API Abuse,2026-02-13 11:18:06
+188,5303,categories/posts/explore,DELETE,401,2525,Token Theft,2026-02-06 20:44:49
+189,6443,list/blog,DELETE,500,2069,Token Theft,2026-05-06 04:40:00
+190,2739,blog,POST,400,1166,Normal,2026-04-19 10:23:03
+191,8852,main/category,DELETE,200,2147,Token Theft,2026-05-19 11:15:35
+192,1878,app/categories/wp-content,DELETE,201,1462,Token Theft,2026-02-09 01:35:23
+193,2330,main,DELETE,201,4834,Token Theft,2026-04-03 20:55:02
+194,6915,tags/main/posts,DELETE,404,376,Token Theft,2026-02-22 06:35:30
+195,2420,category/tag,PUT,500,1907,Token Theft,2026-04-05 02:18:31
+196,3549,list/tag,GET,403,3275,Token Theft,2026-01-08 13:48:10
+197,9314,posts,POST,403,4421,Token Theft,2026-03-22 16:33:44
+198,3676,wp-content,PUT,400,4248,Token Theft,2026-05-03 18:09:51
+199,3641,wp-content/category/list,POST,404,4109,Rate Limit Attack,2026-01-06 05:32:47
+200,3100,search,GET,401,4772,Token Theft,2026-02-19 06:03:36
+201,3383,explore/blog,GET,404,708,API Abuse,2026-03-03 18:08:32
+202,4103,category/tag,POST,401,1716,Token Theft,2026-03-12 08:07:37
+203,9036,wp-content/app/main,PUT,200,1812,Rate Limit Attack,2026-03-29 10:29:19
+204,3017,tag,PUT,201,1393,API Abuse,2026-04-26 12:16:49
+205,2624,main,GET,404,1505,Token Theft,2026-03-04 05:43:28
+206,8031,posts,POST,200,3920,Token Theft,2026-01-31 17:34:56
+207,7068,search/blog/main,GET,400,1001,API Abuse,2026-02-13 12:47:00
+208,6330,posts/main/blog,DELETE,500,4726,API Abuse,2026-01-01 00:17:21
+209,7344,categories/list/wp-content,PUT,403,606,Rate Limit Attack,2026-01-31 07:36:09
+210,5626,tags,DELETE,404,1249,API Abuse,2026-04-02 10:43:44
+211,1024,search/posts,DELETE,400,4498,Normal,2026-03-01 15:09:22
+212,5570,category/list/main,DELETE,400,4907,Rate Limit Attack,2026-02-20 13:56:58
+213,8730,app/search/tags,DELETE,201,750,Token Theft,2026-01-30 19:30:51
+214,4647,posts/search/list,GET,200,3505,Token Theft,2026-01-17 23:15:31
+215,7820,search/list/blog,DELETE,403,2507,Token Theft,2026-02-15 10:03:44
+216,7995,main,DELETE,401,4541,Token Theft,2026-02-25 23:52:12
+217,7753,categories,POST,403,4717,API Abuse,2026-05-14 17:48:42
+218,6239,category/list,POST,404,4645,API Abuse,2026-04-30 13:40:42
+219,9101,list,DELETE,404,2837,Rate Limit Attack,2026-04-05 22:33:48
+220,6802,blog/tag/categories,POST,400,4314,Rate Limit Attack,2026-03-31 06:44:02
+221,6432,explore,PUT,401,1591,Token Theft,2026-04-03 10:31:47
+222,1838,tag/main,POST,404,1102,Rate Limit Attack,2026-03-14 23:24:36
+223,4882,main,PUT,201,552,Token Theft,2026-03-10 09:22:28
+224,9160,wp-content/tag,GET,200,181,API Abuse,2026-03-06 16:30:29
+225,9296,blog,GET,200,469,Rate Limit Attack,2026-05-25 17:54:25
+226,4233,blog,PUT,404,1415,Normal,2026-02-04 14:35:37
+227,5492,main/posts/posts,DELETE,201,2092,Normal,2026-02-08 01:30:19
+228,2504,wp-content,POST,200,1066,Normal,2026-03-06 15:45:19
+229,8412,categories/explore/explore,GET,401,3626,Normal,2026-03-17 09:12:57
+230,2838,main/categories,PUT,500,4183,Token Theft,2026-05-17 07:05:21
+231,3506,tags/blog/explore,POST,200,1405,Normal,2026-01-27 02:25:18
+232,4678,category/wp-content,DELETE,200,190,Rate Limit Attack,2026-01-02 13:51:41
+233,9998,main/tag,DELETE,500,4383,Normal,2026-02-20 01:56:20
+234,4236,search/posts/categories,DELETE,201,952,Token Theft,2026-04-01 02:41:46
+235,4428,tags/category,DELETE,403,989,Normal,2026-02-13 13:35:14
+236,8463,search,DELETE,404,874,Normal,2026-05-26 01:20:42
+237,1077,search/main/app,GET,401,1990,Rate Limit Attack,2026-01-22 07:21:48
+238,3064,search/app/tag,DELETE,404,2776,API Abuse,2026-01-03 13:26:19
+239,7838,tags/posts,PUT,200,2693,Normal,2026-05-27 20:46:48
+240,9691,posts/posts,DELETE,403,2404,Rate Limit Attack,2026-03-20 13:15:50
+241,3166,main,POST,400,4323,Token Theft,2026-01-18 01:31:27
+242,5779,categories/blog/list,PUT,404,4544,Token Theft,2026-05-07 10:41:16
+243,1816,app/app/explore,PUT,200,2482,Rate Limit Attack,2026-02-08 07:51:17
+244,2368,tags/wp-content/search,PUT,200,2866,Normal,2026-04-04 06:05:50
+245,5377,tags/tag,DELETE,401,3435,Normal,2026-03-31 18:08:52
+246,2111,wp-content,DELETE,201,36,Token Theft,2026-03-25 02:30:01
+247,6214,posts/main,PUT,401,4793,Normal,2026-01-02 12:20:23
+248,9336,tags,POST,401,829,API Abuse,2026-03-18 12:45:54
+249,7630,main,GET,200,1384,Token Theft,2026-02-07 10:41:46
+250,1207,wp-content/wp-content/category,POST,201,2640,Token Theft,2026-02-20 11:43:21
+251,9398,tag,GET,400,3665,Rate Limit Attack,2026-04-26 08:54:21
+252,9002,categories/app/categories,DELETE,500,4520,API Abuse,2026-03-09 08:39:33
+253,2866,explore/list/tags,POST,500,579,Rate Limit Attack,2026-02-14 01:29:56
+254,2753,posts/tag/tags,POST,400,4400,Rate Limit Attack,2026-03-05 04:02:38
+255,9146,wp-content/category/main,POST,400,2725,Rate Limit Attack,2026-02-25 12:48:56
+256,1901,list,DELETE,200,1779,Rate Limit Attack,2026-05-27 02:26:21
+257,9579,tags,GET,500,2116,Rate Limit Attack,2026-05-05 21:27:33
+258,5299,wp-content/search,POST,500,4488,Rate Limit Attack,2026-03-06 01:15:56
+259,3081,tag,GET,404,4756,API Abuse,2026-02-20 16:08:14
+260,6047,tags/tag/search,GET,403,1534,Rate Limit Attack,2026-02-26 22:12:25
+261,6693,list,PUT,500,2355,API Abuse,2026-05-15 10:01:29
+262,7635,explore/blog/explore,PUT,200,3826,Token Theft,2026-05-18 02:05:14
+263,1538,category,POST,403,1917,Token Theft,2026-01-21 14:03:04
+264,8005,category/app,GET,404,3399,Token Theft,2026-05-15 07:51:59
+265,6031,search,POST,404,751,API Abuse,2026-04-22 02:21:17
+266,9496,wp-content,PUT,403,4244,Rate Limit Attack,2026-03-15 15:12:39
+267,8686,main/posts,POST,500,3391,Token Theft,2026-04-21 11:48:25
+268,8310,tags,PUT,200,2413,Normal,2026-01-11 12:47:03
+269,6295,wp-content/tag/categories,PUT,401,4569,API Abuse,2026-02-25 07:40:31
+270,4766,categories/app/main,GET,200,1002,Token Theft,2026-04-12 09:24:34
+271,6860,tag/search/posts,DELETE,404,2694,Normal,2026-05-05 18:23:37
+272,2109,category/blog,DELETE,400,4991,Normal,2026-04-11 16:03:09
+273,5144,list,DELETE,404,3702,Token Theft,2026-05-26 20:20:43
+274,1913,explore/explore,POST,400,4093,Token Theft,2026-03-24 22:23:00
+275,2842,tag/blog/category,DELETE,400,1413,Normal,2026-05-23 15:29:20
+276,9523,list/wp-content,PUT,404,3920,API Abuse,2026-02-22 11:26:28
+277,2808,wp-content/search/app,POST,401,3260,Token Theft,2026-01-28 10:42:02
+278,8595,tags/explore/blog,POST,500,3624,Token Theft,2026-04-28 18:06:40
+279,7253,main/app,DELETE,200,134,Token Theft,2026-04-17 06:24:29
+280,7736,tag,DELETE,401,3174,Token Theft,2026-05-05 12:30:07
+281,3304,search/search/category,PUT,401,509,Normal,2026-01-04 20:00:39
+282,5127,tag/explore/posts,PUT,500,76,Rate Limit Attack,2026-04-09 11:15:40
+283,5553,main/search/category,DELETE,404,4397,Normal,2026-03-09 02:28:20
+284,3162,search/explore/blog,GET,200,2584,Rate Limit Attack,2026-02-24 11:44:25
+285,4189,tag/list/blog,GET,401,2380,API Abuse,2026-05-08 21:42:33
+286,7347,wp-content/wp-content,POST,401,2816,Normal,2026-02-19 19:28:29
+287,3023,app,PUT,404,1159,Normal,2026-03-02 12:11:51
+288,1821,categories,DELETE,403,1632,Normal,2026-04-02 02:06:57
+289,8604,search,PUT,401,256,Rate Limit Attack,2026-04-26 08:32:36
+290,2690,list,POST,404,4461,Token Theft,2026-01-04 06:23:33
+291,6232,blog,POST,404,3411,API Abuse,2026-02-05 04:48:18
+292,8095,list/tags,GET,201,1990,API Abuse,2026-04-30 19:49:47
+293,1121,search,POST,400,1187,Token Theft,2026-03-02 18:09:47
+294,8851,wp-content/app,POST,404,1513,API Abuse,2026-03-02 17:10:01
+295,4330,main/categories/search,DELETE,403,3156,API Abuse,2026-01-25 01:37:01
+296,4149,wp-content/explore/category,PUT,404,2755,Rate Limit Attack,2026-01-14 13:28:56
+297,9568,blog,DELETE,201,2713,Rate Limit Attack,2026-02-12 01:23:38
+298,1543,search,POST,201,2254,Normal,2026-03-11 10:52:39
+299,1528,posts,DELETE,200,3575,Rate Limit Attack,2026-05-26 09:07:08
+300,2717,app,POST,403,3298,Normal,2026-05-26 14:58:12
+301,9043,wp-content/search/blog,POST,404,4814,Token Theft,2026-02-03 12:02:27
+302,3825,search/blog/tags,PUT,201,348,Normal,2026-01-31 11:21:25
+303,8947,list/search/app,PUT,404,127,Normal,2026-05-19 12:29:07
+304,1650,search/list/blog,GET,500,3059,Normal,2026-04-07 22:27:57
+305,5942,search/main,GET,401,1674,Token Theft,2026-01-23 19:55:10
+306,5363,search/app,PUT,201,3893,Rate Limit Attack,2026-03-01 22:38:54
+307,4875,list/tags,GET,201,660,Token Theft,2026-03-20 20:54:39
+308,9844,search,DELETE,403,530,API Abuse,2026-03-05 03:54:14
+309,1213,blog/categories/categories,DELETE,404,2287,Normal,2026-02-10 07:21:12
+310,4641,tag/search,GET,500,3905,API Abuse,2026-01-27 18:10:34
+311,9317,list/category,GET,403,98,Rate Limit Attack,2026-04-01 19:08:30
+312,6877,wp-content/search/categories,GET,403,4278,Token Theft,2026-01-27 19:15:52
+313,6409,list/search/app,POST,403,4644,Normal,2026-03-21 18:45:06
+314,1550,tags,DELETE,403,3295,Rate Limit Attack,2026-01-20 03:11:24
+315,9156,categories,PUT,400,1910,Rate Limit Attack,2026-05-16 01:38:43
+316,4426,categories/blog/tag,PUT,400,4196,Rate Limit Attack,2026-02-08 06:55:26
+317,1991,blog,DELETE,404,2819,Normal,2026-03-23 02:51:16
+318,8081,main/category/categories,POST,404,1857,Token Theft,2026-01-27 23:10:41
+319,4244,explore/main,GET,401,89,Normal,2026-03-21 11:22:07
+320,4580,blog/posts,PUT,500,1313,Token Theft,2026-05-01 22:08:27
+321,9973,wp-content/main,DELETE,500,4359,Normal,2026-01-11 22:48:04
+322,2027,explore,PUT,500,1614,Token Theft,2026-02-01 03:14:18
+323,8720,category,PUT,500,2073,API Abuse,2026-04-06 01:18:38
+324,5199,tags/categories,POST,401,3390,Normal,2026-03-23 17:14:27
+325,1492,wp-content/tag,DELETE,201,2284,Normal,2026-03-28 10:12:16
+326,6393,tags,DELETE,404,1194,Normal,2026-04-17 23:16:43
+327,7033,tags/blog/categories,PUT,201,950,API Abuse,2026-05-09 09:07:09
+328,2693,categories/tag,GET,401,3284,Token Theft,2026-03-14 13:53:36
+329,5723,search/tag/categories,GET,404,1890,Token Theft,2026-04-21 18:50:46
+330,5016,category/category,PUT,200,764,Token Theft,2026-04-29 06:54:17
+331,4992,category,DELETE,403,262,Token Theft,2026-03-13 15:36:34
+332,1215,tag,DELETE,500,958,API Abuse,2026-03-19 09:22:35
+333,7302,explore,POST,400,861,Rate Limit Attack,2026-03-12 02:33:05
+334,1525,categories/explore,DELETE,401,2662,Token Theft,2026-02-25 09:09:25
+335,7587,posts/blog,PUT,403,3887,Rate Limit Attack,2026-03-01 18:40:08
+336,3008,app/categories/app,POST,403,4255,API Abuse,2026-02-26 17:10:01
+337,9134,tag,GET,401,4071,Token Theft,2026-01-11 14:34:07
+338,5648,main/tags/posts,GET,201,2951,API Abuse,2026-01-19 08:26:23
+339,9568,explore/list,GET,500,2031,API Abuse,2026-04-07 04:14:33
+340,3458,main,POST,200,929,Rate Limit Attack,2026-04-26 18:09:31
+341,2586,tag/explore,PUT,403,86,Normal,2026-01-04 21:14:47
+342,9294,main/categories/tag,DELETE,200,1306,API Abuse,2026-05-06 07:51:15
+343,3175,list/wp-content/posts,GET,500,2432,Normal,2026-04-28 20:52:48
+344,9013,tags/tags/list,GET,200,3054,Rate Limit Attack,2026-01-03 00:46:29
+345,1394,explore,POST,201,2249,API Abuse,2026-05-06 11:49:20
+346,2205,wp-content/category/tag,PUT,500,3274,API Abuse,2026-01-05 15:31:01
+347,2321,search,POST,401,291,Token Theft,2026-04-02 08:05:11
+348,8698,main/tag,POST,500,4424,Normal,2026-04-05 03:26:04
+349,2149,list/list/search,DELETE,201,3673,Token Theft,2026-02-09 17:23:10
+350,9358,explore/wp-content,POST,404,3562,API Abuse,2026-05-04 00:18:37
+351,6827,list,DELETE,200,3852,Token Theft,2026-02-06 01:11:36
+352,4620,search,DELETE,201,3381,API Abuse,2026-03-11 03:01:35
+353,5168,explore/main,POST,500,1959,API Abuse,2026-03-29 09:26:55
+354,2740,categories/wp-content/main,POST,400,700,Token Theft,2026-01-10 04:00:38
+355,2177,category/search,PUT,400,3437,Token Theft,2026-04-28 19:36:42
+356,6521,app/tag/blog,PUT,400,4006,API Abuse,2026-05-04 11:43:49
+357,8187,search,POST,401,1675,Rate Limit Attack,2026-04-09 17:14:59
+358,3076,posts/app/list,DELETE,400,4363,Normal,2026-02-14 08:08:37
+359,4036,main,GET,500,2816,API Abuse,2026-02-09 07:07:58
+360,3010,wp-content,POST,201,1959,Normal,2026-04-02 07:32:46
+361,8663,tags/posts,PUT,401,860,Token Theft,2026-02-25 05:49:37
+362,8244,wp-content/tags,POST,500,1603,Rate Limit Attack,2026-05-27 16:04:20
+363,1472,blog,DELETE,500,4841,API Abuse,2026-03-08 00:51:56
+364,3722,list/search/category,DELETE,400,2050,Normal,2026-03-13 21:06:57
+365,8863,blog/list,GET,500,2037,Rate Limit Attack,2026-01-16 05:12:42
+366,3617,wp-content/wp-content,GET,400,2372,Rate Limit Attack,2026-01-24 05:40:45
+367,9884,categories,POST,401,1902,Normal,2026-04-14 20:01:13
+368,2680,posts/main,GET,403,4829,API Abuse,2026-02-16 01:49:12
+369,9864,list/main/wp-content,PUT,201,1257,Normal,2026-05-12 03:29:42
+370,4478,app,POST,403,803,API Abuse,2026-02-25 00:37:00
+371,4406,category/tag/list,GET,404,1222,API Abuse,2026-03-11 09:36:51
+372,5239,blog,GET,403,74,API Abuse,2026-04-13 06:16:23
+373,6879,categories,DELETE,200,2077,API Abuse,2026-02-24 05:17:08
+374,3149,wp-content/app/blog,DELETE,500,853,Normal,2026-04-12 14:41:36
+375,1668,category/category,DELETE,404,1603,Token Theft,2026-01-23 18:56:26
+376,9128,categories/tags/posts,GET,404,4873,Normal,2026-05-05 16:13:00
+377,7276,list/main,PUT,400,1909,Normal,2026-02-21 07:51:08
+378,5432,explore/category/app,GET,200,2033,Rate Limit Attack,2026-04-12 10:52:20
+379,3839,tags/app/search,POST,403,2175,API Abuse,2026-03-24 01:02:54
+380,4385,app/posts,PUT,404,931,Rate Limit Attack,2026-05-15 03:54:24
+381,4243,blog,GET,201,2427,Rate Limit Attack,2026-01-03 13:18:17
+382,1260,tags/explore/explore,PUT,500,2569,Rate Limit Attack,2026-03-23 10:06:44
+383,3534,category,PUT,500,2732,API Abuse,2026-05-09 23:15:54
+384,1761,tags/list,GET,404,3857,Rate Limit Attack,2026-01-22 21:10:27
+385,7114,posts,POST,201,1392,Token Theft,2026-05-02 23:24:43
+386,3302,list,PUT,201,3953,Normal,2026-04-20 11:49:12
+387,1522,blog,DELETE,400,3804,Normal,2026-04-09 02:02:45
+388,3968,wp-content/categories,DELETE,200,696,Token Theft,2026-01-17 23:55:23
+389,8099,posts,PUT,403,3442,API Abuse,2026-02-26 19:40:31
+390,7075,wp-content,DELETE,403,3191,Rate Limit Attack,2026-05-22 13:41:22
+391,1692,explore/app,PUT,404,1341,Rate Limit Attack,2026-05-17 12:01:16
+392,9077,tags/category,GET,500,916,API Abuse,2026-02-12 08:14:14
+393,4096,categories/wp-content/categories,DELETE,403,3911,Normal,2026-02-27 10:00:05
+394,8670,posts,PUT,500,4230,Rate Limit Attack,2026-02-05 05:42:32
+395,2235,list,GET,400,4842,Token Theft,2026-04-04 03:45:08
+396,4039,posts,POST,400,1389,Token Theft,2026-02-05 14:21:54
+397,8502,search,PUT,404,2802,Token Theft,2026-02-01 01:40:33
+398,2637,blog/list/category,GET,500,4908,Token Theft,2026-03-13 06:17:00
+399,3622,blog/tags/posts,POST,403,3150,Token Theft,2026-03-26 09:00:40
+400,3605,posts,DELETE,500,209,Normal,2026-04-08 13:34:53
+401,5361,list/app/explore,PUT,200,3967,Normal,2026-03-05 15:16:46
+402,7016,tag/tags/posts,DELETE,403,4776,Token Theft,2026-03-07 03:21:55
+403,4841,categories,PUT,403,1750,Token Theft,2026-03-19 20:04:05
+404,2151,explore,GET,401,3532,Token Theft,2026-02-17 01:45:40
+405,1137,wp-content/main,POST,403,3272,Normal,2026-02-03 17:45:45
+406,1162,explore/categories,PUT,404,4390,API Abuse,2026-02-13 12:15:52
+407,7103,blog/blog,DELETE,400,1420,Rate Limit Attack,2026-03-14 12:12:23
+408,1740,list,POST,200,1235,Rate Limit Attack,2026-03-01 06:12:46
+409,7685,search/app,POST,401,3917,Token Theft,2026-04-07 22:07:55
+410,3558,category/app/main,GET,401,824,Normal,2026-01-20 18:49:11
+411,7905,blog/blog,DELETE,404,1226,Token Theft,2026-04-21 09:49:27
+412,8216,app,DELETE,401,4981,Rate Limit Attack,2026-02-16 23:15:33
+413,6655,blog,GET,404,3302,API Abuse,2026-04-29 16:46:27
+414,1946,main/list/tags,DELETE,200,2898,Token Theft,2026-03-25 20:49:36
+415,3035,app/category/blog,GET,403,4046,API Abuse,2026-02-19 10:10:46
+416,4733,main/tags,GET,200,2375,Normal,2026-05-10 06:10:37
+417,9790,blog,PUT,401,297,Rate Limit Attack,2026-04-25 19:25:55
+418,1481,app,GET,404,1706,Rate Limit Attack,2026-05-13 22:59:47
+419,1130,blog/app,PUT,404,3556,Rate Limit Attack,2026-05-12 14:22:28
+420,5675,list/app,PUT,201,697,Normal,2026-02-11 05:29:26
+421,6437,search/wp-content/search,DELETE,200,4440,Normal,2026-01-25 05:57:15
+422,8821,main,DELETE,404,1746,Rate Limit Attack,2026-04-22 02:09:33
+423,3731,explore/main/category,PUT,400,3343,Normal,2026-02-07 17:45:24
+424,9827,wp-content,DELETE,401,2167,API Abuse,2026-03-07 14:43:02
+425,9480,categories/tag,DELETE,400,3914,Token Theft,2026-04-28 09:09:45
+426,6940,search/tags/tag,PUT,400,1749,API Abuse,2026-03-03 22:54:35
+427,2880,category/category/app,GET,500,2453,Token Theft,2026-03-01 01:26:52
+428,1744,tag/app/categories,POST,404,2383,Normal,2026-02-16 22:20:36
+429,6618,tag,POST,200,3843,Rate Limit Attack,2026-04-11 10:22:17
+430,2122,categories/posts,PUT,200,2180,Normal,2026-02-03 08:52:37
+431,3608,app/search,POST,500,1374,API Abuse,2026-04-19 06:35:31
+432,6781,main,PUT,400,3074,Rate Limit Attack,2026-01-22 00:52:46
+433,3368,search/posts,DELETE,403,1763,Normal,2026-02-14 04:02:27
+434,2199,app/posts,GET,400,3376,Rate Limit Attack,2026-02-23 17:00:37
+435,8880,main/app/explore,GET,401,1840,Rate Limit Attack,2026-04-10 03:10:41
+436,6836,tags/category,PUT,401,3105,Token Theft,2026-05-19 20:25:01
+437,4306,search/app,GET,401,1211,Rate Limit Attack,2026-05-12 11:52:07
+438,5137,wp-content/categories,POST,200,416,Token Theft,2026-03-27 17:48:36
+439,1097,search/search,DELETE,401,3445,Normal,2026-02-12 13:57:50
+440,8547,list,POST,401,2340,Rate Limit Attack,2026-03-17 02:18:03
+441,1906,tag,GET,404,3042,Token Theft,2026-02-19 09:45:34
+442,8888,main,GET,200,510,Normal,2026-01-23 11:42:20
+443,8285,search/search/category,PUT,401,4705,Normal,2026-01-15 00:40:26
+444,5077,list/main,GET,404,1756,Token Theft,2026-04-23 23:28:53
+445,2874,list/main/app,GET,403,3357,Rate Limit Attack,2026-03-04 22:36:31
+446,9924,search/categories/categories,GET,500,1529,API Abuse,2026-02-10 15:30:18
+447,8523,main,DELETE,403,444,Normal,2026-03-17 18:49:03
+448,7465,blog,GET,201,1361,Token Theft,2026-04-25 10:16:31
+449,8268,search,DELETE,401,944,Rate Limit Attack,2026-02-14 02:11:38
+450,1270,explore/posts/explore,PUT,404,1703,Token Theft,2026-03-19 09:26:40
+451,9359,search,PUT,201,847,Token Theft,2026-04-24 22:35:33
+452,4576,wp-content/tag,DELETE,404,1224,API Abuse,2026-04-22 15:42:21
+453,9770,app/main/main,POST,201,4986,API Abuse,2026-02-15 21:24:08
+454,9555,posts/app/explore,GET,403,1422,Rate Limit Attack,2026-05-26 21:52:24
+455,2026,list/category,POST,403,661,API Abuse,2026-04-18 23:06:23
+456,7042,posts/category/app,DELETE,401,1846,Normal,2026-03-01 04:57:30
+457,5697,list,GET,200,989,API Abuse,2026-05-07 10:18:00
+458,2871,search,PUT,201,4624,Token Theft,2026-03-10 10:54:18
+459,4054,blog,POST,404,1408,Token Theft,2026-04-30 05:42:20
+460,1589,tags/tags,POST,400,1923,API Abuse,2026-03-28 16:45:11
+461,3988,category/tags/search,DELETE,201,3727,API Abuse,2026-03-20 12:02:05
+462,3198,categories/explore/category,PUT,400,3008,Rate Limit Attack,2026-01-11 02:47:06
+463,8308,list,DELETE,404,4786,API Abuse,2026-05-15 23:26:04
+464,6498,tag,PUT,200,3255,Token Theft,2026-04-16 03:41:15
+465,3305,category/categories/blog,DELETE,500,2008,Rate Limit Attack,2026-02-16 23:49:05
+466,4487,list,GET,403,2156,Token Theft,2026-01-15 03:51:30
+467,4162,tag/tag/app,DELETE,200,1806,API Abuse,2026-05-18 01:24:30
+468,1122,wp-content,DELETE,404,730,Normal,2026-03-31 15:58:25
+469,1408,app,DELETE,500,1415,Normal,2026-04-22 00:27:26
+470,5295,explore,POST,403,283,Normal,2026-03-18 08:45:21
+471,6685,tags/explore/main,POST,200,2565,Rate Limit Attack,2026-03-02 00:44:46
+472,7556,posts/category/tags,GET,401,335,Rate Limit Attack,2026-03-30 13:47:35
+473,9048,categories/main/blog,PUT,404,1967,Normal,2026-01-27 08:14:33
+474,8306,wp-content/category/main,GET,500,3070,Rate Limit Attack,2026-01-30 08:42:47
+475,4328,tags/wp-content,DELETE,401,4010,Token Theft,2026-02-27 02:30:50
+476,5291,list,DELETE,403,2039,Normal,2026-03-15 19:35:35
+477,4968,category,POST,201,1274,Normal,2026-04-27 20:39:04
+478,9860,tag/app,GET,403,4492,Normal,2026-01-25 00:32:16
+479,6511,categories,POST,401,1727,Normal,2026-03-31 08:49:30
+480,8226,categories/posts,GET,500,4423,Token Theft,2026-02-23 04:43:56
+481,3521,tags/categories/main,POST,201,1013,Rate Limit Attack,2026-05-15 08:55:01
+482,4408,wp-content/list/main,DELETE,200,199,Normal,2026-02-04 12:43:27
+483,1075,explore,DELETE,400,34,Rate Limit Attack,2026-03-28 23:07:10
+484,3991,blog,DELETE,404,718,API Abuse,2026-02-13 22:58:04
+485,2322,explore/categories,POST,403,3781,Normal,2026-05-03 14:57:05
+486,3900,search/categories/main,DELETE,404,4473,Normal,2026-04-28 13:48:43
+487,2916,search,DELETE,400,1962,Rate Limit Attack,2026-01-11 04:29:32
+488,4393,tag/category/blog,POST,403,3424,Rate Limit Attack,2026-03-27 21:03:03
+489,3778,main,DELETE,403,2031,Normal,2026-04-28 15:08:00
+490,4677,category/category/wp-content,POST,403,3039,Normal,2026-04-09 08:36:45
+491,8091,tags,GET,201,3907,Rate Limit Attack,2026-02-12 02:47:33
+492,4600,category,DELETE,404,3533,Rate Limit Attack,2026-04-29 23:17:39
+493,3254,wp-content/category,POST,400,439,Rate Limit Attack,2026-04-19 03:57:23
+494,7875,list/list/category,DELETE,403,4001,Rate Limit Attack,2026-02-11 01:40:41
+495,1853,list,PUT,404,2485,Rate Limit Attack,2026-05-22 05:04:40
+496,3358,blog/posts/tags,DELETE,200,1685,Rate Limit Attack,2026-04-08 13:42:41
+497,3088,tag/explore/categories,GET,200,2854,Rate Limit Attack,2026-03-31 23:20:43
+498,2142,blog/main,POST,403,2527,Token Theft,2026-02-10 22:29:52
+499,1816,search,GET,500,2859,Rate Limit Attack,2026-01-01 01:53:32
+500,1707,categories/app,GET,500,491,Normal,2026-03-30 01:31:13
+501,1413,blog/list/blog,DELETE,400,824,API Abuse,2026-02-16 07:41:12
+502,9830,list,DELETE,404,3512,API Abuse,2026-03-04 18:03:11
+503,4098,tag/category,GET,201,4748,API Abuse,2026-03-11 18:39:53
+504,4740,posts,DELETE,403,4438,Token Theft,2026-01-18 03:11:28
+505,8036,wp-content/list,POST,403,3217,Normal,2026-03-09 01:09:45
+506,6355,tags,GET,404,4378,Token Theft,2026-04-10 10:54:16
+507,9170,blog/blog,GET,404,2460,Normal,2026-01-16 07:16:44
+508,4266,search/tag,POST,403,824,Token Theft,2026-05-05 16:21:14
+509,3613,list,PUT,401,2299,Token Theft,2026-03-08 00:03:16
+510,3988,posts/app,PUT,500,1196,Rate Limit Attack,2026-03-09 03:06:10
+511,9035,list/blog/category,DELETE,201,1069,Token Theft,2026-02-09 13:58:09
+512,4722,list/main,GET,400,3516,Rate Limit Attack,2026-01-30 16:02:10
+513,3237,category/main,GET,401,2728,API Abuse,2026-03-15 07:17:32
+514,8564,posts/explore,GET,500,558,Normal,2026-01-12 08:56:32
+515,5453,search/blog,DELETE,500,959,API Abuse,2026-05-26 12:21:56
+516,8886,list/app/search,GET,200,3733,Token Theft,2026-05-19 15:36:18
+517,3680,categories/search/tag,PUT,201,1060,Rate Limit Attack,2026-03-13 04:29:59
+518,8328,tags/category/blog,PUT,403,761,Token Theft,2026-04-22 00:22:59
+519,4085,category/search,DELETE,200,1655,Token Theft,2026-04-15 00:25:22
+520,6337,blog/category/tags,PUT,403,4992,Normal,2026-04-19 09:29:50
+521,9262,tag/search,POST,500,2861,API Abuse,2026-03-18 04:06:01
+522,3125,list,DELETE,500,879,Normal,2026-01-18 04:52:13
+523,5925,app/tags/search,PUT,200,2685,Token Theft,2026-05-03 01:50:58
+524,8455,blog,PUT,404,2524,Rate Limit Attack,2026-02-10 08:30:41
+525,3169,app,POST,403,562,Token Theft,2026-04-05 12:59:34
+526,7423,blog,GET,401,2316,Token Theft,2026-01-07 11:56:19
+527,1051,categories/tag,PUT,400,2075,Rate Limit Attack,2026-02-23 10:55:23
+528,1110,tags,POST,201,3416,Normal,2026-04-02 03:14:48
+529,4907,list/categories/category,DELETE,500,1487,Rate Limit Attack,2026-05-20 03:18:41
+530,2457,tag/wp-content,DELETE,500,4278,Rate Limit Attack,2026-01-25 23:13:42
+531,2456,category,GET,401,4697,Rate Limit Attack,2026-05-19 10:10:02
+532,5485,search/wp-content,POST,403,4748,API Abuse,2026-04-17 19:23:37
+533,7326,explore,PUT,200,4127,Rate Limit Attack,2026-05-11 12:49:57
+534,1508,explore,POST,500,2912,API Abuse,2026-01-29 20:08:56
+535,1740,categories/explore,GET,201,1365,Rate Limit Attack,2026-03-19 19:09:58
+536,3501,search/category,DELETE,404,1394,Token Theft,2026-05-26 07:58:17
+537,6185,category,GET,200,2241,Normal,2026-03-24 08:21:05
+538,4978,main,GET,400,862,Normal,2026-03-28 19:42:14
+539,3841,list/explore,DELETE,500,4616,Rate Limit Attack,2026-04-18 22:03:02
+540,1946,category/search/category,GET,201,4205,Normal,2026-05-03 12:00:33
+541,6963,categories/wp-content/list,POST,200,673,Normal,2026-04-01 23:20:14
+542,3934,app,DELETE,404,1376,Token Theft,2026-01-04 15:40:31
+543,2317,list,PUT,400,4452,API Abuse,2026-04-01 21:40:25
+544,1470,tag/list/wp-content,POST,403,1097,Rate Limit Attack,2026-03-18 13:21:40
+545,3486,explore/category,GET,401,1858,API Abuse,2026-02-18 16:16:28
+546,4557,categories/explore/explore,POST,200,2324,Token Theft,2026-03-23 03:15:24
+547,7274,category/list/explore,DELETE,403,3482,API Abuse,2026-03-27 00:16:34
+548,2151,wp-content/category/app,GET,201,3779,Normal,2026-02-25 13:10:27
+549,9681,tag/wp-content/main,DELETE,201,1285,Normal,2026-04-09 11:55:09
+550,8222,blog/explore/list,POST,401,50,Normal,2026-02-10 04:51:25
+551,3787,tag/explore,DELETE,200,3254,Token Theft,2026-01-10 20:35:21
+552,6425,main,POST,200,1414,Rate Limit Attack,2026-05-20 09:51:11
+553,5248,wp-content,POST,200,4177,Rate Limit Attack,2026-02-23 18:27:11
+554,3843,posts,DELETE,500,4425,Token Theft,2026-05-24 11:01:11
+555,3687,app,PUT,200,3029,Token Theft,2026-03-02 10:14:12
+556,2504,category/main,DELETE,200,2550,API Abuse,2026-02-11 22:25:57
+557,4119,wp-content,POST,401,4829,Token Theft,2026-01-08 10:50:56
+558,6882,search/explore/app,POST,401,4236,Normal,2026-03-15 17:58:33
+559,7143,wp-content/explore/list,DELETE,500,2925,Normal,2026-02-12 08:49:11
+560,1398,list/category/posts,GET,404,2197,API Abuse,2026-02-02 06:01:46
+561,6137,wp-content/tag/explore,DELETE,200,3771,Normal,2026-04-28 01:40:45
+562,2672,tag/wp-content/wp-content,DELETE,404,515,API Abuse,2026-01-25 15:40:12
+563,2519,explore/wp-content/category,POST,400,558,Rate Limit Attack,2026-05-02 17:55:27
+564,6842,blog/category,GET,400,1841,Token Theft,2026-03-12 01:07:56
+565,8488,tag/tag,POST,200,2202,API Abuse,2026-03-17 00:32:23
+566,2544,tag/search/categories,DELETE,403,917,Token Theft,2026-04-11 21:21:53
+567,9732,categories,DELETE,200,656,Token Theft,2026-03-23 19:41:28
+568,6915,main/blog/app,DELETE,400,531,Rate Limit Attack,2026-01-07 15:08:04
+569,3274,tag/tags/blog,POST,400,3116,Normal,2026-05-26 21:06:24
+570,5244,main,PUT,201,813,Rate Limit Attack,2026-05-04 23:01:23
+571,6466,blog/blog/wp-content,GET,201,710,Normal,2026-04-26 10:52:19
+572,5447,app/blog,GET,403,57,Normal,2026-05-12 02:22:47
+573,1838,search/blog,GET,403,3781,Rate Limit Attack,2026-01-03 06:28:15
+574,3302,category/list/app,POST,404,389,API Abuse,2026-04-06 08:07:31
+575,7974,tags/posts/wp-content,DELETE,401,4548,API Abuse,2026-04-30 21:44:52
+576,4217,list,POST,200,1076,Rate Limit Attack,2026-03-28 02:07:48
+577,9907,search/category,DELETE,200,4285,API Abuse,2026-02-23 18:03:46
+578,3971,wp-content/category,POST,500,1945,Normal,2026-03-18 06:05:57
+579,3883,main,GET,403,4785,API Abuse,2026-04-22 14:42:58
+580,6071,tag,GET,403,268,Rate Limit Attack,2026-02-04 05:02:26
+581,9073,search/tag/category,GET,201,249,Token Theft,2026-01-18 12:31:24
+582,8080,tag,POST,403,4321,Token Theft,2026-01-28 03:47:14
+583,3815,main/explore,DELETE,201,359,Token Theft,2026-04-26 14:11:53
+584,7825,blog/tag,DELETE,200,3078,Token Theft,2026-01-22 10:57:39
+585,6305,blog,POST,201,4157,Normal,2026-05-16 18:09:09
+586,6474,blog,DELETE,404,931,Rate Limit Attack,2026-04-13 19:50:47
+587,8805,explore/explore,GET,401,4660,Normal,2026-03-17 12:47:28
+588,3351,category/wp-content,DELETE,500,2703,API Abuse,2026-05-27 21:15:36
+589,8571,app/blog,GET,403,1555,Token Theft,2026-03-29 00:05:14
+590,2965,tag/search/app,GET,201,4372,Rate Limit Attack,2026-04-24 14:39:12
+591,5922,explore,GET,403,4352,API Abuse,2026-03-13 16:47:46
+592,2408,categories/category,POST,400,3230,Rate Limit Attack,2026-02-14 17:22:38
+593,1871,categories/tags/app,POST,400,4065,API Abuse,2026-05-05 02:42:38
+594,1025,posts/category,PUT,201,252,Token Theft,2026-01-06 07:48:43
+595,8206,posts/blog,POST,400,3367,Normal,2026-03-11 22:47:06
+596,5230,main,POST,400,2497,API Abuse,2026-01-23 07:40:08
+597,4563,search/list,GET,404,3403,Token Theft,2026-04-27 22:21:48
+598,6524,blog/wp-content/category,GET,401,2274,Normal,2026-02-16 00:23:42
+599,2634,blog/wp-content,GET,401,2011,Normal,2026-03-27 07:37:20
+600,7064,list/search,DELETE,400,3202,Normal,2026-03-21 14:37:19
+601,8237,search,POST,401,4344,API Abuse,2026-05-07 20:03:40
+602,1835,categories/app/main,GET,404,2052,Token Theft,2026-04-23 09:43:26
+603,8847,wp-content/posts,GET,200,3721,Token Theft,2026-05-03 13:26:28
+604,6091,app/main/explore,GET,403,1777,API Abuse,2026-01-15 16:35:51
+605,7480,categories,DELETE,201,4184,Rate Limit Attack,2026-04-09 09:07:43
+606,3277,tags/search/tags,PUT,400,2902,API Abuse,2026-01-08 18:35:50
+607,1558,app,POST,403,1438,Token Theft,2026-05-04 16:05:57
+608,8469,app/tag,DELETE,400,2499,Normal,2026-04-03 14:01:56
+609,9963,tag/categories,DELETE,403,763,Rate Limit Attack,2026-01-25 19:11:37
+610,5880,blog,POST,200,3037,API Abuse,2026-04-14 21:27:20
+611,6295,main,PUT,200,4563,API Abuse,2026-01-01 19:11:44
+612,2785,categories,POST,201,2683,Normal,2026-03-02 07:10:03
+613,2270,posts,POST,200,399,Token Theft,2026-02-02 01:28:59
+614,9350,posts/search/list,PUT,200,1355,Rate Limit Attack,2026-05-14 14:45:32
+615,2142,app/list,GET,403,179,Normal,2026-03-26 00:41:32
+616,9301,search/app/posts,POST,401,949,Normal,2026-03-22 13:46:15
+617,7761,explore,GET,404,4227,Token Theft,2026-02-19 18:28:17
+618,4745,blog/search,DELETE,200,165,Rate Limit Attack,2026-02-21 21:31:52
+619,9325,wp-content,GET,500,493,Rate Limit Attack,2026-01-15 00:57:18
+620,9936,posts,DELETE,401,4816,API Abuse,2026-03-16 03:18:40
+621,6653,wp-content/app/tags,GET,500,2037,API Abuse,2026-05-21 18:24:34
+622,4295,blog,DELETE,500,4900,Rate Limit Attack,2026-03-28 14:22:17
+623,3308,tags/category/tags,DELETE,400,4460,API Abuse,2026-01-13 19:34:38
+624,1622,category,GET,404,3521,Rate Limit Attack,2026-04-08 19:18:37
+625,9193,wp-content/main,POST,400,4647,API Abuse,2026-02-18 14:06:23
+626,9109,app,PUT,404,1334,API Abuse,2026-02-22 00:22:49
+627,8487,app,PUT,400,1375,API Abuse,2026-02-02 09:16:06
+628,5569,tags/search,GET,201,3536,Normal,2026-03-08 20:35:30
+629,7032,list,PUT,500,3748,Token Theft,2026-04-23 09:56:11
+630,3371,app/tag,DELETE,404,87,Token Theft,2026-01-09 20:50:20
+631,1823,tags,PUT,201,3816,Normal,2026-05-10 21:33:00
+632,7087,tags/posts,POST,403,2095,API Abuse,2026-04-07 20:15:43
+633,6591,app,DELETE,400,688,Rate Limit Attack,2026-02-14 22:54:05
+634,9081,main/categories,DELETE,403,2185,Rate Limit Attack,2026-01-31 20:36:16
+635,2220,posts,DELETE,200,2248,API Abuse,2026-05-24 03:11:20
+636,5388,posts/categories/main,PUT,500,4629,Token Theft,2026-02-22 23:05:53
+637,6697,tags,GET,401,3046,Token Theft,2026-04-09 20:00:46
+638,5426,search/app/blog,PUT,201,2487,Normal,2026-05-17 07:14:16
+639,9283,list/blog,PUT,200,1191,Normal,2026-05-27 23:32:06
+640,6948,search,PUT,201,1603,Token Theft,2026-05-10 05:30:15
+641,1753,categories,GET,201,1226,Normal,2026-03-07 06:39:04
+642,1842,tags,DELETE,401,3060,Normal,2026-02-07 08:06:11
+643,9165,categories,PUT,404,4845,Normal,2026-01-14 09:03:16
+644,6983,categories/main/list,GET,500,1244,Normal,2026-05-05 01:10:48
+645,3956,search/tag/list,POST,404,2803,Token Theft,2026-01-29 18:31:49
+646,4403,app/main,PUT,400,3716,API Abuse,2026-03-03 05:16:09
+647,9598,categories/main,DELETE,404,275,Token Theft,2026-04-05 09:13:49
+648,2747,tag,PUT,200,1595,API Abuse,2026-03-12 07:09:39
+649,6768,categories/tags,GET,403,1530,Rate Limit Attack,2026-03-02 09:00:34
+650,5583,tags/explore,GET,201,369,Rate Limit Attack,2026-05-05 03:06:06
+651,5083,tags/list,POST,401,4702,Normal,2026-03-18 07:01:00
+652,7040,tags/blog,PUT,201,1413,Rate Limit Attack,2026-04-18 11:23:28
+653,4577,list/explore,POST,403,3071,API Abuse,2026-03-30 03:14:04
+654,6964,app/posts/category,GET,403,4380,Rate Limit Attack,2026-01-07 14:36:38
+655,5638,wp-content/tags,DELETE,500,4361,Rate Limit Attack,2026-01-24 12:05:05
+656,5005,blog,POST,200,2060,Normal,2026-04-01 12:42:36
+657,5926,blog/tag,DELETE,201,2400,Rate Limit Attack,2026-01-22 02:04:01
+658,7795,posts/app,DELETE,201,1998,API Abuse,2026-02-18 21:04:03
+659,9918,categories,POST,401,3960,Rate Limit Attack,2026-03-24 05:38:32
+660,8488,blog/tag,DELETE,500,3857,Token Theft,2026-05-23 07:45:05
+661,3742,tags/posts/main,PUT,500,3748,Rate Limit Attack,2026-01-05 01:56:02
+662,5611,wp-content,POST,200,1643,Token Theft,2026-01-14 13:33:43
+663,2721,tag/tag,GET,403,4058,Rate Limit Attack,2026-01-12 09:56:04
+664,2116,categories,DELETE,201,2010,Token Theft,2026-05-19 02:03:38
+665,8573,main/list/main,DELETE,500,1524,Token Theft,2026-04-04 18:50:18
+666,5642,wp-content/main,DELETE,200,4213,Token Theft,2026-01-18 14:13:53
+667,1847,main,GET,403,1838,API Abuse,2026-04-22 02:22:32
+668,4472,tag/list/app,GET,201,724,Rate Limit Attack,2026-04-12 13:00:28
+669,3551,blog/posts,PUT,403,4101,Token Theft,2026-04-19 14:15:40
+670,7904,wp-content/posts,PUT,400,2966,Rate Limit Attack,2026-01-27 04:52:43
+671,3081,tags/categories/posts,DELETE,201,1671,Normal,2026-01-21 18:53:42
+672,1851,posts,DELETE,404,3139,Rate Limit Attack,2026-03-24 17:38:34
+673,9226,main,POST,404,55,Normal,2026-03-03 13:25:50
+674,6227,list/search/search,GET,401,3311,Rate Limit Attack,2026-01-29 19:39:08
+675,5275,list,PUT,403,3062,API Abuse,2026-01-02 05:38:21
+676,6166,categories,PUT,200,1812,Token Theft,2026-04-27 03:46:55
+677,1769,main,GET,403,2341,API Abuse,2026-03-17 08:14:03
+678,3252,tags,PUT,401,672,Normal,2026-03-13 17:10:52
+679,6922,list/tag/app,POST,403,4868,Token Theft,2026-05-20 00:13:20
+680,5307,tags/wp-content/explore,PUT,200,3090,Rate Limit Attack,2026-02-04 13:45:16
+681,9993,tags/categories/explore,PUT,500,4766,API Abuse,2026-03-02 09:45:30
+682,8264,main/tag/search,GET,200,3205,API Abuse,2026-05-17 16:34:01
+683,3922,search/search/search,GET,403,2235,Normal,2026-02-02 13:47:32
+684,3706,category/list,PUT,401,2221,Token Theft,2026-03-27 02:40:04
+685,2130,posts/tag/list,POST,200,4540,API Abuse,2026-03-29 18:29:40
+686,3532,tags,DELETE,404,2928,Rate Limit Attack,2026-02-09 01:17:40
+687,5290,posts/categories,PUT,401,1636,Normal,2026-03-15 04:13:53
+688,2741,wp-content,PUT,403,1802,Normal,2026-04-14 20:53:45
+689,1171,category,PUT,400,2514,Token Theft,2026-05-18 01:13:10
+690,6495,explore/tags/categories,PUT,401,552,Rate Limit Attack,2026-02-27 22:30:35
+691,3790,main,GET,401,1500,API Abuse,2026-02-06 22:32:29
+692,9637,search/list/main,DELETE,403,14,Normal,2026-04-07 02:47:17
+693,7691,category,DELETE,404,2202,API Abuse,2026-03-08 04:42:22
+694,5756,wp-content/app/list,PUT,201,2121,Token Theft,2026-05-06 12:57:21
+695,3753,app/categories,POST,404,1183,Rate Limit Attack,2026-04-29 15:45:43
+696,9536,tags,DELETE,201,543,Token Theft,2026-04-21 09:39:23
+697,6902,list/app/wp-content,PUT,200,2424,API Abuse,2026-05-03 07:50:46
+698,4224,tag,PUT,400,1737,Normal,2026-05-14 13:16:19
+699,6409,search/main/app,DELETE,403,3444,Normal,2026-05-13 13:12:05
+700,3966,main,GET,200,923,Token Theft,2026-04-09 15:53:04
+701,7768,explore/categories/tag,DELETE,403,3092,Token Theft,2026-05-16 09:52:12
+702,5802,posts/tag/wp-content,GET,403,1458,Token Theft,2026-03-20 19:43:59
+703,1178,tags/app/main,DELETE,404,2312,API Abuse,2026-05-13 12:29:23
+704,5267,search,POST,500,1157,Rate Limit Attack,2026-01-30 18:28:42
+705,8479,blog/blog,PUT,400,1879,Rate Limit Attack,2026-05-06 21:29:03
+706,4488,list,POST,401,2762,Normal,2026-01-19 22:58:11
+707,9928,explore/search/wp-content,DELETE,200,2408,Normal,2026-03-06 16:28:05
+708,9005,list/categories/category,PUT,400,4500,Normal,2026-03-24 13:36:53
+709,7193,search/main,DELETE,403,3616,API Abuse,2026-03-01 04:42:27
+710,3759,tags/posts/wp-content,DELETE,500,941,API Abuse,2026-04-17 05:05:46
+711,3936,category,POST,400,2428,Token Theft,2026-01-03 06:01:17
+712,4101,main/wp-content/list,POST,500,4508,API Abuse,2026-01-14 23:25:40
+713,3176,explore/blog,PUT,400,4396,Rate Limit Attack,2026-04-06 04:00:05
+714,8488,posts/categories/explore,DELETE,201,3553,API Abuse,2026-04-22 01:49:39
+715,7544,tag/app,PUT,200,2872,Token Theft,2026-02-15 03:27:01
+716,4431,posts/posts/posts,PUT,404,3459,API Abuse,2026-01-16 10:46:07
+717,9706,category/wp-content/posts,POST,403,48,API Abuse,2026-03-29 23:05:54
+718,2674,posts/category,DELETE,200,1916,Normal,2026-04-12 18:34:12
+719,4161,tags/explore/main,POST,403,2350,Rate Limit Attack,2026-02-26 21:14:23
+720,8853,category/app,PUT,201,4387,API Abuse,2026-02-10 03:39:19
+721,3848,posts/tags/main,POST,400,727,Token Theft,2026-02-28 16:52:07
+722,8187,explore,POST,403,154,API Abuse,2026-05-23 18:10:59
+723,7365,posts,DELETE,404,4824,API Abuse,2026-04-05 13:47:42
+724,4359,list/main,POST,500,2604,Normal,2026-04-06 15:45:50
+725,5181,category,PUT,400,1412,Token Theft,2026-03-02 07:37:51
+726,8499,category/category,GET,200,2896,API Abuse,2026-04-04 04:11:18
+727,6672,search/explore,PUT,400,1302,Rate Limit Attack,2026-04-27 18:42:57
+728,9588,blog/tag,PUT,404,4669,Token Theft,2026-02-07 22:55:44
+729,4282,categories,PUT,404,981,API Abuse,2026-03-18 10:37:56
+730,6399,app,GET,400,2432,Normal,2026-04-14 00:23:30
+731,1575,blog/posts/explore,POST,401,2646,Normal,2026-01-19 22:47:29
+732,6450,categories/tag,GET,500,2400,API Abuse,2026-02-10 01:00:00
+733,8079,main/categories,DELETE,401,4138,API Abuse,2026-01-26 14:00:15
+734,6797,wp-content,PUT,400,4964,Rate Limit Attack,2026-05-01 12:08:56
+735,3864,main/posts,PUT,401,4992,Rate Limit Attack,2026-02-10 00:22:50
+736,1583,tag/categories/tags,POST,404,4376,Rate Limit Attack,2026-05-21 06:57:59
+737,2300,category/app/list,DELETE,401,1803,Normal,2026-03-16 05:28:03
+738,1762,blog/explore/tag,PUT,400,2501,Normal,2026-04-22 20:05:16
+739,2126,category/wp-content/categories,PUT,500,2329,Rate Limit Attack,2026-02-21 13:29:19
+740,9760,categories,POST,500,564,API Abuse,2026-03-15 19:31:15
+741,4054,posts,DELETE,401,1694,Rate Limit Attack,2026-03-02 10:00:16
+742,5161,tags/list,PUT,201,4390,Token Theft,2026-03-17 08:54:52
+743,6906,tag/posts/posts,POST,201,4548,API Abuse,2026-03-06 06:27:56
+744,2773,wp-content/app/blog,POST,400,3849,API Abuse,2026-05-24 11:21:24
+745,5818,list/main/main,PUT,403,200,Token Theft,2026-01-22 05:54:00
+746,7452,explore/search,POST,200,3984,Normal,2026-02-07 18:42:52
+747,5452,list/posts,POST,401,3395,API Abuse,2026-01-10 09:10:42
+748,7157,explore/blog,POST,400,4969,Normal,2026-01-03 17:09:24
+749,2396,tags/tags/tag,POST,200,4466,Token Theft,2026-01-20 04:28:28
+750,3483,main,PUT,404,1871,Normal,2026-05-06 15:07:14
+751,4899,main/category,PUT,400,2345,API Abuse,2026-02-17 03:49:05
+752,9287,tags/search/list,DELETE,400,2850,Token Theft,2026-04-02 12:43:07
+753,1263,posts/categories,POST,200,1158,Rate Limit Attack,2026-05-12 12:58:24
+754,7570,tag/list/main,GET,500,642,Rate Limit Attack,2026-01-23 05:17:21
+755,9181,wp-content/tags,GET,403,1042,Rate Limit Attack,2026-03-19 06:01:38
+756,4170,app/blog,POST,200,4605,Normal,2026-05-04 23:12:32
+757,3276,posts/list,PUT,400,4153,Rate Limit Attack,2026-04-22 22:05:57
+758,8701,category,POST,200,3598,Token Theft,2026-04-14 06:18:20
+759,4946,tags/category/main,POST,401,1646,Rate Limit Attack,2026-05-05 21:51:13
+760,8211,tag/search/categories,PUT,404,4666,API Abuse,2026-02-16 05:07:51
+761,7264,list/wp-content,POST,401,685,Token Theft,2026-02-11 01:45:21
+762,1603,main,PUT,403,3025,Rate Limit Attack,2026-04-30 02:15:46
+763,2169,main/main,GET,500,2713,API Abuse,2026-03-30 19:40:51
+764,8430,search/search,POST,201,3750,API Abuse,2026-03-02 00:36:47
+765,4097,app/posts/wp-content,GET,201,2969,API Abuse,2026-02-22 13:30:52
+766,4580,tag/list,DELETE,401,862,Normal,2026-02-25 16:23:44
+767,7390,search,POST,200,115,API Abuse,2026-03-23 07:57:03
+768,4031,tags/blog,POST,500,3746,API Abuse,2026-05-14 11:41:10
+769,3752,app/wp-content/posts,GET,500,1551,Normal,2026-03-15 14:11:22
+770,2149,posts/explore/list,PUT,500,3472,Rate Limit Attack,2026-03-15 17:42:10
+771,8301,categories,GET,400,58,Token Theft,2026-03-12 12:37:50
+772,9870,main/wp-content/tags,POST,401,52,API Abuse,2026-02-22 01:04:13
+773,7504,explore/main,POST,200,2149,Normal,2026-01-18 17:25:32
+774,4972,posts/blog/posts,PUT,500,4468,Token Theft,2026-01-20 07:23:03
+775,4085,categories/wp-content,DELETE,404,1797,Rate Limit Attack,2026-01-19 09:40:45
+776,2587,list,GET,403,1217,Token Theft,2026-05-17 23:29:10
+777,3753,posts/wp-content/posts,GET,404,4974,Token Theft,2026-05-11 05:54:47
+778,5415,category,DELETE,401,4092,Token Theft,2026-01-02 22:03:01
+779,4450,main/wp-content/tags,GET,200,3215,Token Theft,2026-04-20 05:12:16
+780,8347,category,POST,401,4383,Normal,2026-04-09 20:16:02
+781,4102,wp-content,POST,200,4224,Normal,2026-03-05 09:27:00
+782,3919,main/explore,DELETE,404,3502,Token Theft,2026-03-09 19:04:21
+783,6839,category/categories/tag,PUT,400,3509,Rate Limit Attack,2026-04-01 04:22:12
+784,6649,categories/categories/main,GET,403,4943,Normal,2026-04-13 07:18:01
+785,1676,search/tags,POST,200,2695,Rate Limit Attack,2026-04-12 12:10:21
+786,7760,wp-content/categories,PUT,500,35,Token Theft,2026-04-09 09:53:29
+787,7677,main/app/app,PUT,201,1858,Token Theft,2026-03-29 07:56:07
+788,7924,search/explore/category,DELETE,401,3555,Normal,2026-04-07 12:43:43
+789,1829,categories/tag/explore,POST,201,4961,Normal,2026-01-02 08:29:47
+790,9302,tag/categories/app,DELETE,400,16,Token Theft,2026-01-23 21:18:52
+791,3286,tag,PUT,403,4651,Token Theft,2026-02-02 22:23:54
+792,7553,blog/posts/categories,DELETE,201,3706,Token Theft,2026-01-24 03:13:37
+793,1769,blog/explore/search,PUT,400,4569,Normal,2026-05-10 00:35:01
+794,6106,explore,GET,401,749,Rate Limit Attack,2026-03-28 20:09:53
+795,3601,tags,PUT,201,3877,API Abuse,2026-02-01 11:24:26
+796,8883,list,PUT,500,3115,Token Theft,2026-05-04 16:58:41
+797,2181,app/tag,GET,403,2182,Token Theft,2026-04-21 02:21:24
+798,9933,categories/category/app,GET,401,933,Rate Limit Attack,2026-05-18 23:47:32
+799,5558,categories,PUT,201,632,Rate Limit Attack,2026-02-13 15:55:38
+800,6965,wp-content,DELETE,404,2260,API Abuse,2026-01-16 08:05:26
+801,9319,categories/categories/explore,DELETE,403,4430,Token Theft,2026-04-07 07:29:36
+802,2778,main/tag/wp-content,GET,200,1073,Rate Limit Attack,2026-02-18 20:55:28
+803,6576,main/main/tag,PUT,403,192,Normal,2026-05-16 11:30:59
+804,1141,posts,GET,401,1352,Rate Limit Attack,2026-02-10 09:52:26
+805,8268,main/tag,POST,201,3574,Normal,2026-02-28 14:43:48
+806,8038,main/tag,DELETE,500,4534,Token Theft,2026-04-27 14:52:08
+807,7786,search,PUT,403,2945,API Abuse,2026-01-19 01:17:47
+808,9270,tag,GET,400,4187,Token Theft,2026-04-23 11:23:01
+809,1723,wp-content,POST,500,3231,Normal,2026-01-11 14:39:56
+810,6912,category/blog,GET,403,1998,API Abuse,2026-02-18 22:37:33
+811,3343,category/app/search,POST,403,1862,Normal,2026-04-26 11:53:00
+812,1551,tags/main/categories,GET,200,2898,Normal,2026-02-25 07:16:56
+813,8516,list,DELETE,401,1883,API Abuse,2026-02-28 16:53:05
+814,1976,app,POST,201,1784,API Abuse,2026-01-17 05:16:25
+815,6757,list/list,GET,401,2941,API Abuse,2026-04-08 00:38:32
+816,8019,app/category,POST,400,4901,Normal,2026-04-24 15:55:17
+817,4530,blog,DELETE,201,4212,API Abuse,2026-02-22 14:21:53
+818,6218,posts/posts,DELETE,401,2050,Token Theft,2026-03-08 10:04:05
+819,1147,tag/wp-content/list,PUT,400,1749,Token Theft,2026-04-25 22:01:28
+820,2067,posts/category/posts,GET,201,1545,Token Theft,2026-02-27 11:07:49
+821,1958,tag/posts,POST,403,3038,Rate Limit Attack,2026-01-08 08:45:22
+822,6316,posts,PUT,500,2420,Token Theft,2026-01-10 22:44:42
+823,6595,app/category/search,DELETE,404,2163,API Abuse,2026-05-02 05:21:16
+824,1419,wp-content/tags,POST,403,4499,Token Theft,2026-04-28 15:09:34
+825,1272,explore/wp-content,PUT,400,660,Token Theft,2026-05-09 15:37:13
+826,7510,tags,PUT,200,1463,Normal,2026-02-02 00:34:09
+827,3646,posts,DELETE,404,3089,Rate Limit Attack,2026-04-10 10:52:11
+828,6119,category,DELETE,400,2649,Normal,2026-05-18 07:53:51
+829,9729,categories,POST,403,3766,Token Theft,2026-02-22 12:01:08
+830,7587,main/posts,GET,201,4202,Rate Limit Attack,2026-04-04 01:06:54
+831,7573,list/wp-content/categories,POST,400,2462,Normal,2026-05-11 23:15:11
+832,1706,main/wp-content,GET,500,576,Rate Limit Attack,2026-04-07 17:41:30
+833,6537,blog,POST,403,3819,Rate Limit Attack,2026-02-16 09:59:37
+834,5276,posts/blog/wp-content,GET,404,4730,Rate Limit Attack,2026-02-18 07:12:40
+835,6664,tag/category/wp-content,PUT,200,1040,Token Theft,2026-05-03 13:20:23
+836,2638,list,DELETE,403,1211,Rate Limit Attack,2026-05-18 05:08:41
+837,2553,tags/posts/category,PUT,500,4837,API Abuse,2026-05-17 13:48:48
+838,1295,wp-content/main/list,DELETE,400,585,Rate Limit Attack,2026-01-07 14:39:02
+839,6758,tags,PUT,200,974,Normal,2026-03-25 20:43:37
+840,7706,list/main,POST,200,2231,API Abuse,2026-05-13 11:11:09
+841,4139,main/tag/blog,DELETE,401,2710,API Abuse,2026-02-08 12:31:21
+842,6692,wp-content,POST,500,3597,Token Theft,2026-02-17 05:35:42
+843,7331,search/app,POST,201,4185,Rate Limit Attack,2026-04-14 22:45:25
+844,8656,categories,GET,401,3661,Normal,2026-04-04 14:03:21
+845,2381,app,POST,201,1972,Token Theft,2026-02-26 19:56:41
+846,3115,explore,GET,500,2871,API Abuse,2026-01-01 04:11:01
+847,8090,list,PUT,201,4651,Normal,2026-05-25 20:05:08
+848,1501,categories/categories/tags,POST,404,3299,API Abuse,2026-01-04 17:52:02
+849,5100,app/tag,GET,401,2264,Rate Limit Attack,2026-05-21 01:02:02
+850,7432,main,POST,401,3704,Token Theft,2026-05-18 19:22:57
+851,7240,app/explore,PUT,500,88,API Abuse,2026-03-27 15:54:38
+852,5461,tags,DELETE,403,837,Normal,2026-04-19 09:34:30
+853,1375,tags,PUT,403,1837,Rate Limit Attack,2026-03-24 17:34:49
+854,8936,explore/list/explore,GET,401,4470,Token Theft,2026-03-26 06:14:14
+855,5090,categories,PUT,400,1292,Token Theft,2026-05-07 22:06:57
+856,6552,search/categories/wp-content,DELETE,500,2347,API Abuse,2026-01-09 16:26:14
+857,9415,tags,POST,401,1293,Normal,2026-01-19 08:31:40
+858,2528,tags/wp-content,GET,201,230,API Abuse,2026-04-25 06:48:22
+859,5104,posts/tag,POST,400,3621,Normal,2026-05-21 03:14:10
+860,9462,wp-content,POST,201,829,Normal,2026-04-17 10:52:45
+861,7619,blog/blog/tag,PUT,403,302,API Abuse,2026-02-25 18:31:40
+862,7770,main,GET,401,1478,Token Theft,2026-05-03 10:09:50
+863,3881,main,DELETE,200,1237,Token Theft,2026-01-22 15:14:45
+864,6564,search/list/explore,POST,200,3148,Token Theft,2026-01-29 05:53:31
+865,8865,tag/tags/app,PUT,201,1422,Normal,2026-05-17 00:44:38
+866,8131,category/blog/wp-content,GET,500,4527,API Abuse,2026-01-06 18:35:32
+867,2419,tag/categories,GET,400,4393,Normal,2026-05-24 10:57:32
+868,1505,main,DELETE,201,572,Rate Limit Attack,2026-01-27 00:02:25
+869,2251,tags/main,PUT,201,1480,Token Theft,2026-03-09 14:54:20
+870,6931,tag/explore/tag,POST,404,4303,Token Theft,2026-02-05 23:00:42
+871,4606,tags,GET,400,1919,API Abuse,2026-01-11 15:33:18
+872,9013,blog/posts,PUT,403,4478,Rate Limit Attack,2026-02-05 23:31:15
+873,1097,app/tags/category,POST,400,2184,Rate Limit Attack,2026-04-10 21:41:42
+874,3958,search,GET,401,1528,Token Theft,2026-05-28 01:17:57
+875,4051,explore,PUT,403,4703,Rate Limit Attack,2026-03-21 10:30:16
+876,4312,blog/list,POST,403,3975,Token Theft,2026-01-26 17:02:28
+877,4547,main/list/explore,DELETE,401,4499,Normal,2026-04-13 15:05:17
+878,2732,explore/list,POST,400,4666,Rate Limit Attack,2026-04-12 22:29:43
+879,4250,wp-content/explore,PUT,403,1929,Token Theft,2026-02-08 21:47:36
+880,5909,category/main/app,POST,401,991,API Abuse,2026-03-04 03:36:14
+881,6225,app/posts/posts,DELETE,403,2660,API Abuse,2026-03-24 05:36:44
+882,7956,wp-content/list,PUT,500,3489,Normal,2026-02-07 10:01:44
+883,2124,tags/explore/app,DELETE,401,358,API Abuse,2026-01-03 11:20:00
+884,3180,blog/tags,PUT,500,2814,Token Theft,2026-01-03 00:49:58
+885,5916,list,POST,403,581,API Abuse,2026-04-12 03:14:56
+886,9243,main,DELETE,500,2306,API Abuse,2026-01-23 20:12:05
+887,5765,app/wp-content/tag,DELETE,500,773,Rate Limit Attack,2026-04-05 10:13:27
+888,7823,list/app,DELETE,200,1685,Rate Limit Attack,2026-04-24 05:28:29
+889,3538,list/search,PUT,200,4007,Rate Limit Attack,2026-04-01 02:16:33
+890,7504,app/app/search,PUT,401,554,API Abuse,2026-01-07 00:57:30
+891,5044,explore/category,GET,401,3840,API Abuse,2026-05-12 16:43:43
+892,6426,app/category,PUT,201,1249,Normal,2026-04-14 03:46:46
+893,5512,explore/app,PUT,500,1817,Normal,2026-04-30 12:55:34
+894,8427,main/search,GET,403,1476,Token Theft,2026-05-22 10:07:28
+895,4024,category,GET,403,4718,API Abuse,2026-01-28 01:33:39
+896,3341,tag,DELETE,500,3013,Normal,2026-04-07 12:56:30
+897,4155,list/search/blog,GET,404,2507,API Abuse,2026-02-27 12:17:05
+898,8423,category,GET,400,1557,Token Theft,2026-01-24 21:20:25
+899,7586,app,DELETE,500,3665,Normal,2026-02-27 06:05:28
+900,3548,wp-content,GET,400,1783,Rate Limit Attack,2026-01-09 23:02:46
+901,3959,explore/app/category,GET,404,1031,Normal,2026-01-11 06:32:17
+902,7116,app,DELETE,401,1046,Token Theft,2026-04-09 12:39:54
+903,8682,posts/list,DELETE,403,2093,API Abuse,2026-02-26 09:10:26
+904,6990,list,PUT,200,388,Rate Limit Attack,2026-05-19 19:55:29
+905,4420,posts,PUT,500,4759,Rate Limit Attack,2026-03-22 22:13:00
+906,2914,category,PUT,404,3996,Rate Limit Attack,2026-02-26 00:46:45
+907,1801,categories,PUT,403,4309,Normal,2026-01-31 16:59:12
+908,6275,tags,GET,500,2443,Rate Limit Attack,2026-05-19 00:36:41
+909,9213,posts/explore,GET,403,223,Token Theft,2026-01-15 08:29:09
+910,7873,posts/categories/tags,POST,401,13,API Abuse,2026-05-16 03:47:53
+911,3224,explore/category/category,DELETE,401,2741,Rate Limit Attack,2026-01-02 04:23:52
+912,4991,main/app/blog,POST,201,1308,Rate Limit Attack,2026-02-12 23:34:04
+913,7892,search/list,DELETE,403,1522,Rate Limit Attack,2026-04-22 11:38:32
+914,8072,blog/tags/list,PUT,403,4993,Normal,2026-04-03 20:23:03
+915,2637,app,PUT,401,4798,Token Theft,2026-02-15 01:43:02
+916,9166,tags/tags,GET,401,54,Rate Limit Attack,2026-01-14 14:55:57
+917,8593,category,PUT,500,3123,API Abuse,2026-03-16 22:09:20
+918,6707,explore,DELETE,401,4106,Token Theft,2026-03-05 07:53:44
+919,2021,tags,POST,200,4971,API Abuse,2026-03-26 17:33:44
+920,3386,tag,PUT,400,4080,Token Theft,2026-02-11 17:31:41
+921,1169,explore/search,POST,401,2792,API Abuse,2026-01-29 02:53:13
+922,3072,wp-content/wp-content/blog,PUT,401,3052,Rate Limit Attack,2026-01-13 03:47:49
+923,5965,tag/blog/categories,PUT,400,990,Normal,2026-05-27 19:19:38
+924,9844,posts/explore,POST,201,1164,API Abuse,2026-03-05 15:25:52
+925,4958,app/tags,POST,401,805,API Abuse,2026-04-17 16:41:09
+926,7451,category/list,PUT,200,2155,API Abuse,2026-02-12 02:17:02
+927,4031,app/category,PUT,200,4836,Token Theft,2026-03-15 12:20:21
+928,6108,wp-content/main/explore,GET,404,4353,Rate Limit Attack,2026-04-21 09:56:06
+929,4085,app/app,PUT,200,3025,Rate Limit Attack,2026-01-04 12:35:33
+930,3901,blog,DELETE,500,3148,Token Theft,2026-01-05 21:44:47
+931,9395,category/explore,POST,404,3377,API Abuse,2026-02-19 11:58:20
+932,9159,blog/app,PUT,500,469,Rate Limit Attack,2026-05-11 22:13:12
+933,3661,tag/list,PUT,200,2889,Token Theft,2026-03-28 05:58:49
+934,1514,main/tags,PUT,401,740,API Abuse,2026-05-21 17:38:31
+935,8438,posts/categories/tag,DELETE,200,2347,Token Theft,2026-02-22 22:55:13
+936,2534,app/tag/tag,DELETE,403,3363,Rate Limit Attack,2026-05-17 17:48:54
+937,9637,categories/main/wp-content,PUT,400,4003,API Abuse,2026-02-07 14:20:34
+938,7739,tag,POST,404,553,Token Theft,2026-04-13 23:48:57
+939,3627,categories/tag,PUT,201,410,Rate Limit Attack,2026-02-14 03:52:01
+940,1561,app,PUT,400,2691,Token Theft,2026-05-04 02:27:35
+941,6078,main,PUT,500,2621,API Abuse,2026-01-17 05:00:31
+942,5749,blog,GET,400,2371,Normal,2026-05-26 22:56:48
+943,1866,explore/list/search,GET,201,1875,Rate Limit Attack,2026-04-19 23:08:41
+944,5974,wp-content/blog/posts,DELETE,200,821,Normal,2026-04-29 19:14:42
+945,7793,tags,POST,404,3011,Normal,2026-04-28 18:17:20
+946,7822,category/tag,POST,400,2779,Rate Limit Attack,2026-01-02 15:51:55
+947,5159,main/wp-content,PUT,401,35,Normal,2026-05-25 11:27:01
+948,4021,wp-content/blog/categories,POST,401,1755,Token Theft,2026-01-06 05:04:21
+949,1418,app,PUT,200,3773,Token Theft,2026-03-25 01:10:32
+950,9077,categories,DELETE,400,1029,Token Theft,2026-01-11 15:01:44
+951,2514,categories,GET,400,1195,API Abuse,2026-02-22 08:43:05
+952,4270,tag/search,PUT,403,4790,API Abuse,2026-05-26 14:09:01
+953,6406,search/wp-content,POST,400,3420,Rate Limit Attack,2026-01-02 00:28:12
+954,3817,explore,POST,200,563,API Abuse,2026-03-10 18:55:44
+955,8591,wp-content,DELETE,403,3920,Rate Limit Attack,2026-04-01 05:28:30
+956,1505,main/wp-content,DELETE,201,4138,Normal,2026-05-10 18:12:14
+957,9045,tag/blog/explore,PUT,404,1334,Normal,2026-01-05 02:48:21
+958,8289,tag,POST,500,4604,Token Theft,2026-05-04 14:16:27
+959,7452,explore/posts,POST,400,1096,Token Theft,2026-03-26 06:23:18
+960,3403,categories,PUT,200,15,Normal,2026-02-01 06:52:28
+961,7731,category,DELETE,403,1761,Token Theft,2026-04-14 07:04:29
+962,8133,app/tag,POST,400,3477,API Abuse,2026-05-05 15:52:24
+963,4099,category/list/posts,DELETE,400,4433,Rate Limit Attack,2026-02-23 11:11:12
+964,9236,search,PUT,500,400,Normal,2026-02-04 01:46:55
+965,6498,blog,PUT,400,1157,Token Theft,2026-03-16 03:54:28
+966,7486,category/wp-content,GET,400,4612,Token Theft,2026-05-16 22:47:47
+967,7967,explore,GET,201,1141,Normal,2026-04-15 08:10:36
+968,2633,explore/categories/category,POST,201,4281,Rate Limit Attack,2026-01-26 02:38:07
+969,1270,posts/category/category,DELETE,404,2413,Rate Limit Attack,2026-02-16 06:19:30
+970,7324,explore,PUT,201,1099,Token Theft,2026-03-01 08:43:12
+971,4931,posts,DELETE,201,3193,API Abuse,2026-04-19 21:04:08
+972,6128,posts/categories,POST,400,1238,Rate Limit Attack,2026-04-29 11:02:16
+973,6791,wp-content/tag/tag,DELETE,500,2728,Normal,2026-03-27 17:10:10
+974,6400,search,GET,401,3875,Rate Limit Attack,2026-03-01 21:26:48
+975,2627,explore/app,POST,200,245,Normal,2026-04-13 03:12:19
+976,3503,tag/wp-content/app,PUT,403,4527,Normal,2026-03-26 21:12:53
+977,5925,tag/list/posts,DELETE,404,4649,Token Theft,2026-01-10 21:57:33
+978,6823,app/tag,GET,404,2936,Token Theft,2026-01-04 22:38:04
+979,8115,explore/tag/main,DELETE,200,2822,API Abuse,2026-04-26 11:02:07
+980,4001,category/posts/category,POST,401,3218,Rate Limit Attack,2026-04-07 10:57:38
+981,2867,explore,POST,200,1793,Normal,2026-02-21 03:36:56
+982,3904,posts,POST,401,1157,Normal,2026-02-28 18:25:50
+983,2736,blog,PUT,403,4821,Rate Limit Attack,2026-01-02 18:33:29
+984,3242,tags/wp-content/posts,PUT,404,2284,Normal,2026-03-26 12:50:09
+985,8381,category/tag/tags,PUT,200,2926,API Abuse,2026-01-18 15:51:40
+986,4385,tags/blog,PUT,401,2899,API Abuse,2026-04-21 20:25:45
+987,7592,blog/main,DELETE,500,3229,API Abuse,2026-03-28 20:22:32
+988,6712,app,GET,403,4215,Token Theft,2026-03-21 10:38:48
+989,6273,search,PUT,500,2267,API Abuse,2026-02-05 07:18:11
+990,9371,posts,POST,403,763,Normal,2026-03-25 11:14:57
+991,3621,list,DELETE,404,773,Token Theft,2026-01-02 22:40:45
+992,9233,tags/tags,POST,400,436,Token Theft,2026-02-06 01:37:10
+993,1840,list,GET,201,3785,Token Theft,2026-02-11 10:48:20
+994,6734,explore,PUT,403,1036,API Abuse,2026-05-14 09:10:11
+995,5985,category/explore,PUT,401,95,API Abuse,2026-04-19 14:27:40
+996,4167,explore,GET,200,3144,Rate Limit Attack,2026-01-09 20:37:52
+997,7741,wp-content/tags/app,PUT,403,1727,Rate Limit Attack,2026-01-31 14:49:39
+998,7639,wp-content/app,GET,403,2524,Rate Limit Attack,2026-05-04 02:00:08
+999,7966,app,GET,404,4212,Token Theft,2026-02-01 20:23:34
+1000,6195,tags/tags/search,GET,201,1553,Token Theft,2026-05-11 16:51:11
